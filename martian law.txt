@@ -8,7 +8,8 @@ Article 001: The Supreme Status and Amendment Thresholds
 * This foundational text is declared absolute, true, and just. It stands as the supreme framework for all life within the Martian zone of influence.
 
 The Removal Threshold:
-* Altering, repealing, or removing any existing portion of this Constitution requires an 80% supermajority vote of all eligible voters across the entire colony. A failure to cast a ballot counts as a automatic vote for rejection. If 21% or more of the electorate does not show up to vote, the proposed removal is defeated for a period of 100 Martial years.
+* Altering, repealing, or removing any existing portion of this Constitution requires an 80% supermajority vote of all eligible voters across the entire colony. A failure to cast a ballot counts as a automatic vote for rejection.
+ If 21% or more of the electorate does not show up to vote, the proposed removal is defeated for a period of 100 Martial years.
 
 The Addition Threshold:
 * Introducing additional rights or new articles requires a 75% supermajority vote under the exact same calculation rules. Every single eligible voter must be counted in the baseline total.
@@ -28,7 +29,8 @@ To ensure absolute clarity and prevent the over-regulation of private life, the 
 
 * The Presumption of Legality: Any action, choice, or conduct that is not explicitly banned or restricted by this Constitution or its active statutes is completely legal. The state shall never prosecute a citizen for an act that has not been clearly codified as a crime.
 
-* The Categorical Safety Exceptions: The presumption of legality does not apply to categories explicitly locked down by the state for colony survival. Any item or process falling under a blanket ban—specifically unauthorized mind-altering substances (Article 2001), projectile or explosive weaponry (Article 301), and unauthorized biological or hazardous materials (Article 1902)—is automatically prohibited unless explicitly permitted on the state ledger.
+* The Categorical Safety Exceptions: The presumption of legality does not apply to categories explicitly locked down by the state for colony survival. Any item or process falling under a blanket ban—specifically unauthorized mind-altering substances (Article 2001), projectile or explosive weaponry (Article 301),
+ and unauthorized biological or hazardous materials (Article 1902)—is automatically prohibited unless explicitly permitted on the state ledger.
 
 * The Irrelevance of Demographics: Because survival requires the maximum utility of every capable individual, traits such as race (whether human or non-human sapient species), ethnicity, biological sex are non-existent concepts to the state. They are completely irrelevant to a citizen’s legal rights, duties, or standing.
 
@@ -46,9 +48,11 @@ The Martian state retains an absolute, non-negotiable monopoly on the administra
 Article 006: The Directing Principle of Crimes and Retribution
 To ensure the judiciary applies punishments with absolute consistency, the state codifies the foundational organizing principle behind all criminal classification:
 
-Attacks on the Individual: Hostile acts, disputes, or offenses directed strictly against an individual citizen—such as minor assaults, personal brawls, or localized theft—are classified as lesser infractions. Unless these acts become systemic, habitual, or predatory, they are restricted to Tier 1 and Tier 2 physical or institutional corrections. The state will not expand capital resources on private, non-existential grievances.
+Attacks on the Individual: Hostile acts, disputes, or offenses directed strictly against an individual citizen—such as minor assaults, personal brawls, or localized theft—are classified as lesser infractions. Unless these acts become systemic, habitual, or predatory, they are restricted to Tier 1 and Tier 2 physical or
+institutional corrections. The state will not expand capital resources on private, non-existential grievances.
 
-Attacks on the State and Collective Survival: Any offense that attacks the structure, security, credibility, fidelity, or long-term viability of the state—or harms its people by proxy—is classified as a high crime against collective survival. This principle dictates why crimes like public corruption or drug trafficking bypass lesser sanctions entirely: they erode the social contract, sabotage state legitimacy, and introduce systemic vulnerabilities that could adversely affect the population for generations.
+Attacks on the State and Collective Survival: Any offense that attacks the structure, security, credibility, fidelity, or long-term viability of the state—or harms its people by proxy—is classified as a high crime against collective survival. This principle dictates why crimes like public corruption or drug trafficking bypass 
+lesser sanctions entirely: they erode the social contract, sabotage state legitimacy, and introduce systemic vulnerabilities that could adversely affect the population for generations.
 
 The Three-Tier Penal Structure
 The organizing principle dictates three rigid, non-negotiable tiers of criminal retribution based strictly on the target and systemic impact of the offense:
@@ -67,11 +71,14 @@ Retribution: Mandatory capital punishment executed via exile through the primary
 
 Post-Deputization Accountability and Fraudulent Intent Clause
 
-* The Mandatory Post-Action Investigation: If this Constitution ever activates a supreme mandate that deputizes any or all citizens to neutralize an existential threat against itself (such as under the Article 2708 shadow-agency purge), the state shall launch a deep, exhaustive, and thorough forensic investigation into every single action taken by the public once stability is restored.
+* The Mandatory Post-Action Investigation: If this Constitution ever activates a supreme mandate that deputizes any or all citizens to neutralize an existential threat against itself (such as under the Article 2708 shadow-agency purge), the state shall launch a deep, exhaustive, and thorough forensic investigation into every single action 
+taken by the public once stability is restored.
 
-* The Good-Faith False Positive Standard: If a citizen mistakes a set of circumstances for an active constitutional violation, identifies a false positive, and carries out a terminal execution, they shall face a strict tribunal. If the investigation proves the citizen honestly, reasonably, and demonstrably believed they were acting in good faith for the absolute protection of the public interest, they shall be spared Tier 3 execution. Instead, they shall receive a minimum of a Tier 1 automated lashing or, at worst, a Tier 2 forearm branding depending on the severity of their error.
+* The Good-Faith False Positive Standard: If a citizen mistakes a set of circumstances for an active constitutional violation, identifies a false positive, and carries out a terminal execution, they shall face a strict tribunal. If the investigation proves the citizen honestly, reasonably, and demonstrably believed they were acting in good 
+faith for the absolute protection of the public interest, they shall be spared Tier 3 execution. Instead, they shall receive a minimum of a Tier 1 automated lashing or, at worst, a Tier 2 forearm branding depending on the severity of their error.
 
-* The Fraudulent Pretext Penalty: If any citizen maliciously attempts to exploit a public deputization event as a protective shield to commit unauthorized murder, settle personal vendettas, or hide criminal intent to avoid justice, they shall be stripped of all legal defense. They shall be permanently branded as a traitor to the state and executed under the mandatory capital provisions of Tier 3.
+* The Fraudulent Pretext Penalty: If any citizen maliciously attempts to exploit a public deputization event as a protective shield to commit unauthorized murder, settle personal vendettas, or hide criminal intent to avoid justice, they shall be stripped of all legal defense. They shall be permanently branded as a traitor to the state and 
+executed under the mandatory capital provisions of Tier 3.
 
 
 
@@ -94,12 +101,14 @@ Citizens must meet all the following criteria to run for public office:
 Article 103: The Doctrine of Civic Burden
 Governance is legally classified as a heavy civic burden, not a privilege. Elected officials shall receive no luxury bonuses, specialized rations, or elevated social status. Only people who can vote can serve. Elected officals are public servants first, leaders second.
 
-* Trust and Fidelity Alignment: In accordance with the guiding principles of Article 006, any elected official who uses their position for personal enrichment or corporate favor commits a Tier 3 High Crime. Because they are servants entrusted with the survival of the collective, any breach of that trust erodes the foundational credibility of the state and shall be met with absolute retribution
+* Trust and Fidelity Alignment: In accordance with the guiding principles of Article 006, any elected official who uses their position for personal enrichment or corporate favor commits a Tier 3 High Crime. Because they are servants entrusted with the survival of the collective, any breach of that trust erodes the foundational credibility 
+of the state and shall be met with absolute retribution
 
 Article 104: Electoral Integrity, Secret Ballots, and Voting Protections
 To safeguard the foundational democratic process and maintain the absolute fidelity of the state, all public elections shall be conducted using uncompromising, high-integrity physical standards:
 
-* The Universal Voting Expectation: All currently eligible voters are expected to participate in regular Martian Council elections. No entity, manager, or employer shall under any circumstance bar, delay, or penalize a worker for exercising their right to vote. In exchange, the state shall strictly organize election cycles to fall upon standard rest days to prevent labor disruptions.
+* The Universal Voting Expectation: All currently eligible voters are expected to participate in regular Martian Council elections. No entity, manager, or employer shall under any circumstance bar, delay, or penalize a worker for exercising their right to vote. In exchange, the state shall strictly organize election cycles to fall upon 
+standard rest days to prevent labor disruptions.
 
 * The Paper Ballot Mandate: Voting shall be performed exclusively via physical ink-on-paper ballots (or equivalents). The use of digital systems, automated voting machines, or network-connected terminals is entirely prohibited to eliminate the risk of systemic electronic rigging or software manipulation
 
@@ -107,15 +116,19 @@ To safeguard the foundational democratic process and maintain the absolute fidel
 
 * The Anonymity Protocol: To guarantee absolute secrecy, the voter shall place their marked paper ballot inside a completely non-distinct inner slip or envelope. This inner container shall then be deposited directly into a locked, untampered master ballot chest
 
-* The Voting Booth Sanctuary: The immediate polling station and voting booth are declared absolute sanctuaries of free choice.No entity shall coerce, intimidate, or attempt to influence a voter at their place of voting. Attempting to manipulate a voter at the booth constitutes a direct act of political sabotage and an erosion of public trust, classified as a mandatory Tier 3 High Crime or considered act of war where relevant.
+* The Voting Booth Sanctuary: The immediate polling station and voting booth are declared absolute sanctuaries of free choice.No entity shall coerce, intimidate, or attempt to influence a voter at their place of voting. Attempting to manipulate a voter at the booth constitutes a direct act of political sabotage and an erosion of public 
+trust, classified as a mandatory Tier 3 High Crime or considered act of war where relevant.
 
 * The Adversarial Counting Committee: Once voting concludes, ballots shall be counted by an electoral committee comprised directly of opposing political candidates or their verified, designated representatives. This ensures a transparent, adversarial system where each faction actively audits the other.
 
-* The Absolute Accountability Lock: At any point, time, and location, the absolute integrity of the vote must be actively safeguarded by all personnel working at the voting center. If the forensic count reveals even a single discrepancy between the physical number of paper ballots cast and the number of voter registration sign-offs on the secure ledger, the entire ballot lot from that location is legally compromised. The lot shall be thrown out and securely destroyed immediately, and a mandatory re-vote shall be scheduled at the next open opportunity.
+* The Absolute Accountability Lock: At any point, time, and location, the absolute integrity of the vote must be actively safeguarded by all personnel working at the voting center. If the forensic count reveals even a single discrepancy between the physical number of paper ballots cast and the number of voter registration sign-offs on the 
+secure ledger, the entire ballot lot from that location is legally compromised. The lot shall be thrown out and securely destroyed immediately, and a mandatory re-vote shall be scheduled at the next open opportunity.
 
-* Slip Invalidation and Defacement: The specific voting standard agreed upon by the state shall be rigidly enforced. Any ballot that is defaced, contains multiple marks where not permitted, or features marking indicators placed in a non-permissible configuration is legally invalidated, and shall be placed in a sparate pile for the final forensic counting.
+* Slip Invalidation and Defacement: The specific voting standard agreed upon by the state shall be rigidly enforced. Any ballot that is defaced, contains multiple marks where not permitted, or features marking indicators placed in a non-permissible configuration is legally invalidated, and shall be placed in a sparate pile for the final 
+forensic counting.
 
-* Electoral Interference and Terminal Sanctions: Any deliberate attempt to manipulate election outcomes at the voting center—including, but not limited to, ballot-box stuffing, the unauthorized insertion of slips, intentional miscounting, or structural tampering with the ledger—constitutes an existential threat to the colony. It is classified as a Tier 3 High Crime, carrying the mandatory capital execution penalty.
+* Electoral Interference and Terminal Sanctions: Any deliberate attempt to manipulate election outcomes at the voting center—including, but not limited to, ballot-box stuffing, the unauthorized insertion of slips, intentional miscounting, or structural tampering with the ledger—constitutes an existential threat to the colony. It is 
+classified as a Tier 3 High Crime, carrying the mandatory capital execution penalty.
 
 
 ===============================================================================
@@ -141,7 +154,8 @@ Until Mars possesses a naturally breathable atmosphere, the colony will not wast
 
 Article 203: Economic and Institutional Shunning Protocol
 When a person or legal entity is sentenced to institutional shunning, they are not completely barred from conducting business or interacting with the state. Instead, they are subjected to a strict 10-Martian-year economic restriction:
- * The Competitor Mandate: State agencies and public offices must actively avoid doing business with the shunned entity. If any viable, competing alternative exists on the market, the alternative must be chosen automatically.The 20% Evaluation Threshold: The state may only break this protocol and deal with a shunned entity if the entity's goods or services are more than 20% cheaper or 20% better in absolute, objectively measurable terms compared to all competitors.
+ * The Competitor Mandate: State agencies and public offices must actively avoid doing business with the shunned entity. If any viable, competing alternative exists on the market, the alternative must be chosen automatically.The 20% Evaluation Threshold: The state may only break this protocol and deal with a shunned entity if the 
+ entity's goods or services are more than 20% cheaper or 20% better in absolute, objectively measurable terms compared to all competitors.
  * Duration: This punitive economic restriction remains actively enforced for a non-negotiable period of exactly 10 Martian years
 
 Article 204: Execution of Corporal Punishment and Criminal Markings
@@ -151,7 +165,8 @@ The physical delivery of state-sanctioned discipline must follow precise, standa
 
 *To completely eliminate human bias, zealotry, or variance in physical strength, lashings shall be executed via automated machines, resource and technology levels permitting. The precise volume and kinetic force of the lashings are strictly determined by the sentencing courts under Title XIII.
 
-*Marking Design and Intent: Permanent markings must use a highly distinct, universally recognized shape that communicates the crime at a glance. Because the state expects and encourages offenders to reform their behavior, these markings are placed on the inside of the left forearm where they can be modestly hidden by everyday clothing during regular social interaction.
+*Marking Design and Intent: Permanent markings must use a highly distinct, universally recognized shape that communicates the crime at a glance. Because the state expects and encourages offenders to reform their behavior, these markings are placed on the inside of the left forearm where they can be modestly hidden by everyday clothing 
+during regular social interaction.
 
 *Inspection Rights: State marshals, law enforcement officers, and authorized public officials maintain the absolute legal right to demand a physical inspection of a citizen's marking locations at any time.
 
@@ -165,10 +180,12 @@ TITLE III: SECURITY AND ENVIRONMENTAL PROTECTION
 
 Article 301: Projectile Weapon Ban
 The unauthorized possession, manufacture, or import of projectile firearms, kinetic ballistics, or explosive weaponry by any civilian, corporation, or private entity is strictly illegal
-*The Military Exception: This restriction applies strictly to non-state entities. The state military and authorized state defense forces are explicitly permitted to manufacture, store, and utilize projectile and explosive weaponry. These weapon systems are recognized as necessary tools for planetary defense and the enforcement of state sovereignty.
+*The Military Exception: This restriction applies strictly to non-state entities. The state military and authorized state defense forces are explicitly permitted to manufacture, store, and utilize projectile and explosive weaponry. These weapon systems are recognized as necessary tools for planetary defense and the enforcement of state 
+sovereignty.
 * Justification: Any hull puncture causes immediate decompression and catastrophic loss of life.
 
-*Storage and Safe Zoning: In accordance with the hazardous research standards of Title XIX, all state-owned manufacturing facilities, weapon depots, and live-fire military testing ranges for projectile systems must be isolated completely outside core civilian habitation modules. They must be located at the designated safe perimeter as designated under Title XIX
+*Storage and Safe Zoning: In accordance with the hazardous research standards of Title XIX, all state-owned manufacturing facilities, weapon depots, and live-fire military testing ranges for projectile systems must be isolated completely outside core civilian habitation modules. They must be located at the designated safe perimeter as 
+designated under Title XIX
 
 * Duration: The absolute ban on civilian possession and private manufacturing remains active until the Martian atmosphere is certified by state experts as fully breathable.
 
@@ -341,7 +358,8 @@ Serious offenses that fall just below the threshold of capital punishment shall 
 
 * The Three-Strike Rule: This permanent marker serves as a direct public warning. Receiving a third brand triggers automatic escalation to capital punishment (Exile via airlock under Article 202).
 
-* The Maturity Exemption: To protect developing minds, branding is strictly prohibited on any individual below the age of 25 Earth years. Minor offenders under 25 (Earth years) shall instead receive standard corporal punishment or reduced institutional shunning to 2 years. If possible education on the nature of the crime commited and it's short and long term consequences on the collective. This sole exception doesn't not shield from the consequences of Tier 3 crimes.
+* The Maturity Exemption: To protect developing minds, branding is strictly prohibited on any individual below the age of 25 Earth years. Minor offenders under 25 (Earth years) shall instead receive standard corporal punishment or reduced institutional shunning to 2 years. If possible education on the nature of the crime commited and 
+it's short and long term consequences on the collective. This sole exception doesn't not shield from the consequences of Tier 3 crimes.
 
 ===============================================================================
 TITLE XIV: INTELLECTUAL PROPERTY AND MARKET INNOVATION
@@ -360,7 +378,8 @@ To determine if a modification is a "minor tweak," a temporary evaluation commit
 
 * Strict Neutrality: Committee members must have zero direct or indirect connection to the trademark registrant. They must have no history of employment with the registrant and no familial ties.
 
-* Total Communication Blackout: Members are legally prohibited from communicating with any outside party regarding the case during and for a publicly undisclosed period following the deliberation. Any outside individual attempting to contact a committee member shall be immediately prosecuted for public corruption under Article 201. Internal communication between the three members is permitted.
+* Total Communication Blackout: Members are legally prohibited from communicating with any outside party regarding the case during and for a publicly undisclosed period following the deliberation. Any outside individual attempting to contact a committee member shall be immediately prosecuted for public corruption under Article 201. 
+Internal communication between the three members is permitted.
 
 * Hazard Pay: Committee members shall receive five times their baseline professional salary for the duration of the deliberation.
 
@@ -404,7 +423,8 @@ The colony state is the sole central bank. It maintains an absolute monopoly on 
 
 * The Capital Subversion Penalty: Any attempt by any entity to subvert state currency, print counterfeit notes, or establish a competing central bank constitutes an existential threat to the colony and carries an immediate sentence of execution.
 
-* The Citizen Purge Provision: Because currency manipulation can starve a colony, currency tracking is a transparent public utility. If systemic monetary corruption is uncovered, members of the general public are legally deputized to bypass standard bureaucracy and execute the corrupt apparatus root and stem. This is classified as both a supreme civic right and an absolute survival responsibility.
+* The Citizen Purge Provision: Because currency manipulation can starve a colony, currency tracking is a transparent public utility. If systemic monetary corruption is uncovered, members of the general public are legally deputized to bypass standard bureaucracy and execute the corrupt apparatus root and stem. This is classified as 
+both a supreme civic right and an absolute survival responsibility.
 
 ===============================================================================
 TITLE XVI: SOVEREIGN DEBT AND ANTI-CAPTURE MEASURES
@@ -462,19 +482,24 @@ Every citizen and legal entity bears an absolute responsibility to protect the c
 * Accidental Markings: While pure accidents are recognized as separate from intentional sabotage, a verified accident resulting from severe carelessness carries an immediate permanent physical brand under Article 1303 as a public indicator of liability.
 
 Article 1803: Forever Chemical Prohibition
-The deployment or utilization of industrial processes that results in "forever chemical" contamination (e.g., PFAS) planetside is strictly prohibited. Regardless of expected contamination, any use of such materials is prohibited without state permit. Unauthorized use, manufacture, storage, transport, or deployment of such materials constitutes an act of treason..
+The deployment or utilization of industrial processes that results in "forever chemical" contamination (e.g., PFAS) planetside is strictly prohibited. Regardless of expected contamination, any use of such materials is prohibited without state permit. Unauthorized use, manufacture, storage, transport, or deployment of such materials 
+constitutes an act of treason..
 
 Article 1804: Biological Contamination, Engineering Fraud, and Critical Safety Sabotage
 
-* The Biological Terrorism Provision: Any individual who knowingly and intentionally spreads a pathogen, virus, parasite, biological contaminant, or other communicable hazard for the purpose of infecting, harming, weakening, or destabilizing the population shall be guilty of both terrorism and high treason. Conviction carries the mandatory capital punishment prescribed under Article 201.
+* The Biological Terrorism Provision: Any individual who knowingly and intentionally spreads a pathogen, virus, parasite, biological contaminant, or other communicable hazard for the purpose of infecting, harming, weakening, or destabilizing the population shall be guilty of both terrorism and high treason. Conviction carries the mandatory 
+capital punishment prescribed under Article 201.
 
 * Ordinary Illness Exception: A citizen who unknowingly carries an illness, or who continues ordinary daily activities while reasonably believing their condition to be minor or non-contagious, shall not be prosecuted under this article. The state recognizes that disease may spread through ordinary human error without criminal intent.
 
-* The Engineering Integrity Mandate: Any engineer, inspector, technician, scientist, contractor, executive, or public official who knowingly falsifies, conceals, alters, destroys, or fabricates records relating to life-critical infrastructure, safety inspections, environmental controls, pressure systems, radiation shielding, life-support equipment, transportation systems, or other critical colony systems shall be guilty of high treason.
+* The Engineering Integrity Mandate: Any engineer, inspector, technician, scientist, contractor, executive, or public official who knowingly falsifies, conceals, alters, destroys, or fabricates records relating to life-critical infrastructure, safety inspections, environmental controls, pressure systems, radiation shielding, life-support 
+equipment, transportation systems, or other critical colony systems shall be guilty of high treason.
 
-* The Corruption Presumption: Where critical safety records have been knowingly falsified, investigators shall thoroughly examine all involved parties for evidence of bribery, corruption, coercion, favoritism, financial inducement, or other improper influence. Any proven corruption shall be prosecuted under the colony's anti-corruption statutes.
+* The Corruption Presumption: Where critical safety records have been knowingly falsified, investigators shall thoroughly examine all involved parties for evidence of bribery, corruption, coercion, favoritism, financial inducement, or other improper influence. Any proven corruption shall be prosecuted under the colony's anti-corruption 
+statutes.
 
-* The Reckless Endangerment Provision: A person whose gross negligence, reckless disregard for established safety procedures, or willful indifference creates a substantial risk of catastrophic loss of life, environmental contamination, or critical infrastructure failure shall receive permanent criminal marking under Article 1303 and any additional penalties prescribed by law.
+* The Reckless Endangerment Provision: A person whose gross negligence, reckless disregard for established safety procedures, or willful indifference creates a substantial risk of catastrophic loss of life, environmental contamination, or critical infrastructure failure shall receive permanent criminal marking under Article 1303 and any 
+additional penalties prescribed by law.
 
 * The Ambiguity Doctrine: Where the available evidence cannot conclusively distinguish between gross negligence and deliberate sabotage, courts and interpretation juries shall prioritize the protection of the colony, thus the offense shall be prosecuted as terrorism, treason, or both.
 
@@ -483,25 +508,54 @@ Article 1804: Biological Contamination, Engineering Fraud, and Critical Safety S
 TITLE XIX: HAZARDOUS RESEARCH AND RESTRICTED MATERIALS
 ===============================================================================
 
-Article 1901: Geographic Isolation of Hazardous ScienceResearch into demonstrably dangerous materials, volatile compounds, or unstable elements is heavily restricted and requires an explicit state mandate.Zoning Restriction: Authorized hazardous research facilities must be located entirely away from core civilian infrastructure, preferably isolated at the Martian poles or at a distance requiring weeks of overland travel at a steady, straight-line speed of 100 km/h.Global Threats: The research or development of any technology capable of altering the planet-wide environment in an uncontrollable manner is unconstitutional and strictly barred.Article 1902: Weapons and Biological Research ProhibitionsGain-of-Function Prohibition: Gain-of-function biological research, viral engineering, or pathogen manipulation by any non-state entity or private corporation is strictly illegal and classified as high treason.Weapons of Mass Destruction: Research, development, production, or storage of chemical weapons or nuclear munitions by any non-state agent carries an immediate capital sentence via Article 202.Article 1903: Supreme State Monopolies and ProhibitionsThe state retains the absolute, non-negotiable right to safeguard the colony by declaring a public monopoly over any category of goods, materials, or services at any time, for any reason, or for no publicly stated reason. The state may ban, restrict, or confiscate any asset deemed an immediate hazard to collective survival.
+Article 1901: Geographic Isolation of Hazardous ScienceResearch into demonstrably dangerous materials, volatile compounds, or unstable elements is heavily restricted and requires an explicit state mandate.Zoning Restriction: Authorized hazardous research facilities must be located entirely away from core civilian infrastructure, 
+preferably isolated at the Martian poles or at a distance requiring weeks of overland travel at a steady, straight-line speed of 100 km/h.Global Threats: The research or development of any technology capable of altering the planet-wide environment in an uncontrollable manner is unconstitutional and strictly barred.
+Article 1902: Weapons and Biological Research ProhibitionsGain-of-Function Prohibition:
+Gain-of-function biological research, viral engineering, or pathogen manipulation by any non-state entity or private corporation is strictly illegal and classified as high treason.
+Weapons of Mass Destruction: Research, development, production, or storage of chemical weapons or nuclear munitions by any non-state agent carries an immediate capital sentence via Article 202.
+Article 1903: Supreme State Monopolies and Prohibitions
+The state retains the absolute, non-negotiable right to safeguard the colony by declaring a public monopoly over any category of goods, materials, or services at any time, for any reason, or for no publicly stated reason. The state may ban, restrict, or confiscate any asset deemed an immediate hazard to collective survival.
 
 ===============================================================================
 TITLE XX: REGULATION OF MIND-ALTERING SUBSTANCES
 ===============================================================================
 
-Article 2001: Classification of SubstancesTo maintain absolute societal focus, productivity, and safety in a high-risk environment, the state enforces a strict zero-tolerance policy against unauthorized mind-altering substances. Substances are divided into two explicit categories:Authorized Substances: Legally permitted substances are strictly limited to verified medical pain relief, caffeine, and tobacco. These must be registered on a publicly accessible state ledger.Prohibited Substances: All substances not explicitly listed as authorized—including but not limited to crack, cocaine, heroin, and synthetic hallucinogens—are completely banned from public import, manufacture, distribution, and possession. The colony will not suffer addicts acting out.Article 2002: The Blanket ProhibitionAny newly discovered, imported, or synthesized mind-altering substance is automatically classified as highly illegal until it is formally evaluated, approved, and added to the public ledger by the state. Unauthorized distribution of any prohibited substance carries the mandatory capital punishment outlined in Article 201 (Exile via airlock).Article 2003: Clinical Medical ExceptionsLicensed medical doctors and authorized physicians are permitted to administer otherwise prohibited chemical substances to patients, subject to strict regulatory conditions:Clinical Justification: The substance must be used strictly for definitive medical treatment, surgery, or palliative care.Good-Faith Mandate: The medical professional must implement an explicit, documented, good-faith treatment plan to curb, manage, and actively prevent chemical dependency or addiction in the patient.Malpractice Penalty: Any doctor found distributing these substances outside of strict ethical guidelines or intentionally fostering addiction for personal or financial gain shall be stripped of their title, lose their legal shielding, and be prosecuted for drug trafficking.
+Article 2001: Classification of SubstancesTo maintain absolute societal focus, productivity, and safety in a high-risk environment, the state enforces a strict zero-tolerance policy against unauthorized mind-altering substances. Substances are divided into two explicit categories:
+* Authorized Substances: Legally permitted substances are strictly limited to verified medical pain relief, caffeine, and tobacco. These must be registered on a publicly accessible state ledger.
+
+* Prohibited Substances: All substances not explicitly listed as authorized—including but not limited to crack, cocaine, heroin, and synthetic hallucinogens—are completely banned from public import, manufacture, distribution, and possession. The colony will not suffer addicts acting out.
+
+Article 2002: The Blanket Prohibition
+Any newly discovered, imported, or synthesized mind-altering substance is automatically classified as highly illegal until it is formally evaluated, approved, and added to the public ledger by the state.
+Unauthorized distribution of any prohibited substance carries the mandatory capital punishment outlined in Article 201 (Exile via airlock).
+
+Article 2003: Clinical Medical Exceptions
+
+Licensed medical doctors and authorized physicians are permitted to administer otherwise prohibited chemical substances to patients, subject to strict regulatory conditions:
+* Clinical Justification: The substance must be used strictly for definitive medical treatment, surgery, or palliative care.
+
+* Good-Faith Mandate: The medical professional must implement an explicit, documented, good-faith treatment plan to curb, manage, and actively prevent chemical dependency or addiction in the patient.
+
+* Malpractice Penalty: Any doctor found distributing these substances outside of strict ethical guidelines or intentionally fostering addiction for personal or financial gain shall be stripped of their title, lose their legal shielding, and be prosecuted for drug trafficking.
 
 ===============================================================================
 TITLE XXI: IMMIGRATION, VISITATION, AND EXTRATERRITORIAL JURISDICTION
 ===============================================================================
 
-Article 2101: The Martian Oath of ConformityEvery immigrant, visitor, and transient traveler entering the Martian zone of influence must read, fully understand, and swear a binding legal oath to uphold the Martian Constitution and its codes of conduct. No individual shall clear port customs without executing this affirmation.Article 2102: Entry Ineligibility CriteriaThe state denies entry to any foreign national or immigrant possessing a criminal history that mirrors a capital offense under Article 201. The colony will not import individuals with histories of murder, sexual assault, crimes against minors, high-level corruption, terrorism, or drug trafficking.Article 2103: Abolition of Diplomatic ImmunityAll visitors, corporate agents, and foreign dignitaries are subject to the absolute jurisdiction of Martian law.The
+Article 2101: The Martian Oath of Conformity
+Every immigrant, visitor, and transient traveler entering the Martian zone of influence must read, fully understand, and swear a binding legal oath to uphold the Martian Constitution and its codes of conduct. No individual shall clear port customs without executing this affirmation.
 
-Absolute Mandate: The concept of diplomatic immunity is entirely abolished within the Martian zone of influence.
+Article 2102: Entry Ineligibility Criteria
+The state denies entry to any foreign national or immigrant possessing a criminal history that mirrors a capital offense under Article 201. The colony will not import individuals with histories of such offences.
+
+Article 2103: Abolition of Diplomatic Immunity
+All visitors, corporate agents, and foreign dignitaries are subject to the absolute jurisdiction of Martian law.
+
+* The Absolute Mandate: The concept of diplomatic immunity is entirely abolished within the Martian zone of influence.
 Enforcement: Every person, vehicle, and entity entering Martian territory must follow the law exactly, without exception, compromise, or political deferment.
 
-
-Article 2104: Non-Citizen Minor Offenses and Trans-Orbital DeportationTo maintain a distinct jurisdictional boundary between Martian citizens and foreign nationals, the enforcement of non-capital, minor offenses committed by visitors or immigrants shall follow a separate correctional protocol:
+Article 2104: Non-Citizen Minor Offenses and Trans-Orbital Deportation
+To maintain a distinct jurisdictional boundary between Martian citizens and foreign nationals, the enforcement of non-capital, minor offenses committed by visitors or immigrants shall follow a separate correctional protocol:
 
 *The Immunity from Physical Sanction: Foreign entities, travelers, or temporary immigrants who commit a minor offense that does not warrant immediate capital execution under Article 201 shall be strictly exempt from state-sanctioned corporal punishment, public lashings, and permanent criminal branding. The state will not expend its judicial markers or physical resources on non-citizens.
 
@@ -511,9 +565,9 @@ Article 2104: Non-Citizen Minor Offenses and Trans-Orbital DeportationTo maintai
 
 *The Next Available Craft Rule: If the offender's primary vessel is incapacitated, unavailable, or lacks life-support capabilities for an immediate return trajectory, they shall be securely detained and transferred to the very first suitable outbound transport vehicle leaving the Martian zone of influence.
 
-===============================================================================
-TITLE XXII: PRIVACY OF HOME, PERSON, AND DATA
-===============================================================================
+                                                                                                                ===============================================================================
+                                                                                                                                TITLE XXII: PRIVACY OF HOME, PERSON, AND DATA
+                                                                                                                ===============================================================================
 
 Article 2201: The Inviolable Right to PrivacyEvery citizen possesses an absolute right to privacy within their home and personal life. A citizen's habitat modules, physical belongings, personal items, digital data, network storage, and physical person are entirely secure against arbitrary state intrusion physical, digital, or otherwise.Article 2202: Warrant and Notification StandardsThe state, law enforcement, or corporate inspectors are strictly prohibited from entering, searching, or monitoring any private domain without a specific, legally executed judicial mandate.The Delivery Rule: The legal mandate must be served directly to the recipient before or at the latest at the immediate moment physical or digital entry into the living space occurs.The Public Interest Exception: If a court formally rules that advance notification directly compromises public safety or a live life-support emergency, service of the warrant may be delayed.Article 2203: Forensic Spoliation and TreasonIf an individual or entity is served a legal search mandate, they must preserve all relevant systems. If subsequent forensic analysis proves the deliberate destruction, wiping, or physical disposal of evidence related to the alleged crime, the law establishes an automatic legal presumption of high treason. The perpetrator shall be prosecuted under Article 201 and face immediate exile.
 
@@ -534,9 +588,9 @@ To protect the colony from foreign intelligence infiltration, industrial espiona
 
 **The Intentional Sale Clause: Any corporate entity or executive caught deliberately bypassing this article to traffic consumer data or sell information to foreign interests or cartels commits a Tier 3 High Crime. This is classified as a direct act of systemic sabotage against public trust, carrying the mandatory capital execution penalty (Airlock or public hanging) alongside the absolute dissolution of the company.
 
-===============================================================================
-TITLE XXIII: LABOR PROTECTION AND WORKERS' RIGHTS
-===============================================================================
+                                                                                                                ===============================================================================
+                                                                                                                                TITLE XXIII: LABOR PROTECTION AND WORKERS' RIGHTS
+                                                                                                                ===============================================================================
 
 Article 2301: Termination Standards and Severance
 * The Baseline Notice: Every full-time employment contract requires a baseline termination notice period of two Martian months.The Tenure Rule: For every complete Martian year of full-time employment, the mandatory notice period increases by one additional Martian month.
