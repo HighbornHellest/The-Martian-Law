@@ -449,27 +449,34 @@ All financial market trades, transactions, and order executions must be performe
 TITLE XVIII: MATERIAL STANDARDS AND ENVIRONMENTAL PROTECTION
 ===============================================================================
 
-Article 1801: The Iron Alloy Mandate
-Because petrochemical plastics (such as PET) and refined glass represent structural resource bottlenecks on Mars, manufacturing must prioritize raw durability.Material Priority: Industrial and consumer packaging, storage vessels, bottles, and cups must be manufactured from highly recyclable iron alloys wherever structurally feasible.Sustainability Standard: All manufactured items must optimize for infinite reusability and mechanical recycling to conserve closed-loop colony elements.
+Article 1801: The Alloy Mandate
+Because petrochemical plastics and refined glass represent structural resource bottlenecks on Mars, manufacturing must prioritize raw durability.
+
+* Material Priority: Industrial and consumer packaging, storage vessels, bottles, and cups must be manufactured from highly recyclable alloys wherever structurally feasible.
+
+* Sustainability Standard: All manufactured items must optimize for infinite reusability and mechanical recycling to conserve closed-loop colony elements.
+
 Article 1802: Life-Critical Environmental Negligence
 Every citizen and legal entity bears an absolute responsibility to protect the closed ecosystem. Harming, contaminating, or adversely affecting the breathable atmosphere, airable soil, water reserves, food supply, or life-critical colony equipment due to negligence, greed, or personal ineptitude is legally classified as high treason.
-Accidental Markings: While pure accidents are recognized as separate from intentional sabotage, a verified accident resulting from severe carelessness carries an immediate permanent physical brand under Article 1303 as a public indicator of liability.
+
+* Accidental Markings: While pure accidents are recognized as separate from intentional sabotage, a verified accident resulting from severe carelessness carries an immediate permanent physical brand under Article 1303 as a public indicator of liability.
+
 Article 1803: Forever Chemical Prohibition
-The deployment or utilization of industrial processes that result in "forever chemical" contamination (e.g., PFAS) within or outside the colony perimeter is strictly prohibited without state permit. Engaging in unauthorized contaminant-producing processes constitutes an act of treason.
+The deployment or utilization of industrial processes that results in "forever chemical" contamination (e.g., PFAS) planetside is strictly prohibited. Regardless of expected contamination, any use of such materials is prohibited without state permit. Unauthorized use, manufacture, storage, transport, or deployment of such materials constitutes an act of treason..
 
 Article 1804: Biological Contamination, Engineering Fraud, and Critical Safety Sabotage
 
-*The Biological Terrorism Provision:* Any individual who knowingly and intentionally spreads a pathogen, virus, parasite, biological contaminant, or other communicable hazard for the purpose of infecting, harming, weakening, or destabilizing the population shall be guilty of both terrorism and high treason. Conviction carries the mandatory capital punishment prescribed under Article 201.
+* The Biological Terrorism Provision: Any individual who knowingly and intentionally spreads a pathogen, virus, parasite, biological contaminant, or other communicable hazard for the purpose of infecting, harming, weakening, or destabilizing the population shall be guilty of both terrorism and high treason. Conviction carries the mandatory capital punishment prescribed under Article 201.
 
-*Ordinary Illness Exception:* A citizen who unknowingly carries an illness, or who continues ordinary daily activities while reasonably believing their condition to be minor or non-contagious, shall not be prosecuted under this article. The state recognizes that disease may spread through ordinary human error without criminal intent.
+* Ordinary Illness Exception: A citizen who unknowingly carries an illness, or who continues ordinary daily activities while reasonably believing their condition to be minor or non-contagious, shall not be prosecuted under this article. The state recognizes that disease may spread through ordinary human error without criminal intent.
 
-*The Engineering Integrity Mandate:* Any engineer, inspector, technician, scientist, contractor, executive, or public official who knowingly falsifies, conceals, alters, destroys, or fabricates records relating to life-critical infrastructure, safety inspections, environmental controls, pressure systems, radiation shielding, life-support equipment, transportation systems, or other critical colony systems shall be guilty of high treason.
+* The Engineering Integrity Mandate: Any engineer, inspector, technician, scientist, contractor, executive, or public official who knowingly falsifies, conceals, alters, destroys, or fabricates records relating to life-critical infrastructure, safety inspections, environmental controls, pressure systems, radiation shielding, life-support equipment, transportation systems, or other critical colony systems shall be guilty of high treason.
 
-*The Corruption Presumption:* Where critical safety records have been knowingly falsified, investigators shall thoroughly examine all involved parties for evidence of bribery, corruption, coercion, favoritism, financial inducement, or other improper influence. Any proven corruption shall be prosecuted under the colony's anti-corruption statutes.
+* The Corruption Presumption: Where critical safety records have been knowingly falsified, investigators shall thoroughly examine all involved parties for evidence of bribery, corruption, coercion, favoritism, financial inducement, or other improper influence. Any proven corruption shall be prosecuted under the colony's anti-corruption statutes.
 
-*The Reckless Endangerment Provision:* A person whose gross negligence, reckless disregard for established safety procedures, or willful indifference creates a substantial risk of catastrophic loss of life, environmental contamination, or critical infrastructure failure shall receive permanent criminal marking under Article 1303 and any additional penalties prescribed by law.
+* The Reckless Endangerment Provision: A person whose gross negligence, reckless disregard for established safety procedures, or willful indifference creates a substantial risk of catastrophic loss of life, environmental contamination, or critical infrastructure failure shall receive permanent criminal marking under Article 1303 and any additional penalties prescribed by law.
 
-*The Ambiguity Doctrine:* Where the available evidence cannot conclusively distinguish between gross negligence and deliberate sabotage, courts and interpretation juries shall prioritize the protection of the colony, thus the offense may be prosecuted as terrorism, treason, or both.
+* The Ambiguity Doctrine: Where the available evidence cannot conclusively distinguish between gross negligence and deliberate sabotage, courts and interpretation juries shall prioritize the protection of the colony, thus the offense shall be prosecuted as terrorism, treason, or both.
 
 
 ===============================================================================
