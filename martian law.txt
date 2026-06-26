@@ -5,15 +5,19 @@ Title 0: SUPREME CONSTITUTIONAL FOUNDATION AND RATIFICATION
 ===============================================================================
 
 Article 001: The Supreme Status and Amendment Thresholds
-This foundational text is declared absolute, true, and just. It stands as the supreme framework for all life within the Martian zone of influence.
+* This foundational text is declared absolute, true, and just. It stands as the supreme framework for all life within the Martian zone of influence.
 
-The Removal Threshold: Altering, repealing, or removing any existing portion of this Constitution requires an 80% supermajority vote of all eligible voters across the entire colony. A failure to cast a ballot counts as a automatic vote for rejection. If 21% or more of the electorate does not show up to vote, the proposed removal is defeated for a period of 100 Martial years.
+The Removal Threshold:
+* Altering, repealing, or removing any existing portion of this Constitution requires an 80% supermajority vote of all eligible voters across the entire colony. A failure to cast a ballot counts as a automatic vote for rejection. If 21% or more of the electorate does not show up to vote, the proposed removal is defeated for a period of 100 Martial years.
 
-The Addition Threshold: Introducing additional rights or new articles requires a 75% supermajority vote under the exact same calculation rules. Every single eligible voter must be counted in the baseline total.
+The Addition Threshold:
+* Introducing additional rights or new articles requires a 75% supermajority vote under the exact same calculation rules. Every single eligible voter must be counted in the baseline total.
 
-Article 002: Calendar SynchronizationAll legal timelines, dates, notice periods, and operational durations dictated throughout this entire Constitution are based strictly on the Martian calendar unless a specific statute explicitly defines the measurement in Earth years.
+Article 002: Calendar Synchronization
+* All legal timelines, dates, notice periods, and operational durations dictated throughout this entire Constitution are based strictly on the Martian calendar unless a specific statute explicitly defines the measurement in Earth years.
 
-Article 003: The Citizen's Binding Oath and DutyUpon reaching the legal voting age of 30 (or age of 30 for military candidacy alignment), every single citizen must read, fully comprehend, and swear a binding legal oath to the state.
+Article 003: The Citizen's Binding Oath and Duty
+* Upon reaching the legal voting age of 30 (or age of 20 for military candidacy alignment), every single citizen must read, fully comprehend, and swear a binding legal oath to the state.
 
 The Good-Faith Mandate: Citizens swear to uphold the Constitution and its code of conduct in good faith to the absolute best of their physical and mental abilities.
 
@@ -22,22 +26,22 @@ The Reporting Requirement: This oath establishes a direct legal responsibility t
 Article 004: The Presumption of Legality and Universal Irrelevance
 To ensure absolute clarity and prevent the over-regulation of private life, the state establishes the baseline rule of personal freedom:
 
--The Presumption of Legality: Any action, choice, or conduct that is not explicitly banned or restricted by this Constitution or its active statutes is completely legal. The state shall never prosecute a citizen for an act that has not been clearly codified as a crime.
+* The Presumption of Legality: Any action, choice, or conduct that is not explicitly banned or restricted by this Constitution or its active statutes is completely legal. The state shall never prosecute a citizen for an act that has not been clearly codified as a crime.
 
--The Categorical Safety Exceptions: The presumption of legality does not apply to categories explicitly locked down by the state for colony survival. Any item or process falling under a blanket ban—specifically unauthorized mind-altering substances (Article 2001), projectile or explosive weaponry (Article 301), and unauthorized biological or hazardous materials (Article 1902)—is automatically prohibited unless explicitly permitted on the state ledger.
+* The Categorical Safety Exceptions: The presumption of legality does not apply to categories explicitly locked down by the state for colony survival. Any item or process falling under a blanket ban—specifically unauthorized mind-altering substances (Article 2001), projectile or explosive weaponry (Article 301), and unauthorized biological or hazardous materials (Article 1902)—is automatically prohibited unless explicitly permitted on the state ledger.
 
--The Irrelevance of Demographics: Because survival requires the maximum utility of every capable individual, traits such as race (whether human or non-human sapient species), ethnicity, biological sex are legally non-existent concepts to the state. They are completely irrelevant to a citizen’s legal rights, duties, or standing.
+* The Irrelevance of Demographics: Because survival requires the maximum utility of every capable individual, traits such as race (whether human or non-human sapient species), ethnicity, biological sex are non-existent concepts to the state. They are completely irrelevant to a citizen’s legal rights, duties, or standing.
 
 Article 005: The State Monopoly on Violence and Enforcement
 The Martian state retains an absolute, non-negotiable monopoly on the administration of violence, corporal punishment, and criminal correction.
 
-*The Subversion Penalty: Any attempt by a private citizen, corporate entity, or un-deputized collective to subvert this monopoly—including vigilante justice, running unauthorized penal operations, or executing unsanctioned physical punishments—is a severe crime against the state.
+* The Subversion Penalty: Any attempt by a private citizen, corporate entity, or un-deputized collective to subvert this monopoly—including vigilante justice, running unauthorized penal operations, or executing unsanctioned physical punishments—is a severe crime against the state.
 
-*Impersonation of Officials: Intentionally impersonating any state official within the executive branch—including, but not limited to, law enforcement officers, judges, or military personnel—shall be treated as a direct assault on state sovereignty.
+* Impersonation of Officials: Intentionally impersonating any state official within the executive branch—including, but not limited to, law enforcement officers, judges, or military personnel—shall be treated as a direct assault on state sovereignty.
 
-*The Two-Brand Sanction: Conviction for subverting the state monopoly or impersonating an executive official carries a mandatory sentence of two criminal markings administered to the forearm under Article 204, alongside the corresponding mandatory lashings. This places the offender exactly one strike away from the airlock.
+* The Two-Brand Sanction: Conviction for subverting the state monopoly or impersonating an executive official carries a mandatory sentence of two criminal markings administered to the forearm under Article 204, alongside the corresponding mandatory lashings. This places the offender exactly one strike away from the airlock.
 
-*Brawls and Mutual Combat: Ordinary physical altercations, street brawls, or personal fights that do not attempt to usurp state authority or enforce vigilante "punishments" do not violate this monopoly. They are classified as minor public nuisances and are penalized strictly by lashings only, with no permanent markings applied.
+* Brawls and Mutual Combat: Ordinary physical altercations, street brawls, or personal fights that do not attempt to usurp state authority or enforce vigilante "punishments" do not violate this monopoly. They are classified as minor public nuisances and are penalized strictly by lashings only, with no permanent markings applied.
 
 Article 006: The Directing Principle of Crimes and Retribution
 To ensure the judiciary applies punishments with absolute consistency, the state codifies the foundational organizing principle behind all criminal classification:
@@ -51,7 +55,7 @@ The organizing principle dictates three rigid, non-negotiable tiers of criminal 
 
 Tier 1: Minor Offenses (Public Nuisances)
 Target: Individual peace, labor disputes, or localized compliance. No threat to groups of people, life-spupport or state owned entities.
-Retribution: Immediate public lashings on the back via automated machinery under Article 204. Once delivered, the individual is free.
+Retribution: Upon conviction, immediate public lashings on the back via automated machinery under Article 204. Once delivered, the individual is free.
 
 Tier 2: Intermediate Offenses (Gross Negligence & Structural Harms)
 Target: Safety infrastructure, physical habitats, or repeat individual crimes or otherwise stated. Any kind of fraud.
@@ -59,16 +63,15 @@ Retribution: Mandatory public lashings combined with a permanent, distinct physi
 
 Tier 3: High Crimes (Existential Sabotage & Treason)
 Target: The sovereignty of the state, public health, resource safety, or the general public
-Retribution: Mandatory capital punishment executed via exile through the primary airlock or forced displacement outside the perimeter with no return transport. If the planet is terraformed
-the the point of life is possible outside, execution via public hanging.
+Retribution: Mandatory capital punishment executed via exile through the primary airlock or forced displacement outside the perimeter with no return transport. If the planet is terraformed to the point of where life is possible outside, execution via public hanging.
 
 Post-Deputization Accountability and Fraudulent Intent Clause
 
-*The Mandatory Post-Action Investigation: If this Constitution ever activates a supreme mandate that deputizes any or all citizens to neutralize an existential threat against itself (such as under the Article 2708 shadow-agency purge), the state shall launch a deep, exhaustive, and thorough forensic investigation into every single action taken by the public once stability is restored.
+* The Mandatory Post-Action Investigation: If this Constitution ever activates a supreme mandate that deputizes any or all citizens to neutralize an existential threat against itself (such as under the Article 2708 shadow-agency purge), the state shall launch a deep, exhaustive, and thorough forensic investigation into every single action taken by the public once stability is restored.
 
-*The Good-Faith False Positive Standard: If a citizen mistakes a set of circumstances for an active constitutional violation, identifies a false positive, and carries out a terminal execution, they shall face a strict tribunal. If the investigation proves the citizen honestly, reasonably, and demonstrably believed they were acting in good faith for the absolute protection of the public interest, they shall be spared Tier 3 execution. Instead, they shall receive a minimum of a Tier 1 automated lashing or, at worst, a Tier 2 forearm branding depending on the severity of their error.
+* The Good-Faith False Positive Standard: If a citizen mistakes a set of circumstances for an active constitutional violation, identifies a false positive, and carries out a terminal execution, they shall face a strict tribunal. If the investigation proves the citizen honestly, reasonably, and demonstrably believed they were acting in good faith for the absolute protection of the public interest, they shall be spared Tier 3 execution. Instead, they shall receive a minimum of a Tier 1 automated lashing or, at worst, a Tier 2 forearm branding depending on the severity of their error.
 
-*The Fraudulent Pretext Penalty: If any citizen maliciously attempts to exploit a public deputization event as a protective shield to commit unauthorized murder, settle personal vendettas, or hide criminal intent to avoid justice, they shall be stripped of all legal defense. They shall be permanently branded as a traitor to the state and executed under the mandatory capital provisions of Tier 3.
+* The Fraudulent Pretext Penalty: If any citizen maliciously attempts to exploit a public deputization event as a protective shield to commit unauthorized murder, settle personal vendettas, or hide criminal intent to avoid justice, they shall be stripped of all legal defense. They shall be permanently branded as a traitor to the state and executed under the mandatory capital provisions of Tier 3.
 
 
 
@@ -91,28 +94,28 @@ Citizens must meet all the following criteria to run for public office:
 Article 103: The Doctrine of Civic Burden
 Governance is legally classified as a heavy civic burden, not a privilege. Elected officials shall receive no luxury bonuses, specialized rations, or elevated social status. Only people who can vote can serve. Elected officals are public servants first, leaders second.
 
-*Trust and Fidelity Alignment: In accordance with the guiding principles of Article 006, any elected official who uses their position for personal enrichment or corporate favor commits a Tier 3 High Crime. Because they are servants entrusted with the survival of the collective, any breach of that trust erodes the foundational credibility of the state and shall be met with absolute retribution
+* Trust and Fidelity Alignment: In accordance with the guiding principles of Article 006, any elected official who uses their position for personal enrichment or corporate favor commits a Tier 3 High Crime. Because they are servants entrusted with the survival of the collective, any breach of that trust erodes the foundational credibility of the state and shall be met with absolute retribution
 
 Article 104: Electoral Integrity, Secret Ballots, and Voting Protections
 To safeguard the foundational democratic process and maintain the absolute fidelity of the state, all public elections shall be conducted using uncompromising, high-integrity physical standards:
 
-*The Universal Voting Expectation: All currently eligible voters are expected to participate in regular Martian Council elections. No corporate entity, manager, or employer shall under any circumstance bar, delay, or penalize a worker for exercising their right to vote. In exchange, the state shall strictly organize election cycles to fall upon standard rest days to prevent labor disruptions.
+* The Universal Voting Expectation: All currently eligible voters are expected to participate in regular Martian Council elections. No entity, manager, or employer shall under any circumstance bar, delay, or penalize a worker for exercising their right to vote. In exchange, the state shall strictly organize election cycles to fall upon standard rest days to prevent labor disruptions.
 
-*The Paper Ballot Mandate: Voting shall be performed exclusively via physical ink-on-paper ballots (or equivalents). The use of digital systems, automated voting machines, or network-connected terminals is entirely prohibited to eliminate the risk of systemic electronic rigging or software manipulation
+* The Paper Ballot Mandate: Voting shall be performed exclusively via physical ink-on-paper ballots (or equivalents). The use of digital systems, automated voting machines, or network-connected terminals is entirely prohibited to eliminate the risk of systemic electronic rigging or software manipulation
 
-*On-the-Spot Verification: Before receiving a paper ballot, every prospective voter shall be subjected to strict, on-the-spot physical and cryptographic identity verification by election clerks to confirm active registration and prevent voter fraud.
+* On-the-Spot Verification: Before receiving a paper ballot, every prospective voter shall be subjected to strict, on-the-spot physical and cryptographic identity verification by election clerks to confirm active registration and prevent voter fraud.
 
-*The Anonymity Protocol: To guarantee absolute secrecy, the voter shall place their marked paper ballot inside a completely non-distinct inner slip or envelope. This inner container shall then be deposited directly into a locked, untampered master ballot chest
+* The Anonymity Protocol: To guarantee absolute secrecy, the voter shall place their marked paper ballot inside a completely non-distinct inner slip or envelope. This inner container shall then be deposited directly into a locked, untampered master ballot chest
 
-*The Voting Booth Sanctuary: The immediate polling station and voting booth are declared absolute sanctuaries of free choice. Entity shall coerce, intimidate, or attempt to influence a voter at their place of voting. Attempting to manipulate a voter at the booth constitutes a direct act of political sabotage and an erosion of public trust, classified as a mandatory Tier 3 High Crime or considered act of war where relevant.
+* The Voting Booth Sanctuary: The immediate polling station and voting booth are declared absolute sanctuaries of free choice.No entity shall coerce, intimidate, or attempt to influence a voter at their place of voting. Attempting to manipulate a voter at the booth constitutes a direct act of political sabotage and an erosion of public trust, classified as a mandatory Tier 3 High Crime or considered act of war where relevant.
 
-*The Adversarial Counting Committee: Once voting concludes, ballots shall be counted by an electoral committee comprised directly of opposing political candidates or their verified, designated representatives. This ensures a transparent, adversarial system where each faction actively audits the other.
+* The Adversarial Counting Committee: Once voting concludes, ballots shall be counted by an electoral committee comprised directly of opposing political candidates or their verified, designated representatives. This ensures a transparent, adversarial system where each faction actively audits the other.
 
-*The Absolute Accountability Lock: At any point, time, and location, the absolute integrity of the vote must be actively safeguarded by all personnel working at the voting center. If the forensic count reveals even a single discrepancy between the physical number of paper ballots cast and the number of voter registration sign-offs on the secure ledger, the entire ballot lot from that location is legally compromised. The lot shall be thrown out immediately, and a mandatory re-vote shall be scheduled at the next open opportunity.
+* The Absolute Accountability Lock: At any point, time, and location, the absolute integrity of the vote must be actively safeguarded by all personnel working at the voting center. If the forensic count reveals even a single discrepancy between the physical number of paper ballots cast and the number of voter registration sign-offs on the secure ledger, the entire ballot lot from that location is legally compromised. The lot shall be thrown out and securely destroyed immediately, and a mandatory re-vote shall be scheduled at the next open opportunity.
 
-*Slip Invalidation and Defacement: The specific voting standard agreed upon by the state shall be rigidly enforced. Any ballot slip that is defaced, contains multiple marks where not permitted, or features marking indicators placed in a non-permissible configuration is legally invalidated and shall be securely destroyed on-site by the counting committee.
+* Slip Invalidation and Defacement: The specific voting standard agreed upon by the state shall be rigidly enforced. Any ballot that is defaced, contains multiple marks where not permitted, or features marking indicators placed in a non-permissible configuration is legally invalidated, and shall be placed in a sparate pile for the final forensic counting.
 
-*Electoral Interference and Terminal Sanctions: Any deliberate attempt to manipulate election outcomes at the voting center—including, but not limited to, ballot-box stuffing, the unauthorized insertion of slips, intentional miscounting, or structural tampering with the ledger—constitutes an existential threat to the colony. It is classified as a Tier 3 High Crime, carrying the mandatory capital execution penalty.
+* Electoral Interference and Terminal Sanctions: Any deliberate attempt to manipulate election outcomes at the voting center—including, but not limited to, ballot-box stuffing, the unauthorized insertion of slips, intentional miscounting, or structural tampering with the ledger—constitutes an existential threat to the colony. It is classified as a Tier 3 High Crime, carrying the mandatory capital execution penalty.
 
 
 ===============================================================================
