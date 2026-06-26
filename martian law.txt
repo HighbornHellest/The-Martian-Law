@@ -538,7 +538,36 @@ To protect the colony from foreign intelligence infiltration, industrial espiona
 TITLE XXIII: LABOR PROTECTION AND WORKERS' RIGHTS
 ===============================================================================
 
-Article 2301: Termination Standards and SeveranceThe Baseline Notice: Every full-time employment contract requires a baseline termination notice period of two Martian months.The Tenure Rule: For every complete Martian year of full-time employment, the mandatory notice period increases by one additional Martian month.Immediate Firing Penalty: If an employer terminates a worker immediately without documented just cause, the employer must pay out the entirety of the worker's notice period wages on the next scheduled payroll.Article 2302: Shift Rest Rules and Workspace MandatesThe 8-Hour Baseline: The standard operational shift for any worker is strictly limited to 8 hours.Short Breaks: Every single hour of active labor must include a mandatory 5-to-10 minute rest break.Meal Breaks: Workers must receive a continuous 1-hour rest break for meals or personal time for every 4 hours of consecutive work.Life Support Access: Employers are legally required to provide clean, unrestricted drinking water and fully operational toilet facilities at all active worksites.Article 2303: Parental and Family Leave ProtectionImmediate Birth Leave: Upon the birth of a child, both parents are automatically granted one month of paid parental leave to ensure early-stage family stabilization.Extended Parental Leave: The state guarantees a total of 3 Martian years of parental leave following a birth. The parents may choose to award this full duration as maternity leave, paternity leave, or split it between themselves.Job Reinstatement Guarantee: Workers returning from parental leave are legally entitled to reclaim their exact previous position, or an equivalent role with identical pay and seniority. They must have a job when they come back.Article 2304: Workplace Safety and Corporate LiabilityPersonal Protection Mandate: Employers must provide certified, high-grade personal protective equipment (PPE)—including environmental suits, filtration gear, and radiation shields—wherever workplace hazards exist.Mandatory Workplace Insurance: Every corporate entity must carry robust insurance policies to cover worker injuries, chronic exposure illnesses, and workplace disabilities.Wage Theft Prosecution: Intentionally withholding earned wages, manipulating hours, or stealing tips is a severe crime. Conviction results in mandatory public lashings and a permanent physical branding under Article 1303.Article 2305: Commuting and On-The-Clock TransitThe Commute Subsidy: Employers must financially cover a minimum of 50% of a worker’s transit costs to the nearest corporate facility or transit hub.On-The-Clock Travel: If an employer requires a worker to travel beyond the primary corporate facility to a remote outpost or secondary site, all transit time is classified as active labor and must be paid at the standard hourly rate.Hazardous Environment Compensation: Any labor performed in high-risk zones—including radiation sectors, unpressurized landscapes, or uncertified hulls—carries mandatory hazard pay multipliers added directly to the baseline wage.
+Article 2301: Termination Standards and Severance
+* The Baseline Notice: Every full-time employment contract requires a baseline termination notice period of two Martian months.The Tenure Rule: For every complete Martian year of full-time employment, the mandatory notice period increases by one additional Martian month.
+
+* Immediate Firing Penalty: If an employer terminates a worker immediately without documented just cause, the employer must pay out the entirety of the worker's notice period wages on the next scheduled payroll.
+
+Article 2302: Shift Rest Rules and Workspace Mandates
+
+* The 8-Hour Baseline: The standard operational shift for any worker is strictly limited to 8 hours.
+ Short Breaks: Every single hour of active labor must include a mandatory 5-to-10 minute rest break.
+ Meal Breaks: Workers must receive a continuous 1-hour rest break for meals or personal time for every 4 hours of consecutive work.
+ Life Support Access: Employers are legally required to provide clean, unrestricted drinking water and fully operational toilet facilities at all active worksites.
+
+* Article 2303: Parental and Family Leave ProtectionImmediate Birth Leave: Upon the birth of a child, both parents are automatically granted one month of paid parental leave to ensure early-stage family stabilization.
+
+* Extended Parental Leave: The state guarantees a total of 3 Martian years of parental leave following a birth. The parents may choose to award this full duration as maternity leave, paternity leave, or split it between themselves.
+* Job Reinstatement Guarantee: Workers returning from parental leave are legally entitled to reclaim their exact previous position, or an equivalent role with identical pay and seniority. They must have a job when they come back.
+
+Article 2304: Workplace Safety and Corporate Liability
+
+* Personal Protection Mandate: Employers must provide certified, high-grade personal protective equipment (PPE)—including environmental suits, filtration gear, and radiation shields—wherever workplace hazards exist.
+
+* Mandatory Workplace Insurance: Every corporate entity must carry robust insurance policies to cover worker injuries, chronic exposure illnesses, and workplace disabilities.
+
+* Wage Theft Prosecution: Intentionally withholding earned wages, manipulating hours, or stealing tips is a severe crime. Conviction results in mandatory public lashings and a permanent physical branding under Article 1303.
+
+Article 2305: Commuting and On-The-Clock Transit
+
+* The Commute Subsidy: Employers must financially cover a minimum of 50% of a worker’s transit costs to the nearest corporate facility or transit hub.On-The-Clock Travel: If an employer requires a worker to travel beyond the primary corporate facility to a remote outpost or secondary site, all transit time is classified as active labor and must be paid at the standard hourly rate.
+
+* Hazardous Environment Compensation: Any labor performed in high-risk zones—including radiation sectors, unpressurized landscapes, or uncertified hulls—carries mandatory hazard pay multipliers added directly to the baseline wage.
 
 ===============================================================================
 TITLE XXIV: SERVICE INDUSTRY PROTECTIONS AND TIP REGULATIONS
