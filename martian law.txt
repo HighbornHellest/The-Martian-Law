@@ -266,22 +266,29 @@ Article 901: Neutrality in Education and Public Service
 All childcare facilities, schools, and public administrative offices must remain completely free of religious, political, or ideological influence.
 * Enforcement: Any teacher, childcare professional, or state clerk who introduces religious or ideological bias into their professional duties shall be immediately stripped of their titles, state grants, and employment.
 
-State Recognition: The Martian state recognizes only its own constitution. No external political, philosophical, or moral frameworks hold authority.Article 902: Privacy of Religious BeliefEvery citizen possesses the freedom to practice their religion, but it must remain a strictly private affair.Public Restrictions: Religious practices, symbols, and expressions are strictly forbidden in public spaces, with the sole exception of small, designated zones specifically zoned for religious gatherings.Prohibition of Religious Infrastructure: The construction of public churches, mosques, temples, or other prominent religious buildings is entirely prohibited. Religious belief is respected like any other deeply personal matter: it belongs to the individual, and the public has no desire or obligation to engage with it.
+State Recognition: The Martian state recognizes only its own constitution. No external political, philosophical, or moral frameworks hold authority.
+
+Article 902: Privacy of Religious Belief
+Every citizen possesses the freedom to practice their religion, but it must remain a strictly private affair.
+
+* Public Restrictions: Religious practices, symbols, and expressions are strictly forbidden in public spaces, with the sole exception of small, designated zones specifically zoned for religious gatherings.
+
+* Prohibition of Religious Infrastructure: The construction of public churches, mosques, temples, or other prominent religious buildings is entirely prohibited. Religious belief is respected like any other deeply personal matter: it belongs to the individual, and the public no obligation to engage with it.
 
 ===============================================================================
 TITLE X: STATE SOVEREIGNTY AND ANTI-CORRUPTION
 ===============================================================================
 
 Article 1001: Absolute Sovereignty
-*The Martian colony recognizes itself as the sole ruling authority. It rejects all legal claims, treaties, or sovereign mandates issued by any government, corporation, or entities.
+*The Martian colony recognizes itself as the sole ruling authority. It rejects all legal claims, treaties, or sovereign mandates issued by any government, corporation, or entities over it's Zone of Influence
 
 Article 1002: Systemic Corruption and Severe Retribution
 
-*Systemic corruption within any legal entity or branch of government—including taking bribes, trading favors, or intentionally manipulating the letter of the law to bypass its intent—shall be met with harsh and absolute retribution.
-*Scope of Investigation: Investigation teams shall leave no stone unturned to root out corruption. The scope is all included parties, their families and known friends and associates to the 3rd degree of separation.
+* Systemic corruption within any legal entity or branch of government—including taking bribes, trading favors, or intentionally manipulating the letter of the law to bypass its intent—shall be met with harsh and absolute retribution.
+* Scope of Investigation: Investigation teams shall leave no stone unturned to root out corruption. The scope is all included parties, their families and known friends and associates to the 3rd degree of separation.
 
-*Complicity and Family Assets:
-* If an official is found guilty, any family members or associates who knowingly benefited from or actively aided the corrupt enterprise shall be thoroughly investigated, stripped of their assets, and rooted out of public society alongside the primary offender.
+Complicity and Family Assets:
+* If an official is found guilty, any family members or associates who knowingly benefited from or actively aided the corrupt enterprise shall be thoroughly investigated, stripped of their assets, and rooted out of public society alongside the primary offender under Article 201
 
 ===============================================================================
 ITLE XI: STATUTORY INTERPRETATION AND JUDICIAL AMBIGUITY
@@ -293,13 +300,13 @@ All laws are written to be harsh but fair, prioritizing the continued survival a
 Article 1102: The Constitutional Interpretation Jury
 Where a law is found to be genuinely ambiguous, its interpretation shall not be decided by judges or politicians. Instead, interpretation is handled on a case-by-case basis by a specialized citizen jury.
 
-*Jury Composition: A panel of 100 people shall be selected using the highest standard of mathematical randomization, excluding parties close to the case.
+* Jury Composition: A panel of 100 people shall be selected using the highest standard of mathematical randomization, excluding parties close to the case.
 
-*Demographics: The pool includes every citizen from the age of 16 until death, including individuals with prior criminal records. Only those proven to be clinically mentally unwell are excluded.
+* Demographics: The pool includes every citizen from the age of 16 until death, including individuals with prior criminal records. Only those proven to be clinically mentally unwell are excluded.
 
-*Verdict Threshold: To establish a legal interpretation for a case, a supermajority of 70% or more of the jury must agree.
+* Verdict Threshold: To establish a legal interpretation for a case, a supermajority of 70% or more of the jury must agree.
 
-*Abolition of Case Law: The concept of "case law" or legal precedent is abolished. The jury's decision applies strictly to that specific case and does not dictate how future laws are interpreted.
+* Abolition of Case Law: The concept of "case law" or legal precedent is abolished. The jury's decision applies strictly to that specific case and does not dictate how future laws are interpreted.
 
 ===============================================================================
 TITLE XII: ASSET FORFEITURE AND CORPORATE SUCCESSION
@@ -311,11 +318,11 @@ If a corporate executive, owner, or agent is executed under Article 602 for corr
 Article 1202: Succession and Nationalization
 Corporate assets shall only face state intervention under specific circumstances:
 
-*The Heir Provision: If the executed party was the sole owner or majority shareholder, the company passes directly to their legal heirs, provided the heirs are completely innocent of the crime.
+* The Heir Provision: If the executed party was the sole owner or majority shareholder, the company passes directly to their legal heirs, provided the heirs are completely innocent of the crime.
 
-*State Dissolution: If there is no legal heir, the state reserves the right to nationalize the assets or dissolve the company entirely if it is found to provide no structural value to the colony.
+* State Dissolution: If there is no legal heir, the state reserves the right to nationalize the assets or dissolve the company entirely if it is found to provide no structural value to the colony.
 
-*The Worker Protection Mandate: During any asset forfeiture, dissolution, or restructuring, the state must explicitly prioritize the physical and economic well-being of innocent workers employed by the entity.
+* The Worker Protection Mandate: During any asset forfeiture, dissolution, or restructuring, the state must explicitly prioritize the physical and economic well-being of innocent workers employed by the entity.
 
 ===============================================================================
 TITLE XIII: CORRECTIONAL JUSTICE AND PHYSICAL SANCTIONS
@@ -330,23 +337,74 @@ Minor offenses that do not threaten the core safety of the habitat shall be pena
 Article 1303: Intermediate Offenses (The Branding Sanction)
 Serious offenses that fall just below the threshold of capital punishment shall be met with permanent physical branding alongside mandatory lashings, in severe cases institutional shunning.
 
-*Method: Branding shall be executed using a hot or cold iron, placed exclusively on the inside of the offender's left forearm.
+* Method: Branding shall be executed using a hot or cold iron, placed exclusively on the inside of the offender's left forearm.
 
-*The Three-Strike Rule: This permanent marker serves as a direct public warning. Receiving a third brand triggers automatic escalation to capital punishment (Exile via airlock under Article 202).
+* The Three-Strike Rule: This permanent marker serves as a direct public warning. Receiving a third brand triggers automatic escalation to capital punishment (Exile via airlock under Article 202).
 
-*The Maturity Exemption: To protect developing minds, branding is strictly prohibited on any individual below the age of 25 Earth years. Minor offenders under 25 (earth years) shall instead receive standard corporal punishment or reduced institutional shunning to 2 years.
+* The Maturity Exemption: To protect developing minds, branding is strictly prohibited on any individual below the age of 25 Earth years. Minor offenders under 25 (Earth years) shall instead receive standard corporal punishment or reduced institutional shunning to 2 years. If possible education on the nature of the crime commited and it's short and long term consequences on the collective. This sole exception doesn't not shield from the consequences of Tier 3 crimes.
 
 ===============================================================================
 TITLE XIV: INTELLECTUAL PROPERTY AND MARKET INNOVATION
 ===============================================================================
 
-Article 1401: Trademark Lifespan and Public DomainTrademarks are granted for a strict term of 25 Martian years to reward innovation while ensuring fair market competition. Upon expiration, the trademark automatically enters the public domain, allowing any citizen or entity to utilize it freely.Article 1402: The Minor Tweak ProhibitionMinor modifications, aesthetic changes, or superficial formula alterations shall not qualify an expired asset for a new trademark.The 5-Year Extension: A minor tweak may only grant a single, non-renewable extension of 5 Martian years. After this extension, the asset enters the public domain permanently.Article 1403: The Trademark Evaluation CommitteeTo determine if a modification is a "minor tweak," a temporary evaluation committee of exactly three field experts shall be formed.Strict Neutrality: Committee members must have zero direct or indirect connection to the trademark registrant. They must have no history of employment with the registrant and no familial ties.Total Communication Blackout: Members are legally prohibited from communicating with any outside party regarding the case during and for an undisclosed period following the deliberation. Any outside individual attempting to contact a committee member shall be immediately prosecuted for public corruption under Article 201. Internal communication between the three members is permitted.Hazard Pay: Committee members shall receive five times their baseline professional salary for the duration of the deliberation.Article 1404: Deliberation DeadlinesThe Baseline Estimate: On the day of the initial hearing, the committee must formally estimate the required length of the deliberation.The Hard Ceiling: The absolute maximum time allowed for deliberation is 2 Earth weeks to prevent state waste.The Ambiguity Deniability: If deliberations exceed 1.5 times the committee's initial estimate, the petition is automatically denied. If the experts cannot quickly agree on a distinct difference, the modification is legally deemed a minor tweak.
+Article 1401: Trademark Lifespan and Public Domain
+Trademarks are granted for a strict term of 25 Martian years to reward innovation while ensuring fair market competition. Upon expiration, the trademark automatically enters the public domain, allowing any citizen or entity to utilize it freely.
+
+Article 1402: The Minor Tweak Prohibition
+Minor modifications, aesthetic changes, or superficial formula alterations shall not qualify an expired asset for a new trademark.
+
+* The 5-Year Extension: A minor tweak may only grant a single, non-renewable extension of 5 Martian years. After this extension, the asset enters the public domain permanently.
+
+Article 1403: The Trademark Evaluation Committee
+To determine if a modification is a "minor tweak," a temporary evaluation committee of exactly three field experts shall be formed.
+
+* Strict Neutrality: Committee members must have zero direct or indirect connection to the trademark registrant. They must have no history of employment with the registrant and no familial ties.
+
+* Total Communication Blackout: Members are legally prohibited from communicating with any outside party regarding the case during and for a publicly undisclosed period following the deliberation. Any outside individual attempting to contact a committee member shall be immediately prosecuted for public corruption under Article 201. Internal communication between the three members is permitted.
+
+* Hazard Pay: Committee members shall receive five times their baseline professional salary for the duration of the deliberation.
+
+Article 1404: Deliberation Deadlines
+
+* The Baseline Estimate: On the day of the initial hearing, the committee must formally estimate the required length of the deliberation.
+
+* The Hard Ceiling: The absolute maximum time allowed for estimation is 2 weeks to prevent state waste.
+
+* The Ambiguity Deniability: If deliberations exceed 1.5 times the committee's initial estimate, the petition is automatically denied. If the experts cannot quickly agree on a distinct difference, the modification is legally deemed a minor tweak.
 
 ===============================================================================
 TITLE XV: MONETARY POLICY, BANKING, AND FINANCIAL CRIMES
 ===============================================================================
 
-Article 1501: Price Gouging of Lifesaving MedicineThe intentional inflation of prices, hoarding, or artificial restriction of lifesaving medical supplies and pharmaceuticals is legally classified as high treason against the colony. Conviction carries the mandatory death penalty under Article 201.Article 1502: Insurance Standards and Fraud ProtectionsAll insurance providers, whether state-run or private, must operate with absolute financial transparency and complete fidelity to the insured.The Anti-Sophistry Mandate: Insurance contracts must be simple. The concepts of co-pays, deductibles, hidden networks, and exclusionary legal loopholes are entirely illegal. In exchange for a standard monthly premium, the insurer must cover the service fully.The 100% Unburdening Rule: The financial ceiling of any policy must be set significantly higher than the maximum expected cost of care, ensuring the insured party is completely unburdened by financial liability (EU mandatory care baseline inspired).The Dual-Fraud Penalty: Attempting to scam an insurance provider is classified as criminal fraud. Conversely, an insurance provider refusing to render promised services without definitive proof of client fraud is also classified as criminal fraud, stripping the executives of their legal shielding under Article 702.Article 1503: Banking Regulations and Fractional ReservesThe 80% Reserve Requirement: To prevent artificial asset bubbles and financial collapses, all financial institutions must maintain a strict 80% fractional reserve ratio at all times.The Martian Credit: The official colony currency, the Martian Credit, shall operate using a high-precision, four-digit fractional system to ensure micro-transaction stability in a resource-scarce environment.Article 1504: Inflation Control and Emergency Monetary InterventionsThe state must guarantee that annual currency inflation stays at or below a hard ceiling of 2% to 3%.The Emergency Mandate: If inflation threatens this ceiling, the state must aggressively curb it by temporarily increasing the payout and interest percentages of state-backed financial notes by an extreme margin, forcefully constricting the circulating money supply to protect purchasing power (Volcker-style restriction).Article 1505: State Monopoly on Currency and Civic EnforcementThe colony state is the sole central bank. It maintains an absolute monopoly on the issuance, distribution, and regulation of currency.The Capital Subversion Penalty: Any attempt by private entities, banks, or individuals to subvert state currency, print counterfeit notes, or establish a competing central bank constitutes an existential threat to the colony and carries an immediate sentence of execution.The Citizen Purge Provision: Because currency manipulation can starve a colony, currency tracking is a transparent public utility. If systemic monetary corruption is uncovered, members of the general public are legally deputized to bypass standard bureaucracy and execute the corrupt apparatus root and stem. This is classified as both a supreme civic right and an absolute survival responsibility.
+Article 1501: Price Gouging of Lifesaving Medicine
+The intentional inflation of prices, hoarding, or artificial restriction of lifesaving medical supplies and pharmaceuticals is legally classified as high treason against the colony. Conviction carries the mandatory death penalty under Article 201.
+
+Article 1502: Insurance Standards and Fraud Protections
+All insurance providers, whether state-run or private, must operate with absolute financial transparency and complete fidelity to the insured.
+
+* The Anti-Sophistry Mandate: Insurance contracts must be simple. The concepts of co-pays, deductibles, hidden or public networks, and exclusionary legal loopholes are entirely illegal. In exchange for a standard monthly premium, the insurer must cover the service fully.
+
+* The 100% Unburdening Rule: The financial ceiling of any policy must be set significantly higher than the maximum expected cost of care, ensuring the insured party is completely unburdened by financial liability.
+
+* The Dual-Fraud Penalty: Attempting to scam an insurance provider is classified as criminal fraud. Conversely, an insurance provider refusing to render promised services without definitive proof of client fraud is also classified as criminal fraud.
+
+Article 1503: Banking Regulations and Fractional Reserves
+
+* The 80% Reserve Requirement: To prevent artificial asset bubbles and financial collapses, all financial institutions must maintain a strict minimum of 80% fractional reserve ratio at all times.
+
+* The Martian Credit: The official colony currency, the Martian Credit, shall operate using a high-precision, four-digit fractional system to ensure micro-transaction stability in any environment.
+
+Article 1504: Inflation Control and Emergency Monetary Interventions
+The state must guarantee that annual currency inflation stays at or below a hard ceiling of 2% to 3%.
+
+* The Emergency Mandate: If inflation threatens this ceiling, the state must aggressively curb it by temporarily increasing the payout and interest percentages of state-backed financial notes by an extreme margin, forcefully constricting the circulating money supply to protect purchasing power (Volcker-style restriction).
+
+Article 1505: State Monopoly on Currency and Civic Enforcement
+The colony state is the sole central bank. It maintains an absolute monopoly on the issuance, distribution, and regulation of currency.
+
+* The Capital Subversion Penalty: Any attempt by any entity to subvert state currency, print counterfeit notes, or establish a competing central bank constitutes an existential threat to the colony and carries an immediate sentence of execution.
+
+* The Citizen Purge Provision: Because currency manipulation can starve a colony, currency tracking is a transparent public utility. If systemic monetary corruption is uncovered, members of the general public are legally deputized to bypass standard bureaucracy and execute the corrupt apparatus root and stem. This is classified as both a supreme civic right and an absolute survival responsibility.
 
 ===============================================================================
 TITLE XVI: SOVEREIGN DEBT AND ANTI-CAPTURE MEASURES
@@ -354,18 +412,38 @@ TITLE XVI: SOVEREIGN DEBT AND ANTI-CAPTURE MEASURES
 
 Article 1601: The Debt-Free Imperative
 The Martian state must actively strive to remain completely debt-free. A colony burdened by financial debt is structurally vulnerable. The state is strictly prohibited from becoming beholden, financially or politically, to foreign entities or interests.
+
 Article 1602: Banknote Issuance and Wealth Capture Limits
-The Currency Distinction: The issuance of state-backed banknotes to private citizens shall be managed solely to facilitate local internal trade, or safe, state backed investment.
 
-The Financial Hostage Provision: The state shall maintain strict regulatory control mechanisms over high-value capital pools. No private citizen or consolidated group of wealthy individuals may accumulate enough economic leverage to hold the state financially hostage.
+* The Currency Distinction: The issuance of state-backed banknotes to private citizens shall be managed solely to facilitate local internal trade, or safe, state backed investment.
 
-Treasonous Accumulation: Any deliberate attempt by a private citizen to use concentrated wealth to coerce, manipulate, or destabilize state operations or monetary systems constitutes high treason. Conviction carries the mandatory execution penalty under Article 201.
+* The Financial Hostage Provision: The state shall maintain strict regulatory control mechanisms over high-value capital pools. No private citizen or consolidated group of wealthy individuals may accumulate enough economic leverage to hold the state financially hostage.
+
+* Treasonous Accumulation: Any deliberate attempt by a private citizen to use concentrated wealth to coerce, manipulate, or destabilize state operations or monetary systems constitutes high treason. Conviction carries the mandatory execution penalty under Article 201.
 
 ===============================================================================
 TITLE XVII: SECURITIES, PUBLIC MARKETS, AND NON-AUTOMATED TRADING
 ===============================================================================
 
-Article 1701: Absolute Corporate Financial TransparencyAny corporation or legal entity listed on the public stock market must maintain total, uncompromised financial transparency.Reporting Frequency: Financial statements must be submitted publicly every single Martian quarter.Mandatory Disclosures: Every financial report must explicitly itemize exact values for the following four vectors:Cash on handActive outstanding debtEstimated market value of all physical goods and infrastructureEstimated value of all intangible goods or intellectual propertyArticle 1702: The Human Trading MandateAll financial market trades, transactions, and order executions must be performed exclusively by natural, organic humans.The Automation Prohibition: No computer system, algorithmic software, artificial intelligence, or synthetic entity—regardless of any future claims to sapience or personhood—is permitted to execute market trades.The Abolition of HFT and Market Making: High-frequency trading (HFT) and automated market-making algorithms are completely illegal.Acceptance of Illiquidity: The state explicitly prioritizes market stability and human oversight over speed. Illiquidity is accepted as a necessary baseline protective cost. If an asset cannot find a willing human buyer or seller organically, the transaction fails.
+Article 1701: Absolute Corporate Financial Transparency
+Any corporation or legal entity listed on the public stock market must maintain total, uncompromised financial transparency.
+
+* Reporting Frequency: Financial statements must be submitted publicly every single Martian quarter.
+
+* Mandatory Disclosures: Every financial report must explicitly itemize exact values for the following four vectors:
+**Cash on hand
+**Active outstanding debt, liabilities and unpaid bills
+**Estimated market value of all physical goods and infrastructure
+**Estimated value of all intangible goods or intellectual property
+
+Article 1702: The Human Trading Mandate
+All financial market trades, transactions, and order executions must be performed exclusively by natural, organic sapient life forms.
+
+* The Automation Prohibition: No computer system, algorithmic software, artificial intelligence, or synthetic entity—regardless of any future claims to sapience or personhood—is permitted to execute market trades.
+
+* The Abolition of HFT and Market Making: High-frequency trading (HFT) and automated market-making algorithms are completely illegal.
+
+* Acceptance of Illiquidity: The state explicitly prioritizes market stability and human oversight over speed. Illiquidity is accepted as a necessary baseline protective cost. If an asset cannot find a willing buyer or seller organically, the transaction fails.
 
 ===============================================================================
 TITLE XVIII: MATERIAL STANDARDS AND ENVIRONMENTAL PROTECTION
