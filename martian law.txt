@@ -132,7 +132,7 @@ The Martian colony maintains absolute zero tolerance for destabilizing crimes. T
 * High treason against the settlement or state
 * Unauthorized trafficking of controlled substances
 * Slavers
-* Material support for those that are convicted under this Article
+* Material support for those that are convicted under this Article with the intent of aiding the crime.
 
 Article 202: Method of Execution (The Airlock Provision)
 Until Mars possesses a naturally breathable atmosphere, the colony will not waste life-support resources on death row inmates. Execution shall be carried out exclusively via permanent exile:
