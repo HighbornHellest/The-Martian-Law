@@ -577,13 +577,30 @@ Enforcement: Every person, vehicle, and entity entering Martian territory must f
 Article 2104: Non-Citizen Minor Offenses and Trans-Orbital Deportation
 To maintain a distinct jurisdictional boundary between Martian citizens and foreign nationals, the enforcement of non-capital, minor offenses committed by visitors or immigrants shall follow a separate correctional protocol:
 
-*The Immunity from Physical Sanction: Foreign entities, travelers, or temporary immigrants who commit a minor offense that does not warrant immediate capital execution under Article 201 shall be strictly exempt from state-sanctioned corporal punishment, public lashings, and permanent criminal branding. The state will not expend its judicial markers or physical resources on non-citizens.
+* The Immunity from Physical Sanction: Foreign entities, travelers, or temporary immigrants who commit a minor offense that does not warrant immediate capital execution under Article 201 shall be strictly exempt from state-sanctioned corporal punishment, public lashings, and permanent criminal branding. The state will not expend its judicial markers or physical resources on non-citizens.
 
-*The 10-Year Exile Mandate: In lieu of physical correction, convicted foreign nationals shall face an immediate, mandatory sentence of exactly 10 Martian years of complete exile from the Martian zone of influence.
+* The 10-Year Exile Mandate: In lieu of physical correction, convicted foreign nationals shall face an immediate, mandatory sentence of exactly 10 Martian years of complete exile from the Martian zone of influence.
 
-*The Immediate Repatriation Protocol: The state shall arrange for the offender's immediate removal from the planet. If logistically possible, the deported individual shall be sent back to Earth or their origin immediately utilizing their own incoming space vehicle or corporate transport.
+* The Immediate Repatriation Protocol: The state shall arrange for the offender's immediate removal from the planet. If logistically possible, the deported individual shall be sent back to Earth or their origin immediately utilizing their own incoming space vehicle or corporate transport.
 
-*The Next Available Craft Rule: If the offender's primary vessel is incapacitated, unavailable, or lacks life-support capabilities for an immediate return trajectory, they shall be securely detained and transferred to the very first suitable outbound transport vehicle leaving the Martian zone of influence.
+* The Next Available Craft Rule: If the offender's primary vessel is incapacitated, unavailable, or lacks life-support capabilities for an immediate return trajectory, they shall be securely detained and transferred to the very first suitable outbound transport vehicle leaving the Martian zone of influence.
+
+Article 2105: Legal Constraints and Common-Sense Protections for Foreign GuestsForeign guests, short-term travelers, and un-vetted corporate visitors are designated strictly as observers within the Martian zone of influence. While they do not enjoy full civic liberties, their safety and conduct are strictly regulated under baseline protections:
+
+* The Baseline Safety Guarantee: Guests are fully protected by Martian criminal law. Under no circumstance may a guest be murdered, assaulted, exploited by slavers, defrauded, or subjected to unlawful physical violence. If two foreign guests commit a violent crime against one another, they shall be aggressively prosecuted under the full weight of Martian law.
+
+* The Restriction on Public Agitation: Non-citizens do not possess the political right to free speech reserved for Martian citizens under Title V. Guests are strictly prohibited from denigrating Martian citizens, criticizing the Martian state, or preaching external religious or philosophical ideologies.
+
+* The Prohibition on Foreign Allegiance Displays: Guests are strictly banned from openly declaring or actively working to serve a foreign state entity, hostile planetary interest, or foreign cartel while within the colony’s borders. This rule does not apply to formally recognized, state-sanctioned diplomatic envoys operating within authorized parameters.
+
+* Enforcement: Any guest who uses their voice to sow division, mock the host culture, broadcast unauthorized religious speech, or flagrantly display allegiance to an external power violates their status. They shall face immediate, mandatory trans-orbital deportation under Article 2104.
+
+Article 2106: Generational Integration Mandate and Tier 2 RevocationTo forcefully ensure that incoming lineages fully integrate into the high-trust cultural and operational fabric of the colony, newly naturalized families face heightened security screening across multiple generations:
+
+* The Conditional Integration Period: First-generation, second-generation, and third-generation immigrants are granted conditional citizenship. If any individual within these three generational tiers is convicted of a Tier 2 Intermediate Offense (such as gross negligence or any kind of fraud), their citizenship is immediately and permanently stripped. Following revocation, they shall face the mandatory 10-Martian-year trans-orbital exile and deportation protocol.
+
+* The Permanent Integration Threshold: Upon reaching the fourth generation of documented family lineage on Mars, the integration period concludes. Fourth-generation citizens are fully integrated; their citizenship cannot be stripped for Tier 2 offenses, and they shall face standard domestic branding and lashing penalties rather than trans-orbital deportation.
+
 
                                                                                                                 ===============================================================================
                                                                                                                                 TITLE XXII: PRIVACY OF HOME, PERSON, AND DATA
