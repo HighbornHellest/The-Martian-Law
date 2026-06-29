@@ -546,6 +546,19 @@ additional penalties prescribed by law.
 
 * The Ambiguity Doctrine: Where the available evidence cannot conclusively distinguish between gross negligence and deliberate sabotage, courts and interpretation juries shall prioritize the protection of the colony, thus the offense shall be prosecuted as terrorism, treason, or both.
 
+Article 1805: The Critical System Accident Override and Root Cause Protection
+To ensure that highly trained professionals are not wastefully executed for genuine technical errors, the state establishes a precise judicial pressure-release valve for life-critical industrial accidents:
+
+* The Genuine Mistake Threshold: If an accident occurs where a vital life-support, environmental control, atmospheric hull, or critical colony system is physically harmed, the responsible parties shall be spared from Tier 3 execution under Article 1804 if—and only if—the incident is forensically proven to be a pure accident.
+
+* The Scope of Exclusion: This override is strictly unavailable if the incident involves any trace of deliberate sabotage, terrorism, bribery, gross negligence, or willful indifference to safety procedures.
+
+* Mandatory Root Cause Analysis: Before any sentence is carried out for critical safety failures, a panel of independent field experts must conduct a deep, thorough, and un-compromised forensic engineering analysis. The court may only grant leniency if this investigation clearly establishes the precise root cause and identifies the guilty parties as acting in good faith without malicious or lazy intent.
+
+* The Mitigated Sanction: Convicted individuals who pass this rigorous forensic vetting shall completely bypass the Tier 3 airlock penalty and Tier 1 automated lashings. Instead, they shall receive exactly one distinct criminal marking on the inside of the forearm.
+
+* The Unique Marking Shape: This brand must feature a visual geometry entirely distinct from all other criminal markings. It explicitly communicates to the public at a glance that the individual made a severe, genuine operational error, allowing the colony to preserve the specialized skill and utility of highly trained professionals while permanently documenting the liability.
+
 
 ===============================================================================
 TITLE XIX: HAZARDOUS RESEARCH AND RESTRICTED MATERIALS
