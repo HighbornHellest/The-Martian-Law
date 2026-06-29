@@ -981,19 +981,23 @@ Title XXVIII: Public Healthcare and Medical Mandates
 Article 2801: Medical Confidentiality and Patient Safeguards
 Physicians, medical practitioners, and healthcare administrators bear an absolute legal burden to protect the health and privacy of their patients.
 
-*The Need-to-Know Restriction: Medical professionals are strictly prohibited from revealing a patient's personal identity or medical records to any party outside the immediate care team. Information sharing is restricted exclusively to consulting doctors, 
+* The Need-to-Know Restriction: Medical professionals are strictly prohibited from revealing a patient's personal identity or medical records to any party outside the immediate care team. Information sharing is restricted exclusively to consulting doctors, 
 specialists, or hospital clerks directly assisting in the patient's treatment.
 
 *Professional Consultation Standard: General peer consultations are fully permitted. Medical professionals may discuss specific cases in academic or professional forums provided the data is completely anonymized and contains zero identifying markers.
 
-*The De-Anonymization Prohibition: Any deliberate attempt by an individual, corporation, or data analyst to reverse-engineer anonymized medical data for the purpose of identifying a specific person is strictly illegal. Conviction constitutes a Tier 2 Intermediate 
+* The De-Anonymization Prohibition: Any deliberate attempt by an individual, corporation, or data analyst to reverse-engineer anonymized medical data for the purpose of identifying a specific person is strictly illegal. Conviction constitutes a Tier 2 Intermediate 
 Offense, carrying the mandatory penalty of public lashings and a permanent physical brand on the inside of the forearm under Article 204.
 
 Article 2802: State-Funded Healthcare and Permanent Intervention Standards
 The state shall fully fund comprehensive medical care for all Martian citizens, prioritizing efficiency, long-term efficacy, and minimal unnecessary harm.
 
-*The Permanent Cure Mandate: Public funding is strictly limited to medical procedures and surgical interventions that offer a definitive, permanent fix to an ailment. The state will not finance temporary patches, recurring cosmetic workarounds, or inefficient 
+* The Permanent Cure Mandate: Public funding is strictly limited to medical procedures and surgical interventions that offer a definitive, permanent fix to an ailment. The state will not finance temporary patches, recurring cosmetic workarounds, or inefficient 
 medical techniques.
+
+* The Prohibited Substance Carve-Out: Where the only viable last-resort treatment under this exception involves a substance or compound not currently listed on the state ledger under Article 2001, or one otherwise restricted under Article 2002, the treating clinician's emergency authorization under this article supersedes
+that restriction for the duration of the emergency treatment only. This authorization does not retroactively legalize the substance for general use, and does not, by itself, determine whether Article 2803 funding applies to the treatment rendered.
+
 
 Article 2803: Exclusion for Self-Destructive Conduct
 Because medical supplies, specialized equipment, and clinical resources are scarce within a closed ecosystem, the state refuses to subsidize personal negligence or willful physical decay.
