@@ -216,6 +216,20 @@ Article 404: Conscription and Voting Rights
 Article 405: The Productivity Mandate
 In a closed ecosystem with finite resources, survival requires maximum efficiency. Individuals who actively refuse to work, malinger, or act as useless dregs on community resources shall face institutional shunning. This includes the loss of recreational privileges, reduction to base-level survival rations, and social isolation.
 
+Article 406: Birthright Citizenship and the Examination MilestoneTo ensure that citizenship remains a earned responsibility rather than a passive privilege, the transition from dependent minor to fully recognized citizen requires strict familial and personal thresholds:
+
+* The Dual-Citizen Parentage Standard: A child born within the Martian zone of influence is only granted provisional status toward full citizenship if both parents are legally recognized Martian citizens, and neither parent has ever been convicted of a Tier 3 High Crime. If either parent has faced terminal exile or public hanging, the child's birthright status is compromised and subject to specialized immigration review.
+
+* The Mandatory Citizenship Examination: Upon reaching the standardized adulthood milestone of 20 units of age, every provisional citizen must sit for and pass a comprehensive, state-administered Citizenship Examination. This exam rigorously tests the candidate's complete understanding of the Constitution, their civic duties.
+
+* The Failure and Institutional Guardianship Mandate: If an individual fails the primary examination, they are granted exactly two subsequent retry opportunities to master the material. If a candidate fails all three attempts, they are legally classified as mentally inadequate to hold the responsibilities of a self-sovereign voter:
+
+** Asylum Placement: The individual must be securely committed to a state-managed care asylum to guarantee their long-term health and the safety of the habitat.
+
+** The Half-Step Citizen Status: Individuals under institutional guardianship are classified as half-step citizens. They are protected by law and must not be looked down upon, mistreated, or socially degraded by the general public.
+
+** Civic Disqualifications: Half-step citizens are permanently barred from voting, running for office, or serving in the military. All other constitutional protections, life-support rights, and safety expectations remain fully applicable to them.
+
 ===============================================================================
 TITLE V: CIVIL LIBERTIES AND PUBLIC PROTECTIONS
 ===============================================================================
