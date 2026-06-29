@@ -371,6 +371,7 @@ Article 1001: Absolute Sovereignty
 Article 1002: Systemic Corruption and Severe Retribution
 
 * Systemic corruption within any legal entity or branch of government—including taking bribes, trading favors, or intentionally manipulating the letter of the law to bypass its intent—shall be met with harsh and absolute retribution.
+
 * Scope of Investigation: Investigation teams shall leave no stone unturned to root out corruption. The scope is all included parties, their families and known friends and associates to the 3rd degree of separation.
 
 Complicity and Family Assets:
@@ -648,33 +649,7 @@ TITLE XXI: IMMIGRATION, VISITATION, AND EXTRATERRITORIAL JURISDICTION
 ===============================================================================
 
 Article 2101: The Martian Oath of Conformity
-Every immigrant, visitor, and transient traveler entering the Martian zone of influence must read, fully understand, and swear a binding legal oath to uphold the Martian Constitution and its codes of conduct. No individual shall clear port customs without 
-executing this affirmation.
-
-Article 2102: Entry Ineligibility Criteria
-The state denies entry to any foreign national or immigrant possessing a criminal history that mirrors a capital offense under Article 201. The colony will not import individuals with histories of such offences.
-
-Article 2103: Abolition of Diplomatic Immunity
-All visitors, corporate agents, and foreign dignitaries are subject to the absolute jurisdiction of Martian law.
-
-* The Absolute Mandate: The concept of diplomatic immunity is entirely abolished within the Martian zone of influence.
-Enforcement: Every person, vehicle, and entity entering Martian territory must follow the law exactly, without exception, compromise, or political deferment.
-
-Article 2104: Non-Citizen Minor Offenses and Trans-Orbital Deportation
-To maintain a distinct jurisdictional boundary between Martian citizens and foreign nationals, the enforcement of non-capital, minor offenses committed by visitors or immigrants shall follow a separate correctional protocol:
-
-* The Immunity from Physical Sanction: Foreign entities, travelers, or temporary immigrants who commit a minor offense that does not warrant immediate capital execution under Article 201 shall be strictly exempt from state-sanctioned corporal punishment, public 
-lashings, and permanent criminal branding. The state will not expend its judicial markers or physical resources on non-citizens.
-
-* The 10-Year Exile Mandate: In lieu of physical correction, convicted foreign nationals shall face an immediate, mandatory sentence of exactly 10 Martian years of complete exile from the Martian zone of influence.
-
-* The Immediate Repatriation Protocol: The state shall arrange for the offender's immediate removal from the planet. If logistically possible, the deported individual shall be sent back to Earth or their origin immediately utilizing their own incoming space vehicle 
-or corporate transport.
-
-* The Next Available Craft Rule: If the offender's primary vessel is incapacitated, unavailable, or lacks life-support capabilities for an immediate return trajectory, they shall be securely detained and transferred to the very first suitable outbound transport 
-vehicle leaving the Martian zone of influence.
-
-Article 2105: Legal Constraints and Common-Sense Protections for Foreign GuestsForeign guests, short-term travelers, and un-vetted corporate visitors are designated strictly as observers within the Martian zone of influence. While they do not enjoy full civic 
+Every immigrant, visitor, and transient traveler entering the Martian zone of influence must read, fn guests, short-term travelers, and un-vetted corporate visitors are designated strictly as observers within the Martian zone of influence. While they do not enjoy full civic 
 liberties, their safety and conduct are strictly regulated under baseline protections:
 
 * The Baseline Safety Guarantee: Guests are fully protected by Martian criminal law. Under no circumstance may a guest be murdered, assaulted, exploited by slavers, defrauded, or subjected to unlawful physical violence. If two foreign guests commit a violent crime 
@@ -1234,6 +1209,42 @@ is absolute unless an individual is explicitly empowered via specific, top-tier 
 * Absolute Supreme Oversight: Because the highest state leader is chosen directly by the populace, democratic oversight must remain supreme over the military apparatus. The democratically elected supreme official of the state holds the absolute constitutional right to 
 know anything, everything, and all hidden metrics within the military budget. No general, intelligence director, or defense contractor may hide any detail, black project, or classified expense from the supreme leader. Doing so is treason against the public.
 
+                                                                                ==============================================================================================================
+                                                                                                TITLE XXXII: LEGISLATIVE OPEN-SOURCE TRACKING AND CODE FREEZE MANDATES
+                                                                                ==============================================================================================================
+
+Article 3201: Public Version Control and Write-Access Constraints
+To ensure absolute public visibility, un-tamperable history tracking, and total systemic accountability, all legislative actions must operate through public version control repositories:
+
+* The Absolute Transparency Mandate: Every proposed bill, constitutional addition, downstream statute, or municipal mandate or other legal text must be hosted, tracked, and stored on a state-operated, publicly accessible version control system. The complete commit history, line-by-line modifications, 
+and author attributions must remain entirely transparent and immutable. No prior version, draft, or recorded edit may ever be deleted, hidden, or rewritten.
+
+* The Inviolable Fidelity Mandate: Only active, democratically elected Martian Council members — or authorized administrative subordinates operating explicitly under their direct, verified authorization — are permitted to submit edits, modifications, or commits to the legislative repository.
+Every edit must be attributed to the specific individual who made it; attribution to a subordinate does not shield the council member of record from accountability for that edit.
+
+Article 3202: Mathematical Document Standardization and the Law Freeze
+To eliminate the old-world political tactic of slipping hidden clauses, corporate handouts, or un-vetted paragraphs into massive legislative stacks at the final hour, the state enforces a strict review block:
+
+* The Standard Page: For all legal metrics, a "page" is rigidly defined as: A4 dimensions, 12-point Times New Roman, with no less or more than 3-point padding between rows. No legislative body shall manipulate font scale, spacing, margins, or formatting in any way to artificially reduce a bill's measured page count.
+
+* The Adequate Time for Deliberation Mandate: Before any legislative text may be brought to a final council vote, it must enter a non-negotiable review period called the Law Freeze. The freeze duration is calculated mathematically based on volume: exactly 1 Martian day of total lock per every
+100 standardized pages of legal text, rounded up to the nearest full page.
+
+* The Commencement Mandate: The freeze begins the moment the bill's text is finalized and entered into the public repository as the candidate version for vote.
+
+* The Unanimity Reset Rule: If any typographical correction, minor edit, or line alteration is deemed absolutely necessary during an active Law Freeze, the modification is completely blocked unless it receives unanimous approval from the entire sitting council. The moment an approved edit is committed to the repository,
+the active countdown immediately resets to the full baseline duration, recalculated against the bill's new total page count, forcing the freeze to restart from zero. No partial credit from the prior countdown carries over.
+
+* The Deliberation Fidelity Mandate: No vote on a bill may be opened, conducted, or recorded until its applicable Law Freeze has fully elapsed. Any council member who votes, or attempts to vote, on a bill before its freeze period has elapsed immediately and permanently forfeits their vote on that specific bill. A forfeited 
+vote cannot be recast, recorded, or counted toward the bill's outcome under any circumstance, even after the freeze period subsequently elapses or even if the bill is then modified.
+
+* Article 3203: Circumvention of Legislative Freezes
+Any deliberate attempt to bypass, trick, or accelerate the Law Freeze timer through hidden commits, repository manipulation, or administrative shortcuts triggers immediate judicial intervention:
+
+* The Automated Fraud Assessment: Evading the Law Freeze is legally recognized as a direct threat to state fidelity. Where the circumvention is committed to deceive the public or council as to a bill's contents or process, without evidence of bribery or personal enrichment, it is classified as fraud, a Tier 2 
+Intermediate Offense under Article 006, carrying mandatory lashings and permanent branding under Article 1303. Where the circumvention is undertaken in exchange for a bribe, favor, or personal or corporate enrichment, it is classified as corruption, a Tier 3 High Crime under Title X and Article 602, 
+carrying the mandatory capital penalty. The perpetrator shall face immediate investigation by state safety marshals for a potential Article 1002 systemic issue, regardless of the act's apparent scale or the perpetrator's stated intent.
+
 =======================================================
 Considerations and the ideas behind
 =======================================================
@@ -1251,3 +1262,7 @@ Article 2801:
 The Structural Fix Example: If a citizen requires nasal surgery to correct a deviated airway, the state will not pay for standard drilling procedures where the tissue is likely to regenerate and cause a relapse. The state shall exclusively fund advanced structural corrections that utilize permanent fixtures or implants to guarantee proper, lifelong healing
 
 The Substance Exclusion: Active alcoholics shall receive zero state funding for liver transplants, cirrhosis treatments, or related degenerative conditions. Citizens who willingly degrade their own physical capacity forfeit their right to public medical resources and must finance any subsequent treatments entirely out-of-pocket.
+
+Article 3203:
+The goal isn't for the entire 1002 aparatus to be triggered and bring down the hammer on a potential clerical error. However,this justifies state marshals to look into the matter for systemic corruption to make the determination for it.
+If it's found that a person was late or just plain stupid, they get spared from the wrath of Article 1002.
