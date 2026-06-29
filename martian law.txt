@@ -136,6 +136,29 @@ forensic counting.
 * Electoral Interference and Terminal Sanctions: Any deliberate attempt to manipulate election outcomes at the voting center—including, but not limited to, ballot-box stuffing, the unauthorized insertion of slips, intentional miscounting, or structural tampering with the ledger—constitutes an existential threat to the colony. It is 
 classified as a Tier 3 High Crime, carrying the mandatory capital execution penalty.
 
+Article 105: Campaign Financing Boundaries and Contribution Caps
+To prevent wealthy individuals from utilizing concentrated capital to purchase political influence, buy electoral favoritism, or drown out the voices of ordinary citizens, all political campaign funding is subject to strict mathematical limits:
+
+* The Median Income Contribution Cap: No single individual, regardless of their personal net worth, corporate holdings, or social status, may donate more than 1% of the median annual citizen income to any political candidate, political faction, or campaign per election cycle. The state shall calculate and publish this exact cap figure on the first day of every election year.
+
+* The Total Campaign Ceiling: The state shall impose a hard cap on the total aggregate funding a candidate may receive from all combined citizen donations. This metric ensures campaigns remain localized, focused on policy debate, and entirely free from excessive financial inflation.
+
+Article 106: Mandatory Financial Transparency and the Ban on Anonymous Capital
+All funding utilized to promote a candidate, spread political ideas, or run an election campaign must operate with absolute, un-compromised transparency:
+
+* The Public Campaign Ledger: Every single financial contribution to a political campaign, down to a single fractional Martian Credit, must be recorded instantly on a publicly accessible state ledger. This digital ledger must explicitly display the exact amount transferred, the timestamp, and the verified citizen identity code of the donor.
+
+* The Total Prohibition of Anonymous Funds: Anonymous donations, untraceable currency transfers, blind trusts, and hidden cash contributions to any political entity are strictly illegal and unconstitutional. A candidate is legally barred from accepting or utilizing any asset that cannot be transparently tracked back to a living, eligible citizen donor.
+
+Article 107: Electoral Financing Subversion and Mandatory Tier 3 Retribution
+Any attempt to bypass, subvert, or weaponize financial resources to corrupt the democratic process constitutes a direct act of systemic sabotage against public trust and the fidelity of the state:
+
+* The Straw Donor Prohibition: It is strictly illegal for a wealthy individual or hidden interest to bypass the 1% contribution cap by funneling money through family members, employees, shell entities, or proxy individuals who act as "straw donors."
+
+* The Penal Trigger: If an investigation by state safety marshals or a forensic audit of the public ledger uncovers a deliberate plot to manipulate election funding, inject hidden capital, or execute straw-donor schemes, the offense is instantly classified as a Tier 3 High Crime (Existential Sabotage and Treason).
+
+* The Unified Terminal Sentence: In accordance with the guiding principles of Article 006, the primary wealthy donor, the political candidate who knowingly accepted the illicit funds, and any proxy individuals who actively participated as straw donors shall face mandatory execution via exile through the primary airlock, or public hanging if the planet has been terraformed. Furthermore, all corporate and personal assets belonging to the primary corruptor shall face absolute state forfeiture.
+
 
 ===============================================================================
 TITLE II: CRIMES AND CAPITAL PUNISHMENT
