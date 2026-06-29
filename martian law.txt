@@ -698,19 +698,37 @@ negligence or any kind of fraud), their citizenship is immediately and permanent
 * The Permanent Integration Threshold: Upon reaching the fourth generation of documented family lineage on Mars, the integration period concludes. Fourth-generation citizens are fully integrated; their citizenship cannot be stripped for Tier 2 offenses, and they shall 
 face standard domestic branding and lashing penalties rather than trans-orbital deportation.
 
-Article 2107: State Sovereignty Over Immigration and the Preservation of Cultural HomogeneityTo ensure the long-term survival, internal cohesion, and security of the colony, the state establishes an absolute sovereign right to control its borders and restrict entry 
-based on cultural compatibility:
+Article 2107: The Absolute Right of Exclusion:
+The state retains an absolute, non-negotiable right to refuse entry, immigration status, residency, or citizenship to any foreign national, individual, or organized group. This right is not contingent on due process owed to non-citizens (Art. 2105) and is not subject to appeal once exercised.
 
-* The Non-Recognition of External Ideologies: While the Martian state does not recognize, validate, or subsidize any religious frameworks, it acknowledges that external entities and foreign populations may be deeply governed by them.
+* The Verified Threat Basis: Exclusion under this article must rest on one or more of the following, standing, reviewable findings:
 
-* The Cultural Compatibility Standard: The Martian state is structured as a peaceful, high-trust, and non-aggressive society. The state explicitly recognizes that external populations or foreign factions may possess heavily warlike, fundamentally incompatible, or 
-aggressive ideological traits. Where the combination of external religious, philosophical, or behavioral structures creates a demonstrable risk of cultural incompatibility, the state is under no obligation to compromise its baseline social contract.
+**  Documented affiliation, membership, or material support for an organization formally designated as hostile under Article 2704;
+**  Verified individual conduct — prior acts of violence, atrocity, slaving, or sabotage — on the public record;
+**  Origin from a polity or armed faction currently engaged in active hostilities or declared war against the Martian state (Art. 2702);
+**  Credible, documented intelligence that an organized group intends to import a parallel system of law, coercion, or violence in place of Martian civil authority (Art. 2108).
 
-* The Limitation of Equal Protections: The constitutional guarantees regarding the "legal immateriality" of an individual's demographic traits—specifically biological sex, gender, race, sub-race, or species origin (Article 004)—apply exclusively to verified, active 
-Martian citizens.
 
-* The Absolute Right of Exclusion: The state retains an absolute, non-negotiable, and irrevocable right to refuse entry, immigration status, residency, or citizenship to any foreign national. This exclusion may be based directly on racial, religious, cultural, or 
-any other inborn or behavioral character traits. The state shall aggressively exercise this power whenever necessary to retain absolute cultural homogeneity, protect the internal social fabric, and prevent the introduction of destabilizing external divisions.
+* The Standing Designation Registry: Any exclusion exercised against a named group, polity, faction, or organization — as opposed to a named individual — must be entered onto a public Exclusion Registry, stating the specific finding under the above clauses that 
+justifies it. No group may be excluded by unrecorded or informal designation.
+
+* Mandatory Periodic Review: Every group-level designation that no longer meets the Verified Threat Basis shall be struck from the Registry and entry restrictions lifted.
+
+* The Ancestry and Faith Exclusion: Race, species-origin, ethnicity, or religious affiliation, standing alone and absent a finding under the Verified Threat Basis, shall never constitute grounds for exclusion. A applicant's membership in a broad category that 
+includes hostile actors does not itself meet the standard; the finding must attach to the actual organization, polity, or individual conduct at issue.
+
+* Emergency Discretion: In a declared state of emergency under Article 2705, or where an approaching vessel meets the conditions of Article 2706, the executive may exercise summary exclusion pending the next council session, at which point the action must be 
+ratified onto the Registry or reversed.
+
+* The Classified Basis: Where the state's intelligence apparatus possesses a good-faith, articulable basis to believe an individual, individuals or organization poses a threat to colony survival, or infrastructure and disclosure of that basis would compromise a source, operation, or method, exclusion may be entered as a Classified Finding instead of a public Registry entry. A Classified Finding is permanent, requires no periodic review or re-justification, and excluded is excluded.
+
+* Attribution of Record: Every Classified Finding must be attached to a specific, identifiable office or unit of the intelligence apparatus responsible for it, as defined by subordinate statute. That attribution is permanent and cannot be anonymized, transferred, or 
+retroactively reassigned.
+
+* Permanence: A properly authorized Classified Finding does not expire, is not subject to periodic review, and does not require re-justification. Unless the inteligence apparatus unlocks the restriction it stays in place.
+
+* The Fabrication Penalty: If a Classified Finding is later established — by confession, investigation, or any other means — to have been fabricated, invented, or issued as a pretext unrelated to genuine colony security, every individual within the attributed office 
+who authored, approved, or knowingly signed off on it shall be prosecuted and executed as Tier 3 offenders under the principle of Article 107. There is no statute of limitations on this exposure.
 
 Article 2108: The Subversion Prevention Mandate and Anti-Soft Colonization ClauseTo ensure that incoming populations do not act as demographic tools for ideological expansion, the state establishes an active, permanent mandate to detect, prevent, and dismantle 
 methods of "soft colonization":
@@ -1219,6 +1237,8 @@ know anything, everything, and all hidden metrics within the military budget. No
 =======================================================
 Considerations and the ideas behind
 =======================================================
+Article 2107:
+The idea is that the state trusts it's vetted and legally beholden intelligence apparatus over people who are not beholden to it
 
 Article 2706:
 * Design and Safety Recommendations (Non-Statutory): The state formally records the following non-binding engineering recommendations for the aforementioned orbital defense platform:
