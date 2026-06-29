@@ -995,7 +995,7 @@ The state shall fully fund comprehensive medical care for all Martian citizens, 
 * The Permanent Cure Mandate: Public funding is strictly limited to medical procedures and surgical interventions that offer a definitive, permanent fix to an ailment. The state will not finance temporary patches, recurring cosmetic workarounds, or inefficient 
 medical techniques.
 
-* The Prohibited Substance Carve-Out: Where the only viable last-resort treatment under this exception involves a substance or compound not currently listed on the state ledger under Article 2001, or one otherwise restricted under Article 2002, the treating clinician's emergency authorization under this article supersedes
+* The Prohibited Substance Exception: Where the only viable last-resort treatment under this exception involves a substance or compound not currently listed on the state ledger under Article 2001, or one otherwise restricted under Article 2002, the treating clinician's emergency authorization under this article supersedes
 that restriction for the duration of the emergency treatment only. This authorization does not retroactively legalize the substance for general use, and does not, by itself, determine whether Article 2803 funding applies to the treatment rendered.
 
 
