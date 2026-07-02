@@ -184,7 +184,8 @@ TITLE II: CRIMES AND CAPITAL PUNISHMENT
 Article 201: Capital Offenses
 The Martian colony maintains absolute zero tolerance for destabilizing crimes. The following offenses carry a mandatory, non-negotiable death sentence:
 * Premeditated murder
-* Sexual assault or rape
+* Rape
+* Systematic targeting of victims, running a pattern of sexual assault
 * Crimes against minors (Pedophilia)
 * Public corruption or bribery
 * Terrorism or sabotage of colony infrastructure
@@ -194,6 +195,9 @@ The Martian colony maintains absolute zero tolerance for destabilizing crimes. T
 * Material support for those that are convicted under this Article with the intent of aiding the crime.
 * Any act not enumerated above that meets the Tier 3 threshold defined in Article 006 — constituting an attack on state sovereignty, public health, resource safety, or the general public — may be designated a capital offense by
 downstream statute passed through standard council procedure
+* False accusation of a T3 crime.
+
+The falseness standard: Deliberate False Accusation of a Capital Offense: Any individual who knowingly and deliberately fabricates, manufactures, or presents a false accusation of a Tier 3 capital offense against another person — with the intent of causing the state to execute an innocent citizen — commits a Tier 3 High Crime. Conviction requires demonstrated proof of deliberate fabrication; a failed prosecution, acquittal, or inability to prove the original charge does not alone constitute grounds for false-accusation proceedings. The accused false accuser is entitled to the same jury process under Article 1102 as any other defendant. This includes retroactively attempting to remove consent to sexual acts.
 
 Article 202: Method of Execution (The Airlock Provision)
 Until Mars possesses a naturally breathable atmosphere, the colony will not waste life-support resources on death row inmates. Execution shall be carried out exclusively via permanent exile:
