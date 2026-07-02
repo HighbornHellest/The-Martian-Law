@@ -197,7 +197,9 @@ The Martian colony maintains absolute zero tolerance for destabilizing crimes. T
 downstream statute passed through standard council procedure
 * False accusation of a T3 crime.
 
-The falseness standard: Deliberate False Accusation of a Capital Offense: Any individual who knowingly and deliberately fabricates, manufactures, or presents a false accusation of a Tier 3 capital offense against another person — with the intent of causing the state to execute an innocent citizen — commits a Tier 3 High Crime. Conviction requires demonstrated proof of deliberate fabrication; a failed prosecution, acquittal, or inability to prove the original charge does not alone constitute grounds for false-accusation proceedings. The accused false accuser is entitled to the same jury process under Article 1102 as any other defendant. This includes retroactively attempting to remove consent to sexual acts.
+The falseness standard: Deliberate False Accusation of a Capital Offense: Any individual who knowingly and deliberately fabricates, manufactures, or presents a false accusation of a Tier 3 capital offense against another person — with the intent of causing the
+state to execute an innocent citizen — commits a Tier 3 High Crime. Conviction requires demonstrated proof of deliberate fabrication; a failed prosecution, acquittal, or inability to prove the original charge does not alone constitute grounds for
+false-accusation proceedings. The accused false accuser is entitled to the same jury process under Article 1102 as any other defendant. The retroactive withdrawal of consent to a sexual act that was consensual at the time of occurrence does not constitute grounds for Tier 3 prosecution of the accused, and where shown to be deliberate fabrication, shall itself be prosecuted as a false accusation under this article.
 
 Article 202: Method of Execution (The Airlock Provision)
 Until Mars possesses a naturally breathable atmosphere, the colony will not waste life-support resources on death row inmates. Execution shall be carried out exclusively via permanent exile:
