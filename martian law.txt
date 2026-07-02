@@ -192,6 +192,8 @@ The Martian colony maintains absolute zero tolerance for destabilizing crimes. T
 * Unauthorized trafficking of controlled substances
 * Slavers
 * Material support for those that are convicted under this Article with the intent of aiding the crime.
+* Any act not enumerated above that meets the Tier 3 threshold defined in Article 006 — constituting an attack on state sovereignty, public health, resource safety, or the general public — may be designated a capital offense by
+downstream statute passed through standard council procedure
 
 Article 202: Method of Execution (The Airlock Provision)
 Until Mars possesses a naturally breathable atmosphere, the colony will not waste life-support resources on death row inmates. Execution shall be carried out exclusively via permanent exile:
