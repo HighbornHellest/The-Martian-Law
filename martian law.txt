@@ -301,6 +301,31 @@ Citizens have the right to protest and assemble.
 Article 503: Plain Language Requirement
 To ensure universal access to justice, all Martian laws, regulations, and legal notices must be written strictly in plain, accessible English. The use of dense legal jargon or intentionally confusing terminology is unconstitutional so that everybody can understand them.
 
+Article 504: The Right to Posthumous Dignity
+Every deceased citizen and lawful resident of the Martian colony is afforded basic dignity in death, independent of their criminal history, social standing, or the circumstances of their passing.
+
+* The Desecration Prohibition: Remains within the colony's custody or jurisdiction shall be handled with baseline physical respect. No remains shall be mutilated beyond what lawful medical or forensic examination strictly requires, publicly displayed for purposes
+of humiliation, or treated in any manner calculated to degrade the deceased or their surviving family. The standard is simple decency — the kind any person of ordinary conscience would recognize without further instruction.
+
+* The Notification Obligation: The state bears an active duty to notify the next of kin of any deceased individual within its jurisdiction. If next of kin are not already aware of the death, the state shall make reasonable effort to locate and inform them.
+Next of kin retain the right to claim and receive remains for private disposition.
+
+* Private Funerary Rights: The private funeral or mourning observance of a deceased individual is the sole explicit exception to the public restrictions on religious expression established under Article 902. A private funeral may take any form the family 
+chooses — including fully religious ceremony, ritual, or observance — without state interference. What a family does in private grief is their own.
+State Funerals: Any funeral, memorial, or observance conducted by or on behalf of the state is secular without exception. No religious ceremony, symbol, or invocation shall be incorporated into a state-organized memorial under any circumstance, consistent with
+Article 901.
+
+* Posthumous Reputation Protection: The deliberate public defamation, mockery, or character assassination of a deceased individual who held no Tier 3 criminal conviction is prohibited. The dead cannot defend themselves; the state does it for them. This protection 
+does not extend to individuals convicted of Tier 3 offenses — their public record stands as it is. It explicitly does not extend to traitors: those who betrayed the colony's trust and survival forfeit all posthumous protections. Let the record speak, and let 
+people speak about the record.
+
+* Public Execution Conduct: Where capital punishment is carried out by public hanging, the assembled public is present to witness justice, not to participate in degradation. The hanging is the act; the spectacle ends when the act ends. Harassment, 
+projectile throwing, or any conduct directed at the condemned or their remains during or following the execution is prohibited. Decency is expected of the witnesses even in the most somber theater the colony produces.
+
+* The Hanging Disposition: Following a public execution, remains shall be released to next of kin upon request. The hanging constitutes the full and complete extent of state retribution. No further indignity serves any justice function and none shall be permitted.
+The Airlock and Exile Provision: Where a Tier 3 sentence results in exile through the primary airlock or forced displacement beyond the colony perimeter, no remains exist within the state's custody or jurisdiction. This article's protections attach to remains
+the state actually holds. What lies beyond the perimeter is beyond the perimeter. The state has no further obligation, and no further reach.
+
 ===============================================================================
 TITLE VI: CORPORATE ACCOUNTABILITY AND ANTI-CORRUPTION
 ===============================================================================
