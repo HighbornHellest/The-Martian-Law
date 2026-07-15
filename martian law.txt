@@ -192,7 +192,10 @@ The Martian colony maintains absolute zero tolerance for destabilizing crimes. T
 * High treason against the settlement or state
 * Unauthorized trafficking of controlled substances
 * Slavers
+* Animal Cruelty
 * Material support for those that are convicted under this Article with the intent of aiding the crime.
+
+
 * Any act not enumerated above that meets the Tier 3 threshold defined in Article 006 — constituting an attack on state sovereignty, public health, resource safety, or the general public — may be designated a capital offense by
 downstream statute passed through standard council procedure
 * False accusation of a T3 crime.
@@ -215,19 +218,25 @@ state may only break this protocol and deal with a shunned entity if the entity'
 Article 204: Execution of Corporal Punishment and Criminal Markings
 The physical delivery of state-sanctioned discipline must follow precise, standardized parameters to maintain absolute judicial objectivity:
 
-*Lashing Protocols: Minor offenses are penalized via public lashings delivered strictly to the offender's back. The punishment must never maim, break bones, or permanently disfigure the individual
+* Lashing Protocols: Minor offenses are penalized via public lashings delivered strictly to the offender's back. The punishment must never maim, break bones, or permanently disfigure the individual
 
-*To completely eliminate human bias, zealotry, or variance in physical strength, lashings shall be executed via automated machines, resource and technology levels permitting. The precise volume and kinetic force of the lashings are strictly determined by the 
+* To completely eliminate human bias, zealotry, or variance in physical strength, lashings shall be executed via automated machines, resource and technology levels permitting. The precise volume and kinetic force of the lashings are strictly determined by the 
 sentencing courts under Title XIII.
 
-*Marking Design and Intent: Permanent markings must use a highly distinct, universally recognized shape that communicates the crime at a glance. Because the state expects and encourages offenders to reform their behavior, these markings are placed on the inside 
+* Marking Design and Intent: Permanent markings must use a highly distinct, universally recognized shape that communicates the crime at a glance. Because the state expects and encourages offenders to reform their behavior, these markings are placed on the inside 
 of the left forearm where they can be modestly hidden by everyday clothing during regular social interaction.
 
-*Inspection Rights: State marshals, law enforcement officers, and authorized public officials maintain the absolute legal right to demand a physical inspection of a citizen's marking locations at any time.
+* Inspection Rights: State marshals, law enforcement officers, and authorized public officials maintain the absolute legal right to demand a physical inspection of a citizen's marking locations at any time.
 
-*Anatomical Exceptions: If the left forearm is entirely unavailable due to combat injury, amputation, or congenital birth defects, the branding machine shall administer the mark on the inside of the right forearm, or the next closest viable surface.
+* Anatomical Exceptions: If the left forearm is entirely unavailable due to combat injury, amputation, or congenital birth defects, the branding machine shall administer the mark on the inside of the right forearm, or the next closest viable surface.
 
 
+Article 205: Prohibition of Purposeless Animal Cruelty
+The deliberate infliction of pain, suffering, injury, or death upon any animal in the absence of utilitarian justification constitutes a Tier 3 High Crime.
+
+* The Utilitarian Exemption: Lawful slaughter for food, pest control, regulated veterinary procedures, and state-sanctioned scientific research conducted under the framework of Article 2804 are explicitly exempt. The harm must serve a recognized, legitimate function.
+
+* The Cruelty Standard: An act meets the cruelty threshold where the suffering inflicted serves no purpose beyond the act itself — where the harm is the point, not a byproduct of a legitimate function. Intent is the determining factor; a jury, under Artical 1102 shall assess whether a legitimate utilitarian purpose was present and credible.
 
 ===============================================================================
 TITLE III: SECURITY AND ENVIRONMENTAL PROTECTION
@@ -1297,6 +1306,13 @@ carrying the mandatory capital penalty. The perpetrator shall face immediate inv
 =======================================================
 Considerations and the ideas behind
 =======================================================
+
+Article 205:
+Two reasons. First: those who are cruel to animals will be cruel to people. The behavioral pattern is well documented and a closed colony cannot afford to find out the hard way.
+
+Second, and more honestly: people who do this are not the kind of people we want to live with. This colony has a social contract. Sadistic cruelty to animals is incompatible with it. The constitution does not apologize for finding certain behaviors so abhorrent that the answer is simply: not here, not ever.
+
+
 Article 2107:
 The idea is that the state trusts it's vetted and legally beholden intelligence apparatus over people who are not beholden to it
 
