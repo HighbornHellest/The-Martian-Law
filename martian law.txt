@@ -236,7 +236,38 @@ The deliberate infliction of pain, suffering, injury, or death upon any animal i
 
 * The Utilitarian Exemption: Lawful slaughter for food, pest control, regulated veterinary procedures, and state-sanctioned scientific research conducted under the framework of Article 2804 are explicitly exempt. The harm must serve a recognized, legitimate function.
 
-* The Cruelty Standard: An act meets the cruelty threshold where the suffering inflicted serves no purpose beyond the act itself — where the harm is the point, not a byproduct of a legitimate function. Intent is the determining factor; a jury, under Artical 1102 shall assess whether a legitimate utilitarian purpose was present and credible.
+* The Cruelty Standard: An act meets the cruelty threshold where the suffering inflicted serves no purpose beyond the act itself — where the harm is the point, not a byproduct of a legitimate function. Intent is the determining factor; a jury, under Artical 1102 shall
+assess whether a legitimate utilitarian purpose was present and credible.
+
+Article 206: Mental State as Criminal Defense
+
+The General Prohibition:
+For the purposes of criminal prosecution, the mental state, cognitive capacity, or comprehension of law of the accused is immaterial to the question of guilt. If a crime is provably committed, the person who committed it shall face judgment regardless of whether they 
+understood the wrongdoing, possessed the cognitive capacity to fully comprehend it, or were aware of its legal classification. Ignorance of the law, diminished intellectual capacity, and failure to understand the nature of one's actions are not defenses, mitigating 
+circumstances, or grounds for reduced prosecution under any tier.
+
+* The Combat Veteran Exception:
+The state recognizes a singular, narrow exception to the above principle, applicable exclusively to citizens who have served in active combat roles under the Martian Defense Forces and carry a formally diagnosed, service-connected psychological condition — 
+including but not limited to combat stress disorder, post-traumatic stress, or other conditions demonstrably caused by their service — as verified by state medical records predating the offense.
+
+** The Unconscious State Standard: Where a combat veteran commits an act that would otherwise constitute a Tier 1 or Tier 2 offense while in a documented, clinically recognized involuntary state — including night terrors, dissociative episodes, or combat flashbacks
+ — and where forensic and medical evidence supports that the act was committed without conscious awareness or volitional control, the court may consider the service-connected condition as a mitigating circumstance in sentencing, not in determining guilt.
+
+** Guilt Is Not Excused: This exception does not constitute a finding of innocence. The act occurred, and the court shall record it as such. What the exception permits is a departure from standard Tier sentencing where the specific conditions above are met and verified.
+
+** Tier 3 Exclusion: This exception does not apply to Tier 3 capital offenses under any circumstance. A combat veteran who commits a capital offense, regardless of mental state or service history, faces the same mandatory judgment as any other citizen. The colony's debt
+to its defenders does not extend to absorbing Tier 3 harm on their behalf.
+
+** The Verification Requirement: The exception is only available where: 
+    (a) the service-connected diagnosis exists in state medical records predating the offense; 
+    (b) forensic or medical evidence supports the involuntary state at the time of the act; and 
+    (c) the accused has not previously invoked this exception for a separate offense.
+It is available once. The state's reciprocity for service has limits — repeated invocation would convert a protection into a license.
+
+** The Treatment Mandate: Invocation of this exception triggers a mandatory state-funded treatment and monitoring program for the veteran. The colony reciprocates service with leniency once, and simultaneously with the resources to prevent recurrence. This is not optional
+ for the veteran — it is the condition under which the exception operates.
+
+
 
 ===============================================================================
 TITLE III: SECURITY AND ENVIRONMENTAL PROTECTION
@@ -1311,6 +1342,15 @@ Article 205:
 Two reasons. First: those who are cruel to animals will be cruel to people. The behavioral pattern is well documented and a closed colony cannot afford to find out the hard way.
 
 Second, and more honestly: people who do this are not the kind of people we want to live with. This colony has a social contract. Sadistic cruelty to animals is incompatible with it. The constitution does not apologize for finding certain behaviors so abhorrent that the answer is simply: not here, not ever.
+
+
+Article 206:
+The "mental state is no defense" principle exists to prevent a multi-hundred year drift toward excusing criminals on grounds of "diminished" capacity (read: hinding behind / faked). It does not exist to punish people who gave up parts of their lives in service of Mars 
+and came back carrying wounds for the colony .
+These are not the same situation. A person born with low cognitive capacity who commits fraud chose to commit fraud. A veteran who beats their spouse during a night terror without regaining consciousness did not choose anything — they were somewhere else entirely, fighting
+a war that ended years ago in a body that didn't get the message.
+The colony asked something of these people. They paid. The least Mars can do is not airlock them for the bill coming due in their sleep.
+The exception is narrow by design: service-connected, diagnosed before the offense, verified forensically, Tier 1 and 2 only, available exactly once. It is reciprocity, not a blank check.
 
 
 Article 2107:
