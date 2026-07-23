@@ -1,0 +1,43 @@
+work in progress ideas:
+
+Constitution - Criminal/Legal:
+
+Judges need to be held accountable if they do dumb shit (gag order example — compensation comes out of judge's pocket retroactively if not secured upfront)
+Corporate veil piercing — former owners/executives liable for ongoing harm from products even after company dissolves
+Mental state, IQ, or understanding of law is immaterial to criminal prosecution — if the crime is provably committed, judgment proceeds regardless
+
+Constitution - IP/Copyright:
+
+When a trademark/IP is not used it's forfeited and goes public domain — no sitting on IPs
+Copyright violation — holder can request destruction of derivative work in part or entirety, separate from fines. Criminal case = mandatory destruction. Forensic audit at violator's expense
+
+Digital destruction standard — overwrite 15 times with zero bytes for overwritable media, physical destruction for write-once media, forensic verification throughout
+
+Hosts/platforms outside Martian jurisdiction that don't comply with destruction mandates are banned from all Martian zones of influence until compliance, entire corporate chain included
+Non-compliant platform ban covers entire corporate family, not just the named entity
+
+Constitution - Still needs a home/Title:
+
+Code of Conduct (non-binding, no enforcement):
+
+Suppressing talent to prevent change is counterintuitive and unethical
+Small gestures that take seconds and cost nothing are meaningful across long times
+Plant trees under whose shade we'll never sit — when small or no compromise is needed for long term over short term, always choose long term
+Physical and mental wellbeing are linked — Socrates quote — civic duty to keep physically and thus mentally fit
+Personal hygiene and dressing decently is smart and necessary, but professional/work dirt and end of day odour are part of life and not to be looked down upon
+Works of ancient Greeks and Romans — Socrates, Plato, Marcus Aurelius, Seneca, Cicero — should be studied in personal time and pondered if time allows
+"Jót vagy semmit" — speak well of the dead or say nothing — not codified, just the cultural register the document points toward
+
+Considerations appendix additions:
+
+Article 3203: 1002 apparatus not automatically triggered on clerical error, but justifies marshals looking into it — if found to be stupidity, Tier 2, go home
+Article 209: Two reasons for animal cruelty being Tier 3 — behavioral predictor of violence toward people, and simply not the kind of person the colony wants
+Mental state pin: 170-year trajectory from hanging horse thieves to releasing rapists on diminished capacity grounds — this Constitution explicitly refuses that drift at the constitutional level
+
+Still crystallizing / explicitly incomplete:
+
+Code of Conduct opening section as a whole — letter from founders to future citizens, persuasive not declarative register
+Judicial accountability article (full shape not yet drafted)
+Corporate veil piercing article (full shape not yet drafted)
+IP non-use forfeiture article (full shape not yet drafted)
+Title XXXIII tentatively housing judicial accountability and corporate accountability together
