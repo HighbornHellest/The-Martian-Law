@@ -236,7 +236,7 @@ The deliberate infliction of pain, suffering, injury, or death upon any animal i
 
 * The Utilitarian Exemption: Lawful slaughter for food, pest control, regulated veterinary procedures, and state-sanctioned scientific research conducted under the framework of Article 2804 are explicitly exempt. The harm must serve a recognized, legitimate function.
 
-* The Cruelty Standard: An act meets the cruelty threshold where the suffering inflicted serves no purpose beyond the act itself — where the harm is the point, not a byproduct of a legitimate function. Intent is the determining factor; a jury, under Artical 1102 shall
+* The Cruelty Standard: An act meets the cruelty threshold where the suffering inflicted serves no purpose beyond the act itself — where the harm is the point, not a byproduct of a legitimate function. Intent is the determining factor; a jury, under Article 1102 shall
 assess whether a legitimate utilitarian purpose was present and credible.
 
 Article 206: Mental State as Criminal Defense
@@ -452,7 +452,7 @@ Complicity and Family Assets:
 under Article 201
 
 ===============================================================================
-ITLE XI: STATUTORY INTERPRETATION AND JUDICIAL AMBIGUITY
+TITLE XI: STATUTORY INTERPRETATION AND JUDICIAL AMBIGUITY
 ===============================================================================
 
 Article 1101: Statutory Intent
@@ -1394,6 +1394,7 @@ This expectation must never devolve into elitist snobbery or vanity. A technicia
 body odors at the end of a hard shift.
 
 * The Intent: Honest workspace grime is the proud armor of production. It is a natural part of frontier life, and the community operates on the high-trust understanding that the worker will simply clean up when they return to their private habitat module
+
 
 
 
