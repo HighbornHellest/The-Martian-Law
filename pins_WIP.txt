@@ -3,13 +3,37 @@ work in progress ideas:
 Constitution - Criminal/Legal:
 
 Judges need to be held accountable if they do dumb shit (gag order example — compensation comes out of judge's pocket retroactively if not secured upfront)
-Corporate veil piercing — former owners/executives liable for ongoing harm from products even after company dissolves
+
+Dumb shit is singing a gag order for "free" when that would adversely affect the gagged party, at the request of the other party. If part A wants to gag party B,.but part B is a journalist, then part A should comp party B. If the judge doesn't ask for this, the comp, retroactively would come out of his/her money. If needed thinks should be liquidated. As an example of dumb shit
+
+------
+
+Another pin: corporate veil piercing: if a company dissolves but it's produts are in use, and they probably and demonstrably, adversely effect human life on a regular basis ( long term, permanent harm or death), former owners and executives can be legally held liable as if the company operated. 
+Meant as an anti business close/open revolving door to dodge responsibility
+
+----
+
 Mental state, IQ, or understanding of law is immaterial to criminal prosecution — if the crime is provably committed, judgment proceeds regardless
+-For criminal prosecution the mental state, IQ or understanding of the law is immaterial. If a crime is provable comitted, the person who did it have to face judgement regardless if they understand the wrongdoing or not
+
+
 
 Constitution - IP/Copyright:
-
+---
+New pin: when a trademark / Ip is not used, it's forfeited and goes public domain. No sitting on ips
 When a trademark/IP is not used it's forfeited and goes public domain — no sitting on IPs
 Copyright violation — holder can request destruction of derivative work in part or entirety, separate from fines. Criminal case = mandatory destruction. Forensic audit at violator's expense
+
+When a copyright is violated, the party, that had it's rights violated can ask for the derivative work in parts or in it's entirity destroyed. This does not forego, paying fines. So in worst case, the copyright violater may need to pay to the holder and destroy their work completely.
+In a non-civil bit criminal case, destruction of derivative work is mandatory.
+
+This needs to be audited by forensic analysis at the dime of the copyright violator
+
+digital context: press shift+delete. Then take the hard drive / ssd / whatever future carrier is there. If it can be written, overwrite the segments like 15 times with 0 bytes. If it can't be overwritten, becuase it's a write once media, destroy it. Utterly and completely, where no recovery is possible.
+
+
+---
+
 
 Digital destruction standard — overwrite 15 times with zero bytes for overwritable media, physical destruction for write-once media, forensic verification throughout
 
@@ -19,6 +43,27 @@ Non-compliant platform ban covers entire corporate family, not just the named en
 Constitution - Still needs a home/Title:
 
 Code of Conduct (non-binding, no enforcement):
+the idea of the code of concduct is that it's not leagall (constitutionally enforced), however it still tries to steer. just no carrot or stick
+
+
+
+
+pin for the code of conduct section that is missing, but hope to add later:
+-to prevent change by supressing tallent is counterintitive and unethical.
+-small gestures that take seconds, and cost nothing are meaningful across long times
+-we must plant trees under what's shade we'll never sit in. When small or no compromises are needed for long term betterment over short term one, always chose the long term one.
+
+-phisical and mental welbeeing are linked. 
+ ~It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable ~ Socrates.
+It is a civic duty of all citizens to keep themsleves phisically and thus mentally fit.
+
+-personal hygene, and dressing decently, not wearing dirty clotes where not needed, and taking care of sanitation should be lookat at as not only smart, but necessary. But this shouldn't go to the extreme, where a painter, or a worker is looked down at, for their professional clothing, or at the end of day body odours. They're part of life, and those will surely clean up when they get home
+
+-The works of the ancient greeks of Earth, Socrates, Plato, Markus Aurelius, Seneca, Cicero and others works should be studied in personal time and pondered on if time allows.
+
+(Motivation: greeks knew something, that i think we forgot)
+
+
 
 Suppressing talent to prevent change is counterintuitive and unethical
 Small gestures that take seconds and cost nothing are meaningful across long times
@@ -26,7 +71,6 @@ Plant trees under whose shade we'll never sit — when small or no compromise is
 Physical and mental wellbeing are linked — Socrates quote — civic duty to keep physically and thus mentally fit
 Personal hygiene and dressing decently is smart and necessary, but professional/work dirt and end of day odour are part of life and not to be looked down upon
 Works of ancient Greeks and Romans — Socrates, Plato, Marcus Aurelius, Seneca, Cicero — should be studied in personal time and pondered if time allows
-"Jót vagy semmit" — speak well of the dead or say nothing — not codified, just the cultural register the document points toward
 
 Considerations appendix additions:
 
