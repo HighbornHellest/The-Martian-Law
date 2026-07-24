@@ -1175,7 +1175,7 @@ The state will not clutter the code with excessive, bureaucratic industry-specif
 * The Open Frontier Baseline: Provided an enterprise operates with absolute transparency (Title XVII), strictly adheres to the flat 25% corporate tax assessment (Title XXIX), and honors the absolute prohibition against corporate personhood and lobbying (Title VI), 
 they are entirely free to mine, salvage, and trade resources without arbitrary state micro-management. If an activity does not hurt an individual, exploit a worker, or threaten the infrastructure of the colony, the state shall not interfere.
 
-Article 3002: Transponder Mandates and Emergency Safety Requirements
+Article 3003: Transponder Mandates and Emergency Safety Requirements
 To safeguard life across the hazardous vacuum of space and ensure clear traffic monitoring, all vessels operating under Martian jurisdiction must maintain strict hardware baseline redundancies:
 
 * The Continuous Transponder Requirement: Every Martian-registered vessel, whether planetbound atmosphere craft, surface rovers, orbital shuttles, or deep-space asteroid mining rigs or otherwise, must be equipped with a functional, active navigation transponder. 
@@ -1186,7 +1186,7 @@ Deactivating a transponder within the Martian zone of influence without explicit
 * The Emergency Life Pod Provision: Every vessel must maintain a sufficient quantity of certified, fully stocked emergency life pods or structural escape modules to accommodate 100% of the active crew and passengers on board. These pods must feature independent 
 life-support networks capable of sustaining life until localized rescue operations can be executed.
 
-Article 3003: The Spaceborne Good Samaritan Mandate
+Article 3004: The Spaceborne Good Samaritan Mandate
 To anchor a high-trust society across the empty expanse of the vacuum, the state establishes an absolute humanitarian baseline for all vessels traversing the Martian zone of influence:
 
 * The Mandatory Attempted Rescue Rule: Any vessel operating within the planet's vicinity or immediate sector that intercepts an emergency broadcast, distress beacon, or active hazard transmission is legally required to attempt a rescue. The master or crew must 
@@ -1202,7 +1202,7 @@ demanding immediate financial salvage parameters before saving a sapient life is
 necessary, and carried out in good faith, the public port authority may fully compensate the rescuing entity with state-backed fuel allowances, propellant re-fills, or Martian Credits to unburden their supply ledger.
 
 
-Article 3004: Orbital Defense Debris, Salvage Rights, and Emergency Containment
+Article 3005: Orbital Defense Debris, Salvage Rights, and Emergency Containment
 To ensure clear property boundaries and maintain orbital path safety following defensive actions, the state establishes strict protocols for ship remains within the Martian zone of influence:
 
 * The State Ownership Rule: Any vessel that is destroyed, neutralized, or blown up by planetary orbital defense systems for any reason is immediately classified as absolute state property. This ownership extends to all structural hulls, advanced technology, 
