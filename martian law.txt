@@ -333,6 +333,19 @@ TITLE V: CIVIL LIBERTIES AND PUBLIC PROTECTIONS
 Article 501: Freedom of Expression
 Every citizen maintains the absolute right to freedom of speech, opinion, and expression. The governing council shall pass no law restricting the peaceful sharing of ideas, criticisms, or beliefs.
 
+* The Public/Private Distinction: The exercise of this right is subject to the spatial framework established under Title IX. Religious, spiritual, and ideological expression is fully protected as a private act under Article 902; it does not carry an unrestricted right
+to public broadcast, proselytization, or display in shared civic spaces under Article 901. This distinction does not restrict the content of belief — only its venue.
+
+* The Glorification Prohibition: The right to free expression does not extend to the public celebration, glorification, or enthusiastic endorsement of terrorist attacks, mass casualty events, or acts of infrastructure sabotage carried out against the Martian zone of 
+influence and its people. Criticism, historical analysis, academic study, political commentary, and even expressed sympathy with the stated grievances behind an attack remain fully protected. What is not protected is the public expression of joy, approval, or 
+celebration of the deaths and destruction themselves. Any citizen who publicly glorifies such acts violates their Article 003 oath, betrays the bond of collective survival, and commits a Tier 3 High Crime carrying the mandatory capital penalty. Any non-citizen who
+does so faces immediate mandatory deportation under Article 2104 in addition to any applicable criminal penalties.
+
+* The Evidentiary Standard: Prosecution under the Glorification Prohibition requires the court to make a specific, narrow factual determination: that the accused's public expression constituted active celebration or approval of the violence itself — not merely an uncomfortable, controversial, or reprehensible political position about the events surrounding it. The standard is unambiguous joy and approval of death and destruction, not political dissent. Where genuine ambiguity exists between protected political opinion and prohibited glorification, it resolves in favor of protected speech.
+
+* The Anti-Chilling Mandate: No enforcement of the Glorification Prohibition shall be used as a pretext to silence legitimate political dissent, criticism of state policy, historical analysis, or artistic expression. The burden of proof lies entirely with the prosecution to demonstrate active glorification on the basis of clear and unambiguous evidence. A wrong verdict under this article carries irreversible consequences; the court is instructed to hold the prosecution to the highest possible evidentiary standard before returning a capital finding.
+
+
 Article 502: The Right to Peacefully Assemble
 Citizens have the right to protest and assemble.
 * Notice Requirement: Organizers must submit a notice three Martian weeks prior to the event.
@@ -1430,6 +1443,20 @@ These are not the same situation. A person born with low cognitive capacity who 
 a war that ended years ago in a body that didn't get the message.
 The colony asked something of these people. They paid. The least Mars can do is not airlock them for the bill coming due in their sleep.
 The exception is narrow by design: service-connected, diagnosed before the offense, verified forensically, Tier 1 and 2 only, available exactly once. It is reciprocity, not a blank check.
+
+Article 501:
+
+The freedom of speech is not a courtesy the state extends to citizens. It is a foundational right the state is forbidden from touching. This colony will not become a place where uncomfortable ideas are prosecuted, where political dissent is criminalized, or where the state decides which opinions are permitted. That path leads somewhere Mars was built to leave behind.
+
+The Glorification Prohibition exists for a different reason entirely, and the distinction matters.
+
+People who survive hard things together long enough become bound to one another. By oath and creed first. By shared history second. And however faintly, by blood in time. A community that breathes the same recycled air, that knows one person's failure can kill everyone, that has buried people in the same red soil — that community develops a bond that makes attacks on it feel like something more than a political event. They feel like betrayal. Not because of ideology, but because of what the people share.
+
+Understanding why an attack happened is not betrayal. Analyzing the conditions that produced it is not betrayal. Even expressing sympathy with the grievances behind it — however uncomfortable that makes the people around you — is not betrayal. These are the acts of a thinking person engaging honestly with a difficult world, and this constitution protects them absolutely.
+
+Standing in public and celebrating the deaths of the people you eat with, work beside, and share air with is something else. It is not a political position. It is a public declaration that the bond means nothing — that you are not, in any meaningful sense, on the same side as the community that surrounds you. It is an oath, broken publicly, in front of everyone who took it seriously.
+
+The evidentiary standard is high and deliberately so. Executing someone for speech is the most irreversible act this constitution permits. The line between repugnant political opinion and unambiguous public celebration of mass murder must be held with absolute precision. But where that line is clearly crossed, the colony is not required to extend the protections of citizenship to someone who has publicly declared, in the plainest possible terms, that they do not consider themselves part of it.
 
 
 Article 2107:
