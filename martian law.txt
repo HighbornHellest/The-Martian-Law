@@ -548,6 +548,38 @@ Article 604: Democratized Criminal Pardons
 No individual—neither the Council leader, a judge, nor a commander—holds the power to pardon a convicted criminal. Pardons can only be granted through a public, 
 colony-wide election.
 
+
+Article 605: Corporate Veil Piercing and Product Liability
+The dissolution, bankruptcy, or restructuring of a corporate entity does not extinguish the personal liability of its owners and chief executives for ongoing, 
+demonstrable harm caused by products they manufactured and deployed while in control of the company.
+
+* The Conditions: Personal liability under this article attaches where: the company is defunct in any form; the product continues to cause serious, ongoing harm to a 
+significant number of people — at a scale consistent with class-action standing — demonstrably and root-causally attributable to the product; and the named individuals held 
+ownership or executive decision-making authority at the time the product was manufactured and deployed.
+
+* The Liability: Former owners and chief executives may be pursued both criminally and civilly as if the company were still operating. Standard criminal negligence, fraud, and 
+engineering integrity provisions apply. If the company still exists, standard corporate criminal liability applies — this article does not apply.
+
+* The Revolving Door Prohibition: Dissolving a company to escape product liability and reforming under a new entity — whether immediately or after a period — constitutes 
+fraud. The liability follows the individuals, not the corporate structure. Restructuring, rebranding, or successor entities controlled by the same individuals do not reset 
+liability exposure.
+
+* The Insurance Revolving Door: The revolving door prohibition explicitly  applies to insurance entities too, as with everybody else. Dissolving an insurance company to escape 
+outstanding claims and reforming under a new structure — immediately or after any period — is fraud and systemic corruption prosecuted under Title X. Former owners and chief 
+executives of the dissolved entity remain personally liable for all outstanding claims as if the company were still operating. The premium was collected. The obligation was 
+made. Dissolution does not cancel it. The money comes from whoever took it.
+
+* The Final Assembler Rule: Where a harmful product is composed of components from multiple manufacturers, the final assembler bears primary liability to the state and to 
+victims. The final assembler may pursue their component suppliers through separate civil or criminal proceedings — the Constitution does not prevent this — but the state holds 
+the final assembler accountable first. Passing blame up the supply chain is not a defense against the state's claim.
+
+* The Good Faith Distributor Exception: Distributors who sold or distributed the product without knowledge of its harmful nature are exempt from liability under this article. 
+Good faith is not a shield against recall obligations — distributors must cooperate fully with removal of the product from circulation — but it is a shield against criminal 
+and civil penalty. Distributors who had knowledge of the harm and continued distribution do not qualify for this exception.
+
+* No Liability Waiver: No contract, waiver, terms of service, or agreement may sign away a citizen's constitutional rights or limit liability for demonstrable ongoing harm 
+below the standards this article establishes. Any such waiver is void from inception.
+
 ===============================================================================
 TITLE VII: LAW ENFORCEMENT AND DEFENSE OF HABITAT
 ===============================================================================
