@@ -401,7 +401,93 @@ Every citizen accused of a civil or criminal offense maintains the absolute righ
 * The Individual Accuser Standard: An individual bringing a civil suit must attend in person under the same terms as the Presence Mandate above. There are no proxy substitutions for an individual accuser 
 who is physically capable of attendance.
 
-*The Reciprocal Right: This right runs in both directions. Just as the accused has the right to face their accuser, the accuser has the right to face the accused. Neither party may conduct proceedings entirely through proxies while the other is physically present. The courtroom is where the dispute is resolved, and both sides must be in it.
+* The Reciprocal Right: This right runs in both directions. Just as the accused has the right to face their accuser, the accuser has the right to face the accused. Neither party may conduct proceedings entirely through proxies while the other is physically present. The courtroom is where the dispute is resolved, and both sides must be in it.
+
+* The Whistleblower and Witness Protection Exception: Where an accuser or witness faces credible, documented, and specific threat to their life or physical safety as a direct 
+consequence of their testimony — including individuals who have provided evidence against organized crime, criminal networks, or other retaliatory actors — the state may act 
+as accuser in their place without disclosing that it is doing so. The accused retains the full right to know the 
+charges against them and to contest the evidence presented. What is protected is the identity of the source, not the substance of the accusation. The state assumes full 
+accountability for any testimony presented under this provision: where such testimony is later found to be fabricated, the state bears institutional liability alongside 
+the protected witness.
+
+Article 506: Presumption of Innocence
+
+Every accused person is presumed innocent until proven otherwise by the court. No penalty, punishment, reputational sanction, or deprivation of rights may be applied on the basis of accusation alone. 
+The burden of proof in all proceedings lies entirely with the accusing party.
+
+Truth as Absolute Defence: In any defamation, slander, or reputational claim, the demonstrated truth of the statement is an absolute and complete defence. A true statement cannot be the basis of a successful defamation claim regardless of its content, its effect on the subject's reputation, or the subject's preference that it not be stated. Truth ends the case.
+
+Article 507: Right to Know the Charges
+
+Every accused person has the absolute right to be informed of the specific charges against them, in plain language consistent with Article 503, before any proceeding begins. No person may be tried, detained beyond the limits of Article 509, or subjected to any legal process without knowing precisely what they are accused of. There are no exceptions to this right under any circumstance including declared emergencies.
+
+Article 508: Right Against Self-Incrimination and Marital Silence
+
+No person may be compelled to testify against themselves in any proceeding, civil or criminal. Silence in response to questioning is not evidence of guilt and shall not be treated as such by any court.
+
+The Marital Silence Protection: No person may be compelled to testify against their spouse in any proceeding. This protection attaches to the marriage as it exists at the time of the proceeding — a currently active, state-registered marriage on file. A divorced spouse, or a former spouse whose marriage was dissolved prior to the proceeding, carries no protection under this article regardless of whether the marriage was active at the time of the alleged offense. The protection is relational and present-tense, not historical.
+
+Article 509: Temporary Detention Limits
+
+Law enforcement may detain an individual without a formal court order where there is reasonable cause — immediate public safety, prevention of ongoing harm, or cooling of an acute situation. This authority is strictly time-limited.
+
+The One-Night Hard Cap: No person may be held without formal charge beyond one Martian night from the moment of detention. At the conclusion of that period, the detaining authority must either file a formal charge under Article 507 or release the individual unconditionally. There are no extensions, no administrative exceptions, and no emergency carve-outs to this cap. Holding a person beyond one night without charge is unlawful detention and constitutes a Tier 2 offense by the detaining officer personally.
+
+Article 510: Right to Legal Representation in Capital Proceedings
+
+Every person facing a Tier 3 capital charge has the right to legal representation throughout all proceedings. Where the accused cannot afford representation, the state shall provide a defence counsel at no cost to the accused. This obligation is the state's, not the accused's — the inability to pay does not diminish the right.
+
+Non-Capital Proceedings: In Tier 1 and Tier 2 proceedings, legal representation is the accused's own responsibility and expense. The state provides no appointed counsel below the capital threshold.
+
+Article 511: Protection Against Extra-Constitutional Punishment
+
+The punishments defined in Title II and this Constitution are exhaustive. No court, officer, official, or state body may impose, improvise, or administer any punishment, penalty, or deprivation not explicitly authorized by this Constitution and its downstream statutes. Once a constitutionally mandated punishment has been administered in full, the accused is released. The punishment is the punishment — nothing before it, nothing after it, nothing added to it.
+
+Article 512: Double Jeopardy and the State Fidelity Exception
+
+No person may be tried twice for the same offense following a lawful acquittal. An acquittal is final.
+
+The State Fidelity Exception: For Tier 3 offenses constituting attacks on state sovereignty, collective survival, or the colony's foundational social contract — including but not limited to treason, sabotage of critical infrastructure, and slavery — an acquittal is not permanently final where one of the following conditions is met: evidence that provably did not exist and could not have been obtained at the time of the original trial subsequently emerges; or the acquittal itself is shown to have been the product of deliberate corruption of the proceeding by the defendant or their associates — including fabricated exculpatory evidence or bribed witnesses. Evidence that was available but not presented by the prosecution does not meet this standard. Prosecution failure closes the case. Defendant interference with the proceeding, or genuinely new evidence that nobody could have had, reopens it.
+The Murder Carve-Out: A lawful acquittal on a charge of premeditated murder is permanently final regardless of subsequent developments. Murder is in the capital tier as a deterrent and because the colony does not want murderers — but the procedural finality of an acquittal on that specific charge is absolute. The State Fidelity Exception does not apply to murder.
+
+Article 513: Inviolable Property Rights
+
+What a citizen owns is theirs. The state may not compel the sale, surrender, transfer, or abandonment of private property for any reason including public interest, infrastructure development, or collective benefit. There is no eminent domain. There is no greater good override. A citizen who does not wish to move does not move.
+
+The Criminal Forfeiture Exception: Property may be removed from a citizen's possession only as a direct consequence of their own criminal conviction under the penalty frameworks of this Constitution. This is not the state taking property — it is the state collecting a consequence the convicted party brought upon themselves.
+The Emergency Use Provision: During a formally declared state of emergency under Article 2705, the state may temporarily commandeer private property — land, habitat modules, facilities — for operational use necessary to address the declared emergency. This is use, not ownership. The citizen does not lose their property. The state's claim on it ends the moment the emergency declaration concludes, automatically and without any further action required. The state is liable for 110% of the assessed value of any damage caused to commandeered property during the emergency period, payable immediately upon the emergency's conclusion. Eminent domain does not enter through the emergency door — temporary operational use during a survival crisis is categorically distinct from permanent seizure, and no emergency declaration may be used to convert the former into the latter. Any attempt to do so constitutes fraudulent use of emergency powers and a Tier 3 offense against state fidelity.
+
+Article 514: Right to Free Movement
+
+Every full citizen has the right to move freely within the Martian zone of influence without state interference, restriction, or surveillance of their movements as a default condition.
+
+The Criminal Proceedings Exception: A court may restrict a citizen's movement as a condition of active criminal proceedings — a travel ban pending trial, a geographic restriction related to the nature of the offense. This restriction expires automatically upon conclusion of the proceedings, whether by acquittal, conviction, or dismissal. No movement restriction may be imposed without a specific court order stating its scope, its geographic limits, and its expiry condition.
+
+Article 515: Whistleblower and Witness Protection
+
+The state recognizes that the integrity of its justice system depends on individuals being able to provide evidence against criminal actors without facing retaliation that renders testimony impossible. Where an individual provides evidence against organized crime, criminal networks, or other actors with demonstrated capacity and intent to harm witnesses, the state may shield their identity through the proxy mechanism of Article 505.
+
+The Scope of Protection: Identity protection under this article extends only to the witness's name and identifying information. The substance of their testimony, the evidence they provide, and the charges that flow from it remain fully subject to the accused's right to contest and challenge under Articles 505 and 507. Protection of identity is not protection from scrutiny of the evidence itself.
+The Activation Standard: Witness protection is not available on preference or convenience. It requires documented, credible, specific threat to the witness's physical safety as a direct consequence of their testimony. The state makes this determination; it is not self-declared by the witness.
+State Accountability: The state assumes full institutional accountability for testimony presented under witness protection. Where protected testimony is later shown to be fabricated, the state bears liability alongside the protected witness. Shielding a lying witness is not a consequence-free act for the state that chose to shield them.
+
+
+Article 512: Double Jeopardy and the State Fidelity Exception (revised)
+
+No person may be tried twice for the same offense following a lawful acquittal. An acquittal is final.
+
+The State Fidelity Exception: For Tier 3 offenses constituting attacks on state sovereignty, collective survival, institutional integrity, or the colony's foundational social contract — an acquittal is not permanently final where one of the following conditions is met: evidence that provably did not exist and could not have been obtained at the time of the original trial subsequently emerges; or the acquittal itself is shown to have been the product of deliberate corruption of the proceeding by the defendant or their associates — including fabricated exculpatory evidence or bribed witnesses. Evidence that was available but not presented by the prosecution does not meet this standard. Prosecution failure closes the case. Defendant interference with the proceeding, or genuinely new evidence that nobody could have had, reopens it.
+The Finality Principle: Where a Tier 3 offense — however grave — does not constitute an attack on state sovereignty, collective survival, or institutional integrity, an acquittal is permanent and absolute. The court determines which category applies where genuine ambiguity exists, on the facts of the specific case, without precedent binding future determinations.
+
+Article 516: The Universal Deputization Mandate
+
+Where the constitutional order itself is under attack — from within the state apparatus, from a rogue military faction, from a corrupt executive, or from any other actor attempting to subvert the foundations of this Constitution by force, fraud, or institutional capture — every full citizen of the Martian colony is automatically and simultaneously deputized to defend it.
+
+The Universal Scope: Deputization under this article extends to every person holding full citizenship status at the moment the constitutional threat is identified. There are no exemptions upward or downward. Executive branch members are deputized. Military officers are deputized. The postal worker, the physician, the retiree, the hospice patient — every full citizen, regardless of physical capacity, professional role, institutional affiliation, or rank, holds the same constitutional mandate. Provisional citizens are not included.
+The Chain of Command Override: The deputization mandate supersedes all institutional hierarchies, military chains of command, and executive orders for the duration of the constitutional threat. A soldier whose commanding officer is part of the threat being defended against cannot be ordered to stand down from the deputization by that officer — because the soldier's constitutional mandate as a full citizen outranks their military obligation in this specific circumstance. The Constitution is what the military oath is sworn to. When the two conflict, the Constitution wins.
+The Scope of Deputized Authority: Deputized citizens are authorized to take whatever action is necessary and proportionate to defend the constitutional order — including detaining, resisting, or acting against state officials, military personnel, or any other actor whose conduct constitutes the threat. Actions taken in genuine good faith under this mandate are constitutionally protected. Actions taken under the guise of this mandate for personal vendettas, opportunistic violence, or purposes unrelated to the constitutional threat are not protected and shall be prosecuted as Tier 3 offenses after the fact.
+The Mandatory Post-Action Audit: Every action taken under the deputization mandate is subject to a mandatory forensic audit upon resolution of the constitutional threat. The audit is conducted by the Independent Fiscal Authority and an independent judicial panel jointly, with full public disclosure of findings. Citizens who acted in good faith are protected. Citizens who abused the mandate face the same prosecution as any other Tier 3 offender — the emergency does not create a permanent shield for actions taken during it.
+The Activation Threshold: The deputization mandate does not activate on the basis of political disagreement, electoral dissatisfaction, or policy dispute. It activates only where there is clear, overt, and demonstrable action to subvert the constitutional order by force, institutional capture, or coordinated fraud against the foundations of this Constitution. The threshold is high by design. A high-trust society does not mobilize its citizenry over ordinary political conflict.
 
 
 ===============================================================================
