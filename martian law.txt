@@ -330,6 +330,43 @@ mentally inadequate to hold the responsibilities of a self-sovereign voter:
 TITLE V: CIVIL LIBERTIES AND PUBLIC PROTECTIONS
 ===============================================================================
 
+Article 500: The Inviolability of Constitutional Rights
+No law, statute, treaty, contract, agreement, terms of service, liability waiver, corporate policy, executive order, emergency declaration, handshake, or 
+pinky promise — regardless of who authored it, who signed it, or what consideration was exchanged — may waive, suspend, transfer, diminish, or otherwise violate the 
+constitutional rights of any citizen under any circumstance.
+
+* The Exhaustive Carve-Out Standard: The only lawful limitations on constitutional rights are those explicitly written into this Constitution itself. No carve-out, exception, 
+or suspension of rights may exist outside the constitutional text. Any new exception must be elevated into the Constitution through the standard democratic amendment process 
+under Article 001. It does not exist until it is in here.
+
+* The Void Instrument Rule: Any instrument — legal or otherwise — that claims to waive or limit a citizen's constitutional rights is void from the moment of its creation. It 
+has no legal force, no binding effect, and no court shall enforce it. Signing it changes nothing. The rights remain.
+
+* The Downstream Prohibition: No subordinate law, municipal regulation, corporate charter, or any other instrument operating below the constitutional level may create new 
+limitations on constitutional rights. Article 007's subordination hierarchy applies in full.
+
+* The Erosion Prohibition and Penalty: Any person, entity, or organization who knowingly drafts, submits, sponsors, or deploys any instrument — including but not limited to laws, 
+bills, statutes, contracts, service agreements, corporate policies, terms of service, employment agreements, liability waivers, or any other legal or commercial construct — 
+designed to circumvent, undermine, or erode constitutional rights commits an offense against the constitutional order. The penalty scales to the nature and method of the 
+attempt:
+** A single instrument that blatantly conflicts with the Constitution is rejected without prosecution — that is the system functioning as intended.
+
+** A single instrument crafted with deliberate intent to covertly violate constitutional rights while appearing compliant on its face constitutes fraud, a Tier 2 Intermediate 
+Offense. This applies equally to legislative instruments and private commercial ones.
+
+** A coordinated pattern of instruments — multiple bills, contracts, policies, or legal constructs authored or deployed with the collective intent to erode a constitutional 
+right incrementally, such that no single instrument triggers obvious rejection or legal challenge — constitutes an attack on the constitutional order and a Tier 3 High Crime 
+of treason against the state. Liability attaches to every individual who knowingly participated in the creation, drafting, review, approval, deployment, or execution of any 
+instrument within the coordinated pattern — including but not limited to authors, sponsors, legal counsel, proofreaders, signatories, and deploying parties. Knowing 
+participation is the threshold. It does not require authorship, it does not require the participant to have understood the full scope of the pattern, and it does not require 
+successful enforcement. If you knowingly touched it and it was part of the pattern, you are part of the pattern. Attempting to build the mechanism is the crime. Being a 
+knowing hand in its construction is the same crime.
+
+* The Systemic Referral: Where a coordinated erosion pattern is identified — whether through legislation, commercial instruments, or a combination of both — the matter is 
+immediately referred to the Independent Fiscal Authority and state safety marshals under Article 1002 for investigation of systemic corruption. The pattern itself is treated 
+as evidence of an organized attempt to subvert the constitutional order under Article 2708, regardless of whether any individual instrument passed, took effect, or was 
+successfully enforced.
+
 Article 501: Freedom of Expression
 Every citizen maintains the absolute right to freedom of speech, opinion, and expression. The governing council shall pass no law restricting the peaceful sharing of ideas, criticisms, or beliefs.
 
