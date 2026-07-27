@@ -379,6 +379,33 @@ projectile throwing, or any conduct directed at the condemned or their remains d
 The Airlock and Exile Provision: Where a Tier 3 sentence results in exile through the primary airlock or forced displacement beyond the colony perimeter, no remains exist within the state's custody or jurisdiction. This article's protections attach to remains
 the state actually holds. What lies beyond the perimeter is beyond the perimeter. The state has no further obligation, and no further reach.
 
+Article 505: The Right to Face Your Accuser
+Every citizen accused of a civil or criminal offense maintains the absolute right to face their accuser in person, in the court where the matter is being heard. This right is not procedural — it is foundational. A case brought by an absent accuser is a case without standing.
+
+* The Presence Mandate: The party bringing a civil suit or criminal accusation must be physically present at all proceedings where their testimony, identity, or standing as accuser is material to the case. Presence cannot be substituted by legal representation, written testimony, remote appearance, or any other proxy. The accuser must be in the room.
+
+* The Dismissal Consequence: Where an accuser who is physically capable of attendance fails to appear at a required proceeding without documented cause meeting the standard of the Reasonable Incapacity Exception below, the following applies by case type:
+
+** Civil cases: The case is dismissed in its entirety and may not be refiled on the same grounds by the same party against the same defendant. Absence without cause is a permanent forfeiture of the right to prosecute that specific claim.
+
+** Tier 3 capital cases: The case is not automatically dismissed. Given the gravity of a capital accusation and the state's interest in prosecuting existential-level crimes, a single unexcused absence results in a mandatory pause. The proceedings may not continue in the accuser's absence but are held in suspension pending their appearance. The accused shall not be held in pre-trial detention during this suspension beyond what the criminal pre-trial framework independently justifies.
+
+** The Abuse Prohibition: No accuser — individual, corporate, or state representative — may file the same or substantially similar accusation against the same defendant more than once without having appeared and prosecuted the prior filing to resolution. A pattern of filing accusations and failing to appear — regardless of tier — constitutes deliberate abuse of the court system and weaponization of state legal machinery. Where a court finds this pattern, the accuser faces immediate referral for investigation as a Tier 3 offense against state fidelity: filing capital accusations as instruments of harassment or intimidation, with no intent to prosecute, is treason against the integrity of the state's justice apparatus. There is no number of filings that substitutes for showing up.
+
+* The Reasonable Incapacity Exception: Where an accuser is genuinely and verifiably incapable of physical attendance due to documented medical emergency, serious injury, or comparable incapacitating circumstance, the proceedings shall be paused — not proceeded with in their absence — until they are capable of attending. The standard for incapacity is genuine physical inability, not inconvenience, scheduling conflict, financial reluctance, or strategic preference. A party well enough to conduct their affairs is well enough to attend court.
+
+* The State Accuser Standard: Where the state brings a criminal prosecution, the state satisfies the presence requirement through a formally designated prosecuting representative — a state prosecutor, marshal, or equivalent officer — who is personally accountable for the conduct of the case and present at all material proceedings. The state cannot be physically present; its designated officer can and must be.
+
+* The Corporate Accuser Standard: Where a corporation brings a civil suit, the presence requirement is satisfied only by the corporation's sitting chief executive — the single individual who holds ultimate operational authority over the organization at the time the suit is filed. Not a deputy, not general counsel, not a board member, not whoever is available — the chief executive, in person. If the corporation's structure does not use the title of chief executive, the equivalent role — the singular highest operational authority — applies. Where the chief executive changes during the course of proceedings, the incoming chief executive inherits the presence obligation immediately upon assuming the role.
+
+* The Individual Accuser Standard: An individual bringing a civil suit must attend in person under the same terms as the Presence Mandate above. There are no proxy substitutions for an individual accuser 
+who is physically capable of attendance.
+
+*The Reciprocal Right: This right runs in both directions. Just as the accused has the right to face their accuser, the accuser has the right to face the accused. Neither party may conduct proceedings entirely through proxies while the other is physically present. The courtroom is where the dispute is resolved, and both sides must be in it.
+
+
+
+
 ===============================================================================
 TITLE VI: CORPORATE ACCOUNTABILITY AND ANTI-CORRUPTION
 ===============================================================================
