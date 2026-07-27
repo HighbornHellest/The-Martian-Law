@@ -567,7 +567,7 @@ liability exposure.
 * The Insurance Revolving Door: The revolving door prohibition explicitly  applies to insurance entities too, as with everybody else. Dissolving an insurance company to escape 
 outstanding claims and reforming under a new structure — immediately or after any period — is fraud and systemic corruption prosecuted under Title X. Former owners and chief 
 executives of the dissolved entity remain personally liable for all outstanding claims as if the company were still operating. The premium was collected. The obligation was 
-made. Dissolution does not cancel it. The money comes from whoever took it.
+made. Dissolution does not cancel it.
 
 * The Final Assembler Rule: Where a harmful product is composed of components from multiple manufacturers, the final assembler bears primary liability to the state and to 
 victims. The final assembler may pursue their component suppliers through separate civil or criminal proceedings — the Constitution does not prevent this — but the state holds 
