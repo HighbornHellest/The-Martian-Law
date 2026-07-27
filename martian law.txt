@@ -500,13 +500,16 @@ Under no circumstances shall a corporation, collective enterprise, or any legal 
 
 Article 602: Total Ban on Corporate Lobbying
 Any attempt by a corporation or its agents to influence legislation, policy, or politicians through financial means, gifts, or favors is legally defined as corruption.
-* The Dual Penalty: Both the corporate executive offering the influence and the politician accepting it shall receive the mandatory capital punishment outlined in Article 201 (Exile via airlock).
+* The Dual Penalty: Both the corporate executive offering the influence and the politician accepting it shall receive the mandatory capital punishment outlined in 
+Article 201 (Exile via airlock).
 
 Article 603: Absolute Liability for Politicians
-Elected officials and politicians receive zero legal protection, immunity, or special privileges against crimes. They are subject to the exact same laws as ordinary citizens and shall face immediate prosecution for any criminal acts.
+Elected officials and politicians receive zero legal protection, immunity, or special privileges against crimes. They are subject to the exact same laws as ordinary 
+citizens and shall face immediate prosecution for any criminal acts.
 
 Article 604: Democratized Criminal Pardons
-No individual—neither the Council leader, a judge, nor a commander—holds the power to pardon a convicted criminal. Pardons can only be granted through a public, colony-wide election.
+No individual—neither the Council leader, a judge, nor a commander—holds the power to pardon a convicted criminal. Pardons can only be granted through a public, 
+colony-wide election.
 
 ===============================================================================
 TITLE VII: LAW ENFORCEMENT AND DEFENSE OF HABITAT
@@ -525,60 +528,120 @@ A citizen's habitat module is their absolute sanctuary. If an intruder breaks in
 * Prohibited Actions: The owner may only terminate the threat. Taking the intruder alive to inflict torture, unlawful imprisonment, or sexual assault remains strictly illegal and punishable under Article 201.
 
 Article 704: Civil Pre-Judgment Orders, Judicial Bond Accountability, and the Proportionality Mandate
-To prevent the courts from being weaponized as instruments of harassment, financial attrition, or disproportionate corporate coercion, all civil pre-judgment orders imposing a burden on a non-convicted party are subject to the following mandatory framework:
+To prevent the courts from being weaponized as instruments of harassment, financial attrition, or disproportionate corporate coercion, all civil pre-judgment orders imposing a 
+burden on a non-convicted party are subject to the following mandatory framework:
 
-* The Bond Requirement: Any party requesting a civil pre-judgment order — including but not limited to gag orders, temporary restraining orders, stop work orders, asset freezes, or injunctions of any kind — must post a compensation bond before the order takes effect. No civil pre-judgment order shall be signed, issued, or enforced without a bond being secured in full.
+* The Bond Requirement: Any party requesting a civil pre-judgment order — including but not limited to gag orders, temporary restraining orders, stop work orders, asset 
+freezes, or injunctions of any kind — must post a compensation bond before the order takes effect. No civil pre-judgment order shall be signed, issued, or enforced without a 
+bond being secured in full.
 
-* The Proportionality Calculation: The bond is calculated as a percentage of the requesting party's verified global annual gross revenue or total asset value, whichever is greater, as assessed at the time of filing. The percentage is determined by the court based on the severity and duration of the burden the order imposes on the opposing party. A requesting party may not post a bond so trivially small relative to their own capacity that its forfeiture carries no meaningful consequence.
+* The Proportionality Calculation: The bond is calculated as a percentage of the requesting party's verified global annual gross revenue or total asset value, whichever is 
+greater, as assessed at the time of filing. The percentage is determined by the court based on the severity and duration of the burden the order imposes on the opposing party. 
+A requesting party may not post a bond so trivially small relative to their own capacity that its forfeiture carries no meaningful consequence.
 
-* The Judicial Bond Mandate: It is the personal responsibility of the presiding judge to ensure the bond is posted in full before signing any civil pre-judgment order. A judge who signs such an order without securing the bond is personally liable for the full compensation obligation, retroactively, from the moment the order took effect. To satisfy this obligation: all liquid assets of the judge shall be applied first; all non-liquid personal assets — including property, holdings, investments, and all matrimonial assets regardless of how they are titled or held — shall be fully liquidated to satisfy the remaining balance; if the obligation remains unsatisfied following full liquidation, 25% of the judge's gross wages shall be garnished continuously until the obligation is extinguished in full or until death, whichever comes first. Upon death, the obligation is extinguished and does not pass to the judge's estate. The size of the judge's personal estate is not a cap on this obligation while they live. It follows them.
+* The Judicial Bond Mandate: It is the personal responsibility of the presiding judge to ensure the bond is posted in full before signing any civil pre-judgment order. A judge 
+who signs such an order without securing the bond is personally liable for the full compensation obligation, retroactively, from the moment the order took effect. To satisfy 
+this obligation: all liquid assets of the judge shall be applied first; all non-liquid personal assets — including property, holdings, investments, and all matrimonial assets 
+regardless of how they are titled or held — shall be fully liquidated to satisfy the remaining balance; if the obligation remains unsatisfied following full liquidation, 25% 
+of the judge's gross wages shall be garnished continuously until the obligation is extinguished in full or until death, whichever comes first. Upon death, the obligation is 
+extinguished and does not pass to the judge's estate. The size of the judge's personal estate is not a cap on this obligation while they live. It follows them.
 
 * The Reckoning:
 Requesting party prevails: Bond is returned in full. The opposing party faces the full statutory penalties applicable to the underlying wrong, scaled to the nature and severity of the harm caused, not to the relative size of the parties.
 
-* Requesting party loses: Bond is forfeit in full to the burdened party. The requesting party is additionally liable for all demonstrable harm caused to the opposing party during the period the order was active. The requesting party pays twice: the bond and the damages.
+* Requesting party loses: Bond is forfeit in full to the burdened party. The requesting party is additionally liable for all demonstrable harm caused to the opposing party 
+during the period the order was active. The requesting party pays twice: the bond and the damages.
 
-* The Severity Anchor: Penalties in civil disputes shall scale to the nature and impact of the underlying wrong, not to the financial capacity of either party. A large corporation may not use the bond mechanism to grind an individual into submission over a minor infringement. An individual who genuinely caused serious harm faces the full weight of the applicable penalty regardless of their size. The court is instructed to anchor its penalty assessment to what was actually done, not to who did it.
+* The Severity Anchor: Penalties in civil disputes shall scale to the nature and impact of the underlying wrong, not to the financial capacity of either party. A large 
+corporation may not use the bond mechanism to grind an individual into submission over a minor infringement. An individual who genuinely caused serious harm faces the full 
+weight of the applicable penalty regardless of their size. The court is instructed to anchor its penalty assessment to what was actually done, not to who did it.
 
-* Criminal Pre-Judgment Exception: This article applies exclusively to civil proceedings. Criminal pre-trial detention, criminal injunctions, and state-initiated enforcement actions are governed separately and are not subject to the bond requirement.
+* Criminal Pre-Judgment Exception: This article applies exclusively to civil proceedings. Criminal pre-trial detention, criminal injunctions, and state-initiated enforcement 
+actions are governed separately and are not subject to the bond requirement.
 
 Article 705: Corporate Theft, Revenue-Scaled Penalties, and the Escrow-Before-Appeal Mandate
 
-Where a corporation is found to have stolen, misappropriated, or unlawfully used the intellectual property, trade secrets, physical property, or data of any individual or smaller entity, the following framework applies:
+Where a corporation is found to have stolen, misappropriated, or unlawfully used the intellectual property, trade secrets, physical property, or data of any individual or 
+smaller entity, the following framework applies:
 
-* The Revenue-Scaled Penalty: Where a corporation is found to be the offending party in a theft or misappropriation case, the penalty shall scale to the corporation's verified global annual gross revenue, not merely its Martian revenue, Martian assets, or the assessed value of the stolen property. Operating within the Martian zone of influence subjects the entirety of a corporation's global commercial capacity to Martian judicial accountability. There is no jurisdictional firewall between Martian operations and global revenue when the offense occurs on Martian soil.
-The Escrow-Before-Appeal Mandate: No appeal of a civil monetary judgment may proceed until the appellant has deposited the full penalty amount into state-held escrow. The appeal is the appellant's unilateral assertion that the court was wrong. That assertion costs them something proportional to what they are contesting. Payment into escrow is not optional, negotiable, or deferrable. The appeal clock does not start until escrow is confirmed as fully funded.
+* The Revenue-Scaled Penalty: Where a corporation is found to be the offending party in a theft or misappropriation case, the penalty shall scale to the corporation's verified 
+global annual gross revenue, not merely its Martian revenue, Martian assets, or the assessed value of the stolen property. Operating within the Martian zone of influence 
+subjects the entirety of a corporation's global commercial capacity to Martian judicial accountability. There is no jurisdictional firewall between Martian operations and 
+global revenue when the offense occurs on Martian soil.
+The Escrow-Before-Appeal Mandate: No appeal of a civil monetary judgment may proceed until the appellant has deposited the full penalty amount into state-held escrow. 
+The appeal is the appellant's unilateral assertion that the court was wrong. That assertion costs them something proportional to what they are contesting. Payment into escrow is not optional, negotiable, or deferrable. The appeal clock does not start until escrow is confirmed as fully funded.
 
-* The Secured Asset Escrow and Full-Stake Provision: Where a party cannot fund the escrow obligation in full using liquid cash or government-backed instruments, they may pledge all verifiable assets — personal and corporate, tangible and non-tangible — to secure the obligation. Non-liquid assets, including property, equipment, receivables, holdings, stocks, derivatives, and other financial instruments are accepted at 80% of their assessed market value at the time of escrow filing. Where the pledged assets, after applying the applicable discount, do not fully cover the escrow obligation, the appeal may nonetheless proceed if and only if the appellant explicitly commits to a full-stake declaration — a formal, irrevocable legal acknowledgment that every asset they currently own stands forfeit against the shortfall should they lose the appeal. A party that makes this declaration is explicitly and knowingly risking total financial ruin of their current holdings. The court shall accept a full-stake declaration in lieu of complete coverage and shall not require the shortfall to be resolved before the appeal proceeds. Where a party is unwilling to make the full-stake declaration, and the secured asset value falls short of the escrow obligation after applying the discount, the appeal is inadmissible. It shall remain inadmissible until the shortfall is resolved by additional asset pledge or cash payment. There is no middle ground: either you cover it, stake everything you currently own, or you do not appeal.
+* The Secured Asset Escrow and Full-Stake Provision: Where a party cannot fund the escrow obligation in full using liquid cash or government-backed instruments, they may 
+pledge all verifiable assets — personal and corporate, tangible and non-tangible — to secure the obligation. Non-liquid assets, including property, equipment, receivables, 
+holdings, stocks, derivatives, and other financial instruments are accepted at 80% of their assessed market value at the time of escrow filing. Where the pledged assets, 
+after applying the applicable discount, do not fully cover the escrow obligation, the appeal may nonetheless proceed if and only if the appellant explicitly commits to a 
+full-stake declaration — a formal, irrevocable legal acknowledgment that every asset they currently own stands forfeit against the shortfall should they lose the appeal. 
+A party that makes this declaration is explicitly and knowingly risking total financial ruin of their current holdings. The court shall accept a full-stake declaration in 
+lieu of complete coverage and shall not require the shortfall to be resolved before the appeal proceeds. Where a party is unwilling to make the full-stake declaration, and 
+the secured asset value falls short of the escrow obligation after applying the discount, the appeal is inadmissible. It shall remain inadmissible until the shortfall is 
+resolved by additional asset pledge or cash payment. There is no middle ground: either you cover it, stake everything you currently own, or you do not appeal.
 
-* The Universal Timeline baseline: The universal escrow and appeal timeline, unless stated by the courts or downstream laws otherwise is 30 calendar days. That's the time which by an escrow is to be paid
- in full, pays out in full, or appeal is to be made. In case of appeal by the end of the 30 days, the required assets are to be in escrow. An appeal filed within the window but without escrow fully funded by the close of the 30th day lapses automatically.
+* The Universal Timeline baseline: The universal escrow and appeal timeline, unless stated by the courts or downstream laws otherwise is 30 calendar days. That's the time
+ which by an escrow is to be paid
+ in full, pays out in full, or appeal is to be made. In case of appeal by the end of the 30 days, the required assets are to be in escrow. An appeal filed within the window 
+ but without escrow fully funded by the close of the 30th day lapses automatically.
 
-* The Individual Ceiling: Where an individual is found to be the offending party against a corporate entity, the penalty shall not exceed a level that would constitute disproportionate destruction of the individual's life and livelihood relative to the severity of the underlying wrong — unless the nature of the theft is itself severe: deliberate misappropriation of critical trade secrets, systematic long-term theft, or commercially motivated espionage. Minor infringements by individuals against corporations shall be penalized proportionally to the harm caused, not to the corporation's capacity to demand maximum restitution.
+* The Individual Ceiling: Where an individual is found to be the offending party against a corporate entity, the penalty shall not exceed a level that would constitute 
+disproportionate destruction of the individual's life and livelihood relative to the severity of the underlying wrong — unless the nature of the theft is itself severe: 
+deliberate misappropriation of critical trade secrets, systematic long-term theft, or commercially motivated espionage. Minor infringements by individuals against corporations 
+shall be penalized proportionally to the harm caused, not to the corporation's capacity to demand maximum restitution.
 
-* The Post-Notice Asset Integrity Mandate: From the moment a party receives formal notice of a civil lawsuit, their asset position is subject to integrity scrutiny for the purposes of escrow calculation. Normal commercial and personal activity continues unimpeded: routine business operations, payroll, taxes, legal fees, stock compensation, standard inventory transactions, and ordinary personal expenditure — including gifts, celebrations, and purchases proportional to the party's established lifestyle and wealth — are entirely legitimate and shall not be considered in escrow fraud assessment.
-The Fraudulent Depletion Standard: Any asset transfer, disposal, gifting, restructuring, or encumbrance occurring after the notice date that is found to have been executed for the purpose of reducing the party's apparent asset pool at the time of escrow calculation constitutes fraudulent escrow evasion. Where the timing, scale, and pattern of post-notice transactions create ambiguity about whether the motive was ordinary activity or escrow evasion, the presumption defaults to ill intent. The burden lies with the transferring party to demonstrate that the transactions were consistent with their established pre-notice patterns and unrelated to the escrow obligation.
+* The Post-Notice Asset Integrity Mandate: From the moment a party receives formal notice of a civil lawsuit, their asset position is subject to integrity scrutiny for the 
+purposes of escrow calculation. Normal commercial and personal activity continues unimpeded: routine business operations, payroll, taxes, legal fees, stock compensation, 
+standard inventory transactions, and ordinary personal expenditure — including gifts, celebrations, and purchases proportional to the party's established lifestyle and 
+wealth — are entirely legitimate and shall not be considered in escrow fraud assessment.
+The Fraudulent Depletion Standard: Any asset transfer, disposal, gifting, restructuring, or encumbrance occurring after the notice date that is found to have been executed 
+for the purpose of reducing the party's apparent asset pool at the time of escrow calculation constitutes fraudulent escrow evasion. Where the timing, scale, and pattern of 
+post-notice transactions create ambiguity about whether the motive was ordinary activity or escrow evasion, the presumption defaults to ill intent. The burden lies with the 
+transferring party to demonstrate that the transactions were consistent with their established pre-notice patterns and unrelated to the escrow obligation.
 
-* The Pattern Test: No single transaction is inherently fraudulent. The court assesses the totality of post-notice asset movements: their collective scale relative to the party's total asset position, their concentration in time relative to the notice date and escrow deadline, and whether they deviate materially from the party's established financial behavior prior to notice. A wealthy individual buying a family member a car is normal. The same individual simultaneously buying multiple family members vehicles, luxury items, and real estate in the weeks following notice, at prices that collectively represent a material fraction of their escrow obligation, is a pattern. The court reads the pattern, not the individual transactions.
+* The Pattern Test: No single transaction is inherently fraudulent. The court assesses the totality of post-notice asset movements: their collective scale relative to the 
+party's total asset position, their concentration in time relative to the notice date and escrow deadline, and whether they deviate materially from the party's established 
+financial behavior prior to notice. A wealthy individual buying a family member a car is normal. The same individual simultaneously buying multiple family members vehicles, 
+luxury items, and real estate in the weeks following notice, at prices that collectively represent a material fraction of their escrow obligation, is a pattern. The court 
+reads the pattern, not the individual transactions.
 
-* The Penalty for Fraudulent Depletion: Where the court finds fraudulent escrow evasion, the evaded assets are deemed to exist for escrow calculation purposes regardless of their current location or ownership. The transferee — the family member, shell entity, or other recipient — faces mandatory return of the transferred assets to satisfy the escrow obligation. The transferring party faces a minimum Tier 2 fraud prosecution. Where the evasion is part of a coordinated scheme to wholly defeat a judgment or render a Tier 3 obligation unenforceable, it escalates to Tier 3.
+* The Penalty for Fraudulent Depletion: Where the court finds fraudulent escrow evasion, the evaded assets are deemed to exist for escrow calculation purposes regardless of 
+their current location or ownership. The transferee — the family member, shell entity, or other recipient — faces mandatory return of the transferred assets to satisfy the
+escrow obligation. The transferring party faces a minimum Tier 2 fraud prosecution. Where the evasion is part of a coordinated scheme to wholly defeat a judgment or render a 
+Tier 3 obligation unenforceable, it escalates to Tier 3.
 
 Article 706: Receiving Stolen Property and the Poisoned Acquisition Prohibition
 
-The knowing or negligent acquisition of stolen property — intellectual or physical — makes the receiver a party to the harm caused by the original theft. The courts shall not be a marketplace for stolen goods laundered through ignorance.
+The knowing or negligent acquisition of stolen property — intellectual or physical — makes the receiver a party to the harm caused by the original theft. The courts shall 
+not be a marketplace for stolen goods laundered through ignorance.
 
-* The Universal Return and Destruction Obligation: Any party found to be in possession of stolen property — intellectual or physical — must immediately return it to the rightful owner or destroy it completely, regardless of how it was acquired, what was paid for it, or how long it has been held. Possession of stolen property confers no ownership rights under any circumstance.
+* The Universal Return and Destruction Obligation: Any party found to be in possession of stolen property — intellectual or physical — must immediately return it to the 
+rightful owner or destroy it completely, regardless of how it was acquired, what was paid for it, or how long it has been held. Possession of stolen property confers no 
+ownership rights under any circumstance.
 
-* The Known Standard — Enhanced Penalties: Where the receiving party knew, or reasonably should have known given the circumstances of the acquisition, that the property was stolen — including acquisition at prices substantially below market value, from a party with no apparent authority to sell, or under circumstances that would cause a reasonable person to inquire further — the following additional penalties apply:
+* The Known Standard — Enhanced Penalties: Where the receiving party knew, or reasonably should have known given the circumstances of the acquisition, that the property was s
+tolen — including acquisition at prices substantially below market value, from a party with no apparent authority to sell, or under circumstances that would cause a reasonable 
+person to inquire further — the following additional penalties apply:
 
 * Full forfeiture of any profit, revenue, or commercial benefit derived from the stolen property during the period of possession, with no right to backpay or cost recovery
 A state fine scaled proportionally to the value of the stolen property and the duration of possession, payable to the state, not to the aggrieved party
-The aggrieved party's remedy against the receiver is limited to return or destruction of the property; their financial claim lies against the original thief, not against the receiver
+The aggrieved party's remedy against the receiver is limited to return or destruction of the property; their financial claim lies against the original thief, not against the 
+receiver
 
-* The Good Faith Receiver: A party that acquired stolen property in genuine good faith — paid fair market value, had no reason to suspect stolen provenance, and cooperated fully upon discovery — faces only the return or destruction obligation. No fine, no profit forfeiture, no further penalty. Good faith is not a shield against losing the property; it is a shield against punishment for someone else's crime.
-The Five-Year Civil Recovery Statute: The state's civil recovery window for stolen property — intellectual or physical — expires after five consecutive Martian years from the date the theft occurred or was reasonably discoverable. After this period, the original owner's civil claim to recover the property is extinguished. For intellectual property, the expired claim additionally results in the IP passing to public domain. For physical property, expiry of the civil claim means the right to sue for recovery lapses — it does not convert stolen physical property into legitimate ownership, but it ends the court's jurisdiction over the recovery dispute. Criminal liability of the original thief does not expire under this provision regardless of property type.
+* The Good Faith Receiver: A party that acquired stolen property in genuine good faith — paid fair market value, had no reason to suspect stolen provenance, and cooperated 
+fully upon discovery — faces only the return or destruction obligation. No fine, no profit forfeiture, no further penalty. Good faith is not a shield against losing the 
+property; it is a shield against punishment for someone else's crime.
+The Five-Year Civil Recovery Statute: The state's civil recovery window for stolen property — intellectual or physical — expires after five consecutive Martian years from 
+the date the theft occurred or was reasonably discoverable. After this period, the original owner's civil claim to recover the property is extinguished. For intellectual 
+property, the expired claim additionally results in the IP passing to public domain. For physical property, expiry of the civil claim means the right to sue for recovery 
+lapses — it does not convert stolen physical property into legitimate ownership, but it ends the court's jurisdiction over the recovery dispute. Criminal liability of the 
+original thief does not expire under this provision regardless of property type.
 
-* The Corporate Espionage Pipeline: Where a corporation knowingly purchases, commissions, or receives stolen trade secrets, proprietary data, or intellectual property from a third party who obtained it through theft or espionage, the corporation faces the full enhanced penalties under the Known Standard above, scaled to global annual gross revenue under Article 705. The fact that the corporation did not directly conduct the theft is immaterial; commissioning or knowingly benefiting from theft is treated as participation in it.
+* The Corporate Espionage Pipeline: Where a corporation knowingly purchases, commissions, or receives stolen trade secrets, proprietary data, or intellectual property from a 
+third party who obtained it through theft or espionage, the corporation faces the full enhanced penalties under the Known Standard above, scaled to global annual gross revenue 
+under Article 705. The fact that the corporation did not directly conduct the theft is immaterial; commissioning or knowingly benefiting from theft is treated as participation 
+in it.
 
 
 ===============================================================================
