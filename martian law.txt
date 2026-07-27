@@ -1579,6 +1579,23 @@ Intermediate Offense under Article 006, carrying mandatory lashings and permanen
 carrying the mandatory capital penalty. The perpetrator shall face immediate investigation by state safety marshals for a potential Article 1002 systemic issue, regardless of the act's apparent scale or the perpetrator's stated intent.
 
 
+Article 3204: The Single Subject Mandate
+Every bill submitted for legislative consideration must address one single, coherent subject. No bill may bundle multiple distinct policy areas, unrelated appropriations, or separate legal matters into a single instrument regardless of
+their apparent convenience or political expediency. Omnibus bills are unconstitutional.
+
+* The Absolute Coherence Mandate: A bill's subject is defined by its primary operational purpose. Provisions that are functionally and operationally inseparable from that purpose are permitted within the same bill. A military 
+procurement bill may include the weapon system, its components, its ammunition, and its maintenance contracts — these are inseparable parts of one coherent acquisition. It may not include foreign military aid, unrelated budget allocations, or provisions governing civilian life. The test is: does this provision exist because of the bill's primary purpose, or does it exist because someone wanted it to pass alongside the bill's primary purpose? The latter fails.
+
+* The Budget Specificity Rule: Appropriations and budget bills must be specific to the department, function, or project they fund. A bill funding military hardware is a military hardware bill. A bill funding infrastructure is an infrastructure bill. They are not the same bill. Budget omnibus packages — single instruments covering multiple departments or unrelated funding streams — are unconstitutional by construction.
+
+* The Ambiguity Rejection Rule: Where it is genuinely ambiguous whether a bill's provisions fall within one coherent subject or stretch across multiple subjects, the bill is automatically rejected and returned to the drafting stage. 
+The burden of coherence lies with the bill's authors, not with the reviewing body. Ambiguity does not resolve in the bill's favor — it resolves against it. The authors must re-submit as separate, clearly scoped bills covering each distinct subject independently.
+
+* The Severance Prohibition: A bill that fails the single subject test is rejected in its entirety. The court may not sever the offending provisions and pass the remainder. Rejection is absulte and total.
+
+* The Determination Body: Where a bill's coherence is challenged, the question of whether it meets the single subject standard is determined by a court under the factual assessment principles of Article 1102 — case by case, on the
+specific facts of the bill, without precedent binding future determinations. No two bills are identical; each is assessed on its own merits.
+
 ===============================================================================
 TITLE XXXIII: STATE FISCAL TRANSPARENCY, PUBLIC AUDIT MANDATE, AND THE INDEPENDENT FISCAL AUTHORITY
 ===============================================================================
