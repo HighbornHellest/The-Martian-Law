@@ -177,6 +177,9 @@ Tier 3 High Crime (Existential Sabotage and Treason).
 mandatory execution via exile through the primary airlock, or public hanging if the planet has been terraformed. Furthermore, all corporate and personal assets belonging to the primary corruptor shall face absolute state forfeiture.
 
 
+
+
+
 ===============================================================================
 TITLE II: CRIMES AND CAPITAL PUNISHMENT
 ===============================================================================
@@ -211,9 +214,11 @@ Until Mars possesses a naturally breathable atmosphere, the colony will not wast
 
 Article 203: Economic and Institutional Shunning Protocol
 When a person or legal entity is sentenced to institutional shunning, they are not completely barred from conducting business or interacting with the state. Instead, they are subjected to a strict 10-Martian-year economic restriction:
+ 
  * The Competitor Mandate: State agencies and public offices must actively avoid doing business with the shunned entity. If any viable, competing alternative exists on the market, the alternative must be chosen automatically.The 20% Evaluation Threshold: The 
 state may only break this protocol and deal with a shunned entity if the entity's goods or services are more than 20% cheaper or 20% better in absolute, objectively measurable terms compared to all competitors.
- * Duration: This punitive economic restriction remains actively enforced for a non-negotiable period of exactly 10 Martian years
+ 
+ * Duration: This punitive economic restriction remains actively enforced for a non-negotiable period of exactly 10 Martian years as a baseline
 
 Article 204: Execution of Corporal Punishment and Criminal Markings
 The physical delivery of state-sanctioned discipline must follow precise, standardized parameters to maintain absolute judicial objectivity:

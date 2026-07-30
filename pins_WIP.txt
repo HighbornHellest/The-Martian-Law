@@ -34,3 +34,36 @@ Title XXXIII tentatively housing judicial accountability and corporate accountab
 ---
 
 there is to be a carvout already somewhere for emergienceis, where you're told to go home. There needs to be one, where for the duration and for the scope, these rights are suspended, and you need to "shut the fuck up and get with the program". No eminent domain sure, but if there is an emergency your property can be used. Not your money spent, not your food eaten, but your land/habitat/etc can be used to save lives or protect the colony etc
+
+
+
+Article 108: Mandatory Presence and Vote Casting Obligation
+Elected council members are obligated to be physically present for all votes. Representation of constituents is the fundamental act of elected office. No mechanism — 
+proxy voting, paired voting, delegated voting, or any equivalent arrangement — that allows a vote to be cast or counted in a member's physical absence is permitted, with the 
+sole exception defined below.
+
+* The Three-Option Vote: Every vote cast by a council member shall be one of three options: Yes, No, or Abstain. Abstain is a deliberate, present, recorded choice not to cast a 
+directional vote. It counts toward quorum. It does not interfere with the minimum threshold for a legally binding vote. It means: I am here, I choose not to direct this. 
+That is a legitimate democratic choice and it is on the public record for every constituent to see.
+
+* Absence and Quorum: A member who is not physically present when a vote is called does not vote and does not count toward quorum. A sufficient number of absences may prevent a 
+legally binding vote from occurring. This is a structural consequence of the quorum requirement, not a defect to be corrected. A vote that cannot achieve quorum does not pass.
+
+* The Weaponized Walkout Prohibition: Deliberately absenting oneself or coordinating with other members to absent themselves for the purpose of collapsing quorum and defeating 
+a bill through procedural obstruction rather than legitimate voting constitutes an abuse of the democratic process. A single member walking out is a pattern to be monitored.
+A coordinated walkout designed to torpedo a specific bill is fraud against the democratic process, prosecuted as a Tier 2 offense at minimum and escalating to Tier 3 where the 
+coordination is systemic or involves coercion of other members.
+
+* The Medical Absence Exception: Genuine, documented, verifiable physical incapacity excuses absence without further penalty beyond the uncast vote. There is no retroactive 
+vote, no recorded intent, no vote cast after the fact. The vote occurred when it occurred. Medical absence means the member missed it. That is the full extent of the exception.
+
+* The Off-Planet Representative Exception: Council members serving in formally designated diplomatic or representative roles off-planet may cast votes remotely, provided their 
+vote arrives within one light-day of the vote being called, or within a communications window defined as reasonable by downstream statute where faster-than-light communications 
+exist. Their vote is added to the tally upon arrival within the window. Outside the window, the vote is not counted. There is no extension of the window and no retroactive 
+inclusion.
+
+* The Pattern of Absence: A council member who establishes a pattern of absence from votes is failing their constituents on the public record. The Constitution encourages a 
+low threshold for what constitutes a pattern — act fast, ask questions soon. Downstream statute shall define the specific trigger, but the constitutional expectation is that 
+the bar is low and the response is immediate. Upon a finding of pattern absence: the member is immediately removed from office; permanently barred from holding any state 
+employment, appointed position, or elected office; and subject to institutional shunning under Article 203 for a period of 30 Martian years. The colony's verdict on someone
+who took the mandate and did not show up for it is not a gentle one.
