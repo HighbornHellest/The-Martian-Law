@@ -1001,6 +1001,23 @@ investigation clearly establishes the precise root cause and identifies the guil
 * The Unique Marking Shape: This brand must feature a visual geometry entirely distinct from all other criminal markings. It explicitly communicates to the public at a glance that the individual made a severe, genuine operational error, allowing the colony to 
 preserve the specialized skill and utility of highly trained professionals while permanently documenting the liability.
 
+Article 1806: The Presumption of Passive Integration and Ecological Engineering
+The state recognizes that natural systems, refined over millions of years of evolutionary optimization, often outperform engineered alternatives in reliability, energy 
+efficiency, and long-term stability. Where conditions allow, the colony's engineering culture is encouraged to work alongside natural forces rather than against them.
+
+* The Presumption of Passive Integration: Where technically viable, non-hazardous, and practically sustainable, infrastructure loops, are encouraged to consider 
+Ecological Engineering and Nature-Based Solutions as a first principle of design. This is a design preference, not a mandate. Where passive or nature-based approaches are 
+the right tool, use them. Where they are not, use what works.
+
+* The Design Preference: Engineering teams are encouraged to explore passive systems where project conditions genuinely support them. Active mechanical systems remain 
+fully appropriate wherever direct intervention, redundancy, or habitat safety requires them. No engineer shall be second-guessed, penalized, or criticized for choosing 
+the approach that best serves the project.
+
+* Professional Self-Regulation: The determination of whether a nature-based or passive solution is viable, appropriate, or unsuited to a specific project belongs entirely to the 
+practicing field professionals assigned to that project, under the standards of Article 3205. The state does not micromanage engineering decisions. The professionals on the 
+ground know their systems. Trust them.
+
+
 
 ===============================================================================
 TITLE XIX: HAZARDOUS RESEARCH AND RESTRICTED MATERIALS
@@ -1855,6 +1872,14 @@ The poisoned acquisition prohibition exists because a market for stolen goods on
 A corporation that commissions espionage and receives the fruits of it is not a passive beneficiary — it is a participant. It is treated as one.
 
 
+Article 1806:
+
+Nature has been solving complex systems problems for a very long time. Where its solutions apply, they tend to be more reliable, more energy-efficient, and more forgiving of 
+the unexpected than engineered alternatives. The colony should keep that in mind when designing things. It is not a rule. It is just good advice.
+
+Nature-based solutions are not (necessarily) replacements for engineered systems. They are complements to them. Potted plants will not scrub enough CO2 to keep a habitat alive. 
+They will contribute something real to air quality, humidity, and the psychological health of people living in a sealed environment for years. That contribution costs almost 
+nothing because plants do it for free. The engineering handles the load. Nature handles the margin. Both matter.
 
 
 Article 2107:
