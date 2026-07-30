@@ -1023,16 +1023,25 @@ ground know their systems. Trust them.
 TITLE XIX: HAZARDOUS RESEARCH AND RESTRICTED MATERIALS
 ===============================================================================
 
-Article 1901: Geographic Isolation of Hazardous ScienceResearch into demonstrably dangerous materials, volatile compounds, or unstable elements is heavily restricted and requires an explicit state mandate.Zoning Restriction: Authorized hazardous research 
-facilities must be located entirely away from core civilian infrastructure, 
-preferably isolated at the Martian poles or at a distance requiring weeks of overland travel at a steady, straight-line speed of 100 km/h.Global Threats: The research or development of any technology capable of altering the planet-wide environment in an 
-uncontrollable manner is unconstitutional and strictly barred.
-Article 1902: Weapons and Biological Research ProhibitionsGain-of-Function Prohibition:
-Gain-of-function biological research, viral engineering, or pathogen manipulation by any non-state entity or private corporation is strictly illegal and classified as high treason.
-Weapons of Mass Destruction: Research, development, production, or storage of chemical weapons or nuclear munitions by any non-state agent carries an immediate capital sentence via Article 202.
+Article 1901: Geographic Isolation of Hazardous Science
+Research into demonstrably dangerous materials, volatile compounds, or unstable elements is heavily restricted and requires an explicit state mandate.
+
+* Zoning Restriction: Authorized hazardous research facilities must be located entirely away from core civilian infrastructure, preferably isolated at the Martian poles or at 
+a distance requiring weeks of overland travel at a steady, straight-line speed of 100 km/h. 
+
+* Global Threats: The research or development of any technology capable of altering the planet-wide environment in an uncontrollable manner is unconstitutional and 
+strictly barred.
+
+Article 1902: Weapons and Biological Research
+* ProhibitionsGain-of-Function Prohibition: Gain-of-function biological research, viral engineering, or pathogen manipulation by any non-state entity or private corporation is 
+strictly illegal and classified as high treason.
+
+* Weapons of Mass Destruction: Research, development, production, or storage of chemical weapons or nuclear munitions by any non-state agent carries an immediate capital 
+sentence via Article 202.
+
 Article 1903: Supreme State Monopolies and Prohibitions
-The state retains the absolute, non-negotiable right to safeguard the colony by declaring a public monopoly over any category of goods, materials, or services at any time, for any reason, or for no publicly stated reason. The state may ban, restrict, or 
-confiscate any asset deemed an immediate hazard to collective survival.
+The state retains the absolute, non-negotiable right to safeguard the colony by declaring a public monopoly over any category of goods, materials, or services at any time, 
+for any reason, or for no publicly stated reason. The state may ban, restrict, or confiscate any asset deemed an immediate hazard to collective survival.
 
 ===============================================================================
 TITLE XX: REGULATION OF MIND-ALTERING SUBSTANCES
