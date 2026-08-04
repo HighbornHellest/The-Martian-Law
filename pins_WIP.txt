@@ -67,3 +67,26 @@ low threshold for what constitutes a pattern — act fast, ask questions soon. D
 the bar is low and the response is immediate. Upon a finding of pattern absence: the member is immediately removed from office; permanently barred from holding any state 
 employment, appointed position, or elected office; and subject to institutional shunning under Article 203 for a period of 30 Martian years. The colony's verdict on someone
 who took the mandate and did not show up for it is not a gentle one.
+
+Article 109: Executive Veto and Direct Democratic Escalation
+The head of the governing council may veto any bill passed by the Martian Council. A veto does not kill the bill. It escalates the matter to a binding popular vote of the citizenry.
+
+* The Popular Vote Mechanism: Every citizen eligible to vote under Article 003 may cast a digital ballot on the government-provided
+platform. The available options are: Yes, No, Abstain, or Unfounded Veto Reasoning. The vote is open for exactly 10 Martian days 
+from the moment the veto is publicly recorded. No minimum turnout, quorum, or percentage of eligible participants is required. 
+The result is binding.
+
+* Mandatory Citizen Notification: Upon the exercise of a veto, the state shall immediately notify all eligible voters through the 
+official government channels that a popular vote has been called, stating the subject of the bill and the duration of the voting 
+window.
+
+* The Unfounded Veto Reasoning Option: Selecting this option is a formal rejection of the veto’s justification. It records the 
+citizen’s judgment that the veto lacks substantive merit and that the bill should proceed. If this option receives the plurality 
+of votes cast, the veto is nullified and the bill is treated as passed.
+
+* Mandatory Public Reasoning: At the exact moment a veto is exercised, the council head must submit a plain-language statement 
+of the specific objection to the public ledger under Title XXXIII. A veto without such a statement is invalid and has no legal 
+effect.
+
+* Timing and Effect: The bill remains suspended during the 10-day popular vote window. Upon conclusion of the vote, the result 
+takes immediate effect according to the outcome. There is no further council reconsideration or secondary veto.
