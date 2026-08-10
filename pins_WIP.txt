@@ -90,3 +90,33 @@ effect.
 
 * Timing and Effect: The bill remains suspended during the 10-day popular vote window. Upon conclusion of the vote, the result 
 takes immediate effect according to the outcome. There is no further council reconsideration or secondary veto.
+
+
+
+---
+
+Article 517: Capability Is Not Intent
+The state may only prosecute acts. The possession of knowledge, skills, tools, or materials that could theoretically be used to commit a crime does not constitute evidence of
+criminal intent, does not establish probable cause, and does not justify investigation, detention, or prosecution in the absence of a demonstrated act or credible, specific,
+documented evidence of imminent criminal purpose.
+
+* The Tool Neutrality Principle: A tool is defined by its use, not its potential. The state does not presume criminal intent from the mere possession of tools, knowledge, 
+or capabilities that have legitimate, lawful applications. Possession alone — of any item not explicitly banned under this Constitution or downstream law — is never grounds for 
+prosecution, investigation, or restriction of rights.
+
+* The Act Standard: Criminal liability attaches to acts, not to the capability to commit them. The act determines the legal status. The state investigates and prosecutes the 
+act, not the tool.
+
+* The Specific Evidence Requirement: Where the state believes a person intends to use a capability or tool for criminal purposes, it must demonstrate specific, documented, 
+credible evidence of that intent — not theoretical possibility, not statistical likelihood, not professional association with a field where misuse is conceivable. 
+"They could do it" is not evidence. "They are doing it" or "they have specifically communicated intent to do it" is.
+
+* The Enumerated Exception: This article does not apply to items, materials, substances, or knowledge explicitly restricted or banned under this Constitution or downstream law
+— including, but not limited to unauthorized weapons, hazardous materials, controlled substances, and gain-of-function biological research as defined in Titles III and XIX. 
+Those categories are restricted because the potential harm is catastrophic and irreversible, and that restriction stands. Everything outside those explicitly enumerated 
+categories falls under this article's full protection.
+
+Considerations appendix — Article 517:
+
+A trained chemist could synthesize poison. They don't, because capability is not intent. The state that treats its chemists as presumptive poisoners,
+has confused the tool for the act and the professional for the criminal. That state is not protecting its citizens. It is suspecting them. Mars does not do that.
