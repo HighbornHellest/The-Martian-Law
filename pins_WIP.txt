@@ -81,7 +81,7 @@ official government channels that a popular vote has been called, stating the su
 window.
 
 * The Unfounded Veto Reasoning Option: Selecting this option is a formal rejection of the veto’s justification. It records the 
-citizen’s judgment that the veto lacks substantive merit and that the bill should proceed. If this option receives the plurality 
+citizen’s judgment that the veto lacks substantive merit and that the bill should proceed   . If this option receives the plurality 
 of votes cast, the veto is nullified and the bill is treated as passed.
 
 * Mandatory Public Reasoning: At the exact moment a veto is exercised, the council head must submit a plain-language statement 
