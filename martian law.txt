@@ -1065,6 +1065,32 @@ Article 1903: Supreme State Monopolies and Prohibitions
 The state retains the absolute, non-negotiable right to safeguard the colony by declaring a public monopoly over any category of goods, materials, or services at any time, 
 for any reason, or for no publicly stated reason. The state may ban, restrict, or confiscate any asset deemed an immediate hazard to collective survival.
 
+Article 1904: Gene Edited Food Safety, Farmer Rights, and the Prove It Mandate
+Gene edited food products are subject to the following mandatory framework before commercial sale or distribution is permitted.
+
+* The Prove It Mandate: No gene edited food product may be sold, distributed, or brought into the food supply or zone of influence until it has completed a minimum 10 Martian 
+year focused safety study. The study must be double-blind, peer reviewed, independently reproduced annually for the full duration, and published in full on the public ledger. 
+The nutritional value and digestibility of the edited product must meet or exceed that of the unedited equivalent — gene editing for food must be a straight upgrade, 
+not a lateral trade-off. Any product that demonstrably reduces nutritional value or digestibility relative to its unedited equivalent fails the mandate regardless of other 
+benefits.
+
+* The Executive Participation Requirement: The executives of the company seeking approval must personally consume the product under study conditions for the full 10 Martian 
+year duration. They eat what they're selling. This is non-negotiable and non-delegable.
+
+* The Disease Resistance Exception: Where a gene edit targets exclusively disease resistance, pest resistance without altering the product's nutritional profile,
+maintaining equivalent nutritional values is sufficient — a strict upgrade is not required. The 10 year study, peer review, and executive participation requirements still 
+apply in full.
+
+* Farmer Replanting Rights: No corporation, patent holder, or rights owner may restrict, sue, or penalize a farmer for replanting crops grown from gene edited seed they have 
+legitimately purchased or harvested. If a farmer uses the produce of a crop to replant, they replant. The biological act of a plant reproducing itself generates no corporate 
+IP claim. No contract, licensing agreement, or terms of sale may override this right. Any instrument attempting to do so is void from inception.
+
+* No Nutritional Regression: A gene edited food product that is later found — through ongoing study, new evidence, or independent research — to have regressed in nutritional 
+value or to be causing adverse health effects shall be immediately withdrawn from the food supply pending re-evaluation. The original approval does not protect against 
+subsequent findings. Should it be proven, that any nutritional value have regressed, it's distribution rights are to be pulled. Current stock can be sold. Should it be proven,
+that it has adverse health effects, it is to be pulled inmediatly, destroyed and the company investigated if they knew. Regardless of that probe, they must pay for any damage,
+should there be any for the citizens.
+
 ===============================================================================
 TITLE XX: REGULATION OF MIND-ALTERING SUBSTANCES
 ===============================================================================
