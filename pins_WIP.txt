@@ -37,6 +37,7 @@ there is to be a carvout already somewhere for emergienceis, where you're told t
 
 
 
+<<<<<<< HEAD
 Article 108: Mandatory Presence and Vote Casting Obligation
 Elected council members are obligated to be physically present for all votes. Representation of constituents is the fundamental act of elected office. No mechanism — 
 proxy voting, paired voting, delegated voting, or any equivalent arrangement — that allows a vote to be cast or counted in a member's physical absence is permitted, with the 
@@ -120,3 +121,14 @@ Considerations appendix — Article 517:
 
 A trained chemist could synthesize poison. They don't, because capability is not intent. The state that treats its chemists as presumptive poisoners,
 has confused the tool for the act and the professional for the criminal. That state is not protecting its citizens. It is suspecting them. Mars does not do that.
+=======
+Article 3203: 1002 apparatus not automatically triggered on clerical error, but justifies marshals looking into it — if found to be stupidity, Tier 2, go home
+Article 209: Two reasons for animal cruelty being Tier 3 — behavioral predictor of violence toward people, and simply not the kind of person the colony wants
+Mental state pin: 170-year trajectory from hanging horse thieves to releasing rapists on diminished capacity grounds — this Constitution explicitly refuses that drift at the constitutional level
+
+CoC:
+
+There are many faces of evil. Some are illegal and punished as such. Some are legal, through loopholes, manipulation or deception. When you find them. Shun them. Don't buy their products. Eat the cost of buying from elsewhere.
+Destroy them completely. Their reputation, their name, their face. If evil is not made to be radioactive, it'll slowly take root, grow and corrode society. Evil people will take and take and take and take until there's nothing left,
+and you're nothing but hollow husk, which they'll discard, with no afterthought.
+>>>>>>> 7e3eb37 (on evil)
