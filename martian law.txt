@@ -1343,6 +1343,7 @@ If a driver operates a vehicle recklessly and collides with another citizen, an 
 a
 severe offense, carrying penalties ranging from public lashings to permanent branding.
 
+
 ===============================================================================
 Title XXVII: Sovereignty, Warfare, and Counter-Terrorism Mandates
 ===============================================================================
@@ -1896,6 +1897,9 @@ endless purity tests, and usually least of all those, who demand it.
 Principle 404:
 When, as a courtier of the public, you're tasked with forming an opinion, remember when somebody points a finger. In many cases, the three fingers pointing backwards
 are a sign, that it is they themselves, are guilty of the act, they're trying to grandstand on.
+
+Principle 405:
+"Those who can make you believe absurdities can make you commit atrocities" ~ Francois Marie Arouet de Voltaire
 
 
 =======================================================
