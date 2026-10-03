@@ -1,133 +1,25 @@
-
-Constitution - IP/Copyright:
----
-New pin: when a trademark / Ip is not used, it's forfeited and goes public domain. No sitting on ips
-When a trademark/IP is not used it's forfeited and goes public domain — no sitting on IPs
-Copyright violation — holder can request destruction of derivative work in part or entirety, separate from fines. Criminal case = mandatory destruction. Forensic audit at violator's expense
-
-When a copyright is violated, the party, that had it's rights violated can ask for the derivative work in parts or in it's entirity destroyed. This does not forego, paying fines. So in worst case, the copyright violater may need to pay to the holder and destroy their work completely.
-In a non-civil bit criminal case, destruction of derivative work is mandatory.
-
-This needs to be audited by forensic analysis at the dime of the copyright violator
-
-digital context: press shift+delete. Then take the hard drive / ssd / whatever future carrier is there. If it can be written, overwrite the segments like 15 times with 0 bytes. If it can't be overwritten, becuase it's a write once media, destroy it. Utterly and completely, where no recovery is possible.
-
-
----
-
-
-Digital destruction standard — overwrite 15 times with zero bytes for overwritable media, physical destruction for write-once media, forensic verification throughout
-
-Hosts/platforms outside Martian jurisdiction that don't comply with destruction mandates are banned from all Martian zones of influence until compliance, entire corporate chain included
-Non-compliant platform ban covers entire corporate family, not just the named entity
-
-Constitution - Still needs a home/Title:
-
-Still crystallizing / explicitly incomplete:
-
-Code of Conduct opening section as a whole — letter from founders to future citizens, persuasive not declarative register
-Judicial accountability article (full shape not yet drafted)
-Corporate veil piercing article (full shape not yet drafted)
-IP non-use forfeiture article (full shape not yet drafted)
-Title XXXIII tentatively housing judicial accountability and corporate accountability together
-
----
-
-there is to be a carvout already somewhere for emergienceis, where you're told to go home. There needs to be one, where for the duration and for the scope, these rights are suspended, and you need to "shut the fuck up and get with the program". No eminent domain sure, but if there is an emergency your property can be used. Not your money spent, not your food eaten, but your land/habitat/etc can be used to save lives or protect the colony etc
-
-
-
-<<<<<<< HEAD
-Article 108: Mandatory Presence and Vote Casting Obligation
-Elected council members are obligated to be physically present for all votes. Representation of constituents is the fundamental act of elected office. No mechanism — 
-proxy voting, paired voting, delegated voting, or any equivalent arrangement — that allows a vote to be cast or counted in a member's physical absence is permitted, with the 
-sole exception defined below.
-
-* The Three-Option Vote: Every vote cast by a council member shall be one of three options: Yes, No, or Abstain. Abstain is a deliberate, present, recorded choice not to cast a 
-directional vote. It counts toward quorum. It does not interfere with the minimum threshold for a legally binding vote. It means: I am here, I choose not to direct this. 
-That is a legitimate democratic choice and it is on the public record for every constituent to see.
-
-* Absence and Quorum: A member who is not physically present when a vote is called does not vote and does not count toward quorum. A sufficient number of absences may prevent a 
-legally binding vote from occurring. This is a structural consequence of the quorum requirement, not a defect to be corrected. A vote that cannot achieve quorum does not pass.
-
-* The Weaponized Walkout Prohibition: Deliberately absenting oneself or coordinating with other members to absent themselves for the purpose of collapsing quorum and defeating 
-a bill through procedural obstruction rather than legitimate voting constitutes an abuse of the democratic process. A single member walking out is a pattern to be monitored.
-A coordinated walkout designed to torpedo a specific bill is fraud against the democratic process, prosecuted as a Tier 2 offense at minimum and escalating to Tier 3 where the 
-coordination is systemic or involves coercion of other members.
-
-* The Medical Absence Exception: Genuine, documented, verifiable physical incapacity excuses absence without further penalty beyond the uncast vote. There is no retroactive 
-vote, no recorded intent, no vote cast after the fact. The vote occurred when it occurred. Medical absence means the member missed it. That is the full extent of the exception.
-
-* The Off-Planet Representative Exception: Council members serving in formally designated diplomatic or representative roles off-planet may cast votes remotely, provided their 
-vote arrives within one light-day of the vote being called, or within a communications window defined as reasonable by downstream statute where faster-than-light communications 
-exist. Their vote is added to the tally upon arrival within the window. Outside the window, the vote is not counted. There is no extension of the window and no retroactive 
-inclusion.
-
-* The Pattern of Absence: A council member who establishes a pattern of absence from votes is failing their constituents on the public record. The Constitution encourages a 
-low threshold for what constitutes a pattern — act fast, ask questions soon. Downstream statute shall define the specific trigger, but the constitutional expectation is that 
-the bar is low and the response is immediate. Upon a finding of pattern absence: the member is immediately removed from office; permanently barred from holding any state 
-employment, appointed position, or elected office; and subject to institutional shunning under Article 203 for a period of 30 Martian years. The colony's verdict on someone
-who took the mandate and did not show up for it is not a gentle one.
-
-Article 109: Executive Veto and Direct Democratic Escalation
-The head of the governing council may veto any bill passed by the Martian Council. A veto does not kill the bill. It escalates the matter to a binding popular vote of the citizenry.
-
-* The Popular Vote Mechanism: Every citizen eligible to vote under Article 003 may cast a digital ballot on the government-provided
-platform. The available options are: Yes, No, Abstain, or Unfounded Veto Reasoning. The vote is open for exactly 10 Martian days 
-from the moment the veto is publicly recorded. No minimum turnout, quorum, or percentage of eligible participants is required. 
-The result is binding.
-
-* Mandatory Citizen Notification: Upon the exercise of a veto, the state shall immediately notify all eligible voters through the 
-official government channels that a popular vote has been called, stating the subject of the bill and the duration of the voting 
-window.
-
-* The Unfounded Veto Reasoning Option: Selecting this option is a formal rejection of the veto’s justification. It records the 
-citizen’s judgment that the veto lacks substantive merit and that the bill should proceed   . If this option receives the plurality 
-of votes cast, the veto is nullified and the bill is treated as passed.
-
-* Mandatory Public Reasoning: At the exact moment a veto is exercised, the council head must submit a plain-language statement 
-of the specific objection to the public ledger under Title XXXIII. A veto without such a statement is invalid and has no legal 
-effect.
-
-* Timing and Effect: The bill remains suspended during the 10-day popular vote window. Upon conclusion of the vote, the result 
-takes immediate effect according to the outcome. There is no further council reconsideration or secondary veto.
-
-
-
----
-
-Article 517: Capability Is Not Intent
-The state may only prosecute acts. The possession of knowledge, skills, tools, or materials that could theoretically be used to commit a crime does not constitute evidence of
-criminal intent, does not establish probable cause, and does not justify investigation, detention, or prosecution in the absence of a demonstrated act or credible, specific,
-documented evidence of imminent criminal purpose.
-
-* The Tool Neutrality Principle: A tool is defined by its use, not its potential. The state does not presume criminal intent from the mere possession of tools, knowledge, 
-or capabilities that have legitimate, lawful applications. Possession alone — of any item not explicitly banned under this Constitution or downstream law — is never grounds for 
-prosecution, investigation, or restriction of rights.
-
-* The Act Standard: Criminal liability attaches to acts, not to the capability to commit them. The act determines the legal status. The state investigates and prosecutes the 
-act, not the tool.
-
-* The Specific Evidence Requirement: Where the state believes a person intends to use a capability or tool for criminal purposes, it must demonstrate specific, documented, 
-credible evidence of that intent — not theoretical possibility, not statistical likelihood, not professional association with a field where misuse is conceivable. 
-"They could do it" is not evidence. "They are doing it" or "they have specifically communicated intent to do it" is.
-
-* The Enumerated Exception: This article does not apply to items, materials, substances, or knowledge explicitly restricted or banned under this Constitution or downstream law
-— including, but not limited to unauthorized weapons, hazardous materials, controlled substances, and gain-of-function biological research as defined in Titles III and XIX. 
-Those categories are restricted because the potential harm is catastrophic and irreversible, and that restriction stands. Everything outside those explicitly enumerated 
-categories falls under this article's full protection.
-
-Considerations appendix — Article 517:
-
-A trained chemist could synthesize poison. They don't, because capability is not intent. The state that treats its chemists as presumptive poisoners,
-has confused the tool for the act and the professional for the criminal. That state is not protecting its citizens. It is suspecting them. Mars does not do that.
-=======
-Article 3203: 1002 apparatus not automatically triggered on clerical error, but justifies marshals looking into it — if found to be stupidity, Tier 2, go home
-Article 209: Two reasons for animal cruelty being Tier 3 — behavioral predictor of violence toward people, and simply not the kind of person the colony wants
-Mental state pin: 170-year trajectory from hanging horse thieves to releasing rapists on diminished capacity grounds — this Constitution explicitly refuses that drift at the constitutional level
-
-CoC:
-
-There are many faces of evil. Some are illegal and punished as such. Some are legal, through loopholes, manipulation or deception. When you find them. Shun them. Don't buy their products. Eat the cost of buying from elsewhere.
-Destroy them completely. Their reputation, their name, their face. If evil is not made to be radioactive, it'll slowly take root, grow and corrode society. Evil people will take and take and take and take until there's nothing left,
-and you're nothing but hollow husk, which they'll discard, with no afterthought.
+-Article 2102: Entry Ineligibility Criteria
+-The state denies entry to any foreign national or immigrant possessing a criminal history that mirrors a capital offense under Article 201. The colony will not import individuals with histories of such offences.
+-
+-Article 2103: Abolition of Diplomatic Immunity
+-All visitors, corporate agents, and foreign dignitaries are subject to the absolute jurisdiction of Martian law.
+-
+-* The Absolute Mandate: The concept of diplomatic immunity is entirely abolished within the Martian zone of influence.
+-Enforcement: Every person, vehicle, and entity entering Martian territory must follow the law exactly, without exception, compromise, or political deferment.
+-
+-Article 2104: Non-Citizen Minor Offenses and Trans-Orbital Deportation
+-To maintain a distinct jurisdictional boundary between Martian citizens and foreign nationals, the enforcement of non-capital, minor offenses committed by visitors or immigrants shall follow a separate correctional protocol:
+-
+-* The Immunity from Physical Sanction: Foreign entities, travelers, or temporary immigrants who commit a minor offense that does not warrant immediate capital execution under Article 201 shall be strictly exempt from state-sanctioned corporal punishment, public 
+-lashings, and permanent criminal branding. The state will not expend its judicial markers or physical resources on non-citizens.
+-
+-* The 10-Year Exile Mandate: In lieu of physical correction, convicted foreign nationals shall face an immediate, mandatory sentence of exactly 10 Martian years of complete exile from the Martian zone of influence.
+-
+-* The Immediate Repatriation Protocol: The state shall arrange for the offender's immediate removal from the planet. If logistically possible, the deported individual shall be sent back to Earth or their origin immediately utilizing their own incoming space vehicle 
+-or corporate transport.
+-
+-* The Next Available Craft Rule: If the offender's primary vessel is incapacitated, unavailable, or lacks life-support capabilities for an immediate return trajectory, they shall be securely detained and transferred to the very first suitable outbound transport 
+-vehicle leaving the Martian zone of influence.
+-
+-Article 2105: Legal Constraints and Common-Sense Protections for Foreign GuestsForeign guests, short-term travelers, and un-vetted corporate visitors are designated strictly as observers within the Martian zone of influence. While they do not enjoy full civic 
++Every immigrant, visitor, and transient traveler entering the Martian zone of influence must read, fn guests, short-term travelers, and un-vetted corporate visitors are designated strictly as observers within the Martian zone of influence. While they do not enjoy full civic 
