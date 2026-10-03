@@ -1171,25 +1171,52 @@ TITLE XXI: IMMIGRATION, VISITATION, AND EXTRATERRITORIAL JURISDICTION
 ===============================================================================
 
 Article 2101: The Martian Oath of Conformity
-Every immigrant, visitor, and transient traveler entering the Martian zone of influence must read, fully understand, and swear a
-binding legal oath to uphold the Martian Constitution and its codes of conduct. No individual shall clear port customs without 
-executing this affirmation. While they do not enjoy full civic liberties, their safety and conduct are strictly regulated 
-under baseline protections:
+Every immigrant, visitor, and transient traveler entering the Martian zone of influence must read, fully understand, and swear a binding legal oath to uphold the Martian Constitution and its codes of conduct.
+No individual shall clear port customs without executing this affirmation.
 
-* The Baseline Safety Guarantee: Guests are fully protected by Martian criminal law. Under no circumstance may a guest be murdered, assaulted, exploited by slavers, defrauded, or subjected to unlawful physical violence. If two foreign guests commit a violent crime 
-against one another, they shall be aggressively prosecuted under the full weight of Martian law.
+Article 2102: Entry Ineligibility Criteria
+The state denies entry to any foreign national or immigrant possessing a criminal history that mirrors a capital offense under Article 201. The colony will not import individuals with histories of such offenses.
 
-* The Restriction on Public Agitation: Non-citizens do not possess the political right to free speech reserved for Martian citizens under Title V. Guests are strictly prohibited from denigrating Martian citizens, criticizing the Martian state, or preaching external 
-religious or philosophical ideologies.
+Article 2103: Abolition of Diplomatic Immunity
+All visitors, corporate agents, and foreign dignitaries are subject to the absolute jurisdiction of Martian law.
 
-* The Prohibition on Foreign Allegiance Displays: Guests are strictly banned from openly declaring or actively working to serve a foreign state entity, hostile planetary interest, or foreign cartel while within the colony’s borders. This rule does not apply to 
-formally recognized, state-sanctioned diplomatic envoys operating within authorized parameters.
+* The Absolute Mandate: The concept of diplomatic immunity is entirely abolished within the Martian zone of influence.
+* Enforcement: Every person, vehicle, and entity entering Martian territory must follow the law exactly, without exception, compromise, or political deferment.
 
-* Enforcement: Any guest who uses their voice to sow division, mock the host culture, broadcast unauthorized religious speech, or flagrantly display allegiance to an external power violates their status. They shall face immediate, mandatory trans-orbital deportation 
-under Article 2104.
+Article 2104: Non-Citizen Minor Offenses and Trans-Orbital Deportation
+To maintain a distinct jurisdictional boundary between Martian citizens and foreign nationals, the enforcement of non-capital, minor offenses committed by visitors or immigrants shall follow a separate correctional protocol:
 
-Article 2106: Generational Integration Mandate and Tier 2 RevocationTo forcefully ensure that incoming lineages fully integrate into the high-trust cultural and operational fabric of the colony, newly naturalized families face heightened security screening across 
-multiple generations:
+* The Immunity from Physical Sanction: Foreign entities, travelers, or temporary immigrants who commit a minor offense that does not warrant immediate capital execution under Article 201 shall be strictly exempt from state-sanctioned corporal punishment,
+    public lashings, and permanent criminal branding. The state will not expend its judicial markers or physical resources on non-citizens.
+
+* The 10-Year Exile Mandate: In lieu of physical correction, convicted foreign nationals shall face an immediate, mandatory sentence of exactly 10 Martian years of complete exile from the Martian zone of influence.
+
+* The Immediate Repatriation Protocol: The state shall arrange for the offender's immediate removal from the planet. If logistically possible, the deported individual shall be sent back to Earth or their origin immediately utilizing their own incoming
+    space vehicle or corporate transport.
+
+* The Next Available Craft Rule: If the offender's primary vessel is incapacitated, unavailable, or lacks life-support capabilities for an immediate return trajectory, they shall be securely detained and transferred to the very first suitable outbound transport
+    vehicle leaving the Martian zone of influence.
+
+Article 2105: Legal Constraints and Common-Sense Protections for Foreign Guests
+Foreign guests, short-term travelers, and un-vetted corporate visitors are designated strictly as observers within the Martian zone of influence. While they do not enjoy full civic protections, their safety and conduct are strictly regulated under
+baseline common-sense protections:
+
+* The Baseline Safety Guarantee: Guests are fully protected by Martian criminal law. Under no circumstance may a guest be murdered, assaulted, exploited by slavers, defrauded, or subjected to unlawful physical violence.
+    If two foreign guests commit a violent crime against one another, they shall be aggressively prosecuted under the full weight of Martian law.
+
+* The Restriction on Public Agitation: Non-citizens do not possess the political right to free speech reserved for Martian citizens under Title V. Guests are strictly prohibited from denigrating Martian citizens, criticizing the Martian state,
+    or preaching external religious or philosophical ideologies.
+
+* The Prohibition on Foreign Allegiance Displays: Guests are strictly banned from openly declaring or actively working to serve a foreign state entity, hostile planetary interest, or foreign cartel while within the colony’s borders.
+    This rule does not apply to formally recognized, state-sanctioned diplomatic envoys operating within authorized parameters.
+
+* Enforcement: Any guest who uses their voice to sow division, mock the host culture, broadcast unauthorized religious speech, or flagrantly display allegiance to an external power violates their status.
+    They shall face immediate, mandatory trans-orbital deportation under Article 2104.
+
+
+
+Article 2106: Generational Integration Mandate and Tier 2 Revocation
+To forcefully ensure that incoming lineages fully integrate into the high-trust cultural and operational fabric of the colony, newly naturalized families face heightened security screening across multiple generations:
 
 * The Conditional Integration Period: First-generation, second-generation, and third-generation immigrants are granted conditional citizenship. If any individual within these three generational tiers is convicted of a Tier 2 Intermediate Offense (such as gross 
 negligence or any kind of fraud), their citizenship is immediately and permanently stripped. Following revocation, they shall face the mandatory 10-Martian-year trans-orbital exile and deportation protocol.
@@ -1198,47 +1225,58 @@ negligence or any kind of fraud), their citizenship is immediately and permanent
 face standard domestic branding and lashing penalties rather than trans-orbital deportation.
 
 Article 2107: The Absolute Right of Exclusion:
-The state retains an absolute, non-negotiable right to refuse entry, immigration status, residency, or citizenship to any foreign national, individual, or organized group. This right is not contingent on due process owed to non-citizens (Art. 2105) and is not subject to appeal once exercised.
+The state retains an absolute, sovereign, and non-negotiable right to refuse entry, visa status, residency, or citizenship to any foreign national, individual, or organized demographic group for any reason, or for no publicly stated reason whatsoever.
 
-* The Verified Threat Basis: Exclusion under this article must rest on one or more of the following, standing, reviewable findings:
-
-**  Documented affiliation, membership, or material support for an organization formally designated as hostile under Article 2704;
-**  Verified individual conduct — prior acts of violence, atrocity, slaving, or sabotage — on the public record;
-**  Origin from a polity or armed faction currently engaged in active hostilities or declared war against the Martian state (Art. 2702);
-**  Credible, documented intelligence that an organized group intends to import a parallel system of law, coercion, or violence in place of Martian civil authority (Art. 2108).
+* The Total Finality Standard: Border processing is a sovereign checkpoint, not a judicial court. The state is under zero constitutional obligation to provide due process, legal representation, or a stated justification to any non-citizen seeking entry.
+Once an exclusion order is issued by a port authority, border marshal, or immigration desk, it is absolute, immediate, and completely un-appealable.
 
 
-* The Standing Designation Registry: Any exclusion exercised against a named group, polity, faction, or organization — as opposed to a named individual — must be entered onto a public Exclusion Registry, stating the specific finding under the above clauses that 
-justifies it. No group may be excluded by unrecorded or informal designation.
+* Cultural Homogeneity Framework: Because a closed ecosystem possesses a zero-percent margin for social decay or parallel systems of tribal law, the state explicitly retains the right to discriminate at the border. Entry may be denied based directly on cultural background,
+planet of origin, group habits, or any other demographic trait deemed incompatible with the colony's high-trust contract.
 
-* Mandatory Periodic Review: Every group-level designation that no longer meets the Verified Threat Basis shall be struck from the Registry and entry restrictions lifted.
+* The Discretionary Core: The state recognizes that structural subversion cannot always be detected by centralized intelligence databases. Localized port administrators and border marshals are empowered to exercise immediate, gut-level discretionary exclusion based on
+behavioral observation. It is what it is. The state is under no obligation to explain itself to non-citizens.
 
-* The Ancestry and Faith Exclusion: Race, species-origin, ethnicity, or religious affiliation, standing alone and absent a finding under the Verified Threat Basis, shall never constitute grounds for exclusion. A applicant's membership in a broad category that 
-includes hostile actors does not itself meet the standard; the finding must attach to the actual organization, polity, or individual conduct at issue.
+* Top-Down Group Exclusions and The Standing Registry: Independent of individual port discretion, the Martian Council retains the right to issue blanket bans against entire named or unnamed groups, polities, factions, or organizations.
+These macro-level group rejections are banned from higher up; the clerk is not allowed to let them through. To ensure clarity, these group-level bans can rest on standing, reviewable findings such as:
+  ** Documented affiliation, membership, or material support for an organization formally designated as hostile under Article 2704;
+  ** Verified institutional conduct — prior acts of violence, atrocity, slaving, or sabotage — on the public record;
+  ** Origin from a polity or armed faction currently engaged in active hostilities, unless those actions are directed exclusively against factions or entities guilty of acts classified as Tier 3 High Crimes under Martian law;
+  ** Credible, documented intelligence that an organized group intends to import a parallel system of law, coercion, or violence in place of Martian civil authority (Art. 2108).
+
+
+* The Standing Macro-Designation Registry: For large-scale border management, the Martian Council may issue blanket bans against entire named (or unnamed) groups, polities, factions, or organizations.
+These macro-level group exclusions are banned from higher up—the clerk is not allowed to let them through—and must be entered onto a public Exclusion Registry for port enforcement clarity.
+
+* Mandatory Periodic Review: To prevent obsolete restrictions from clogging commerce, the Council shall review this registry periodically; any group-level designation that no longer meets a verified threat basis or arises from a foreign faction that has
+dissolved or ceased hostilities shall be struck from the Registry and its entry restrictions immediately lifted.
+
 
 * Emergency Discretion: In a declared state of emergency under Article 2705, or where an approaching vessel meets the conditions of Article 2706, the executive may exercise summary exclusion pending the next council session, at which point the action must be 
 ratified onto the Registry or reversed.
 
-* The Classified Basis: Where the state's intelligence apparatus possesses a good-faith, articulable basis to believe an individual, individuals or organization poses a threat to colony survival, or infrastructure and disclosure of that basis would compromise a source, operation, or method, exclusion may be entered as a Classified Finding instead of a public Registry entry. A Classified Finding is permanent, requires no periodic review or re-justification, and excluded is excluded.
+* The Intelligence & Classified Basis: Independent of public registries or frontline clerk discretion, where the state's intelligence apparatus possesses an articulable basis to believe an individual or group poses a threat to colony survival or infrastructure,
+and disclosure would compromise a source or method, exclusion may be locked as an immutable Classified Finding. A Classified Finding is permanent, requires no public registry logging, and excluded is excluded.
 
 * Attribution of Record: Every Classified Finding must be attached to a specific, identifiable office or unit of the intelligence apparatus responsible for it, as defined by subordinate statute. That attribution is permanent and cannot be anonymized, transferred, or 
 retroactively reassigned.
 
-* Permanence: A properly authorized Classified Finding does not expire, is not subject to periodic review, and does not require re-justification. Unless the inteligence apparatus unlocks the restriction it stays in place.
+* Permanence: A properly authorized Classified Finding does not expire, is not subject to periodic review, and does not require re-justification. Unless the intelligence apparatus unlocks the restriction it stays in place.
 
 * The Fabrication Penalty: If a Classified Finding is later established — by confession, investigation, or any other means — to have been fabricated, invented, or issued as a pretext unrelated to genuine colony security, every individual within the attributed office 
 who authored, approved, or knowingly signed off on it shall be prosecuted and executed as Tier 3 offenders under the principle of Article 107. There is no statute of limitations on this exposure.
 
-Article 2108: The Subversion Prevention Mandate and Anti-Soft Colonization ClauseTo ensure that incoming populations do not act as demographic tools for ideological expansion, the state establishes an active, permanent mandate to detect, prevent, and dismantle 
+Article 2108: The Subversion Prevention Mandate and Anti-Soft Colonization Clause
+To ensure that incoming populations do not act as demographic tools for ideological expansion, the state establishes an active, permanent mandate to detect, prevent, and dismantle 
 methods of "soft colonization":
 
 * The Soft Colonization Definition: The state recognizes soft colonization as an existential threat wherein foreign populations enter the territory under peaceful or non-aggressive pretexts, accumulate demographic volume across generations, and subsequently utilize 
 legal, social, or political mechanisms to manipulate state statutes in favor of the external cultural or religious frameworks they initially fled.
 
-* The High-Trust Defense Doctrine: The high-trust, survival-oriented framework of the Martian state relies entirely on absolute adherence to the un-breachable social contract of this Constitution. Any coordinated attempt by an integrated demographic sub-group to 
+* The High-Trust Defense Doctrine: The high-trust, survival-oriented framework of the Martian state relies entirely on absolute adherence to the un-breachable social contract of this Constitution. Any coordinated or un-coordinated attempt by an integrated demographic sub-group to 
 subvert the plain-language intent of these laws, inject external religious influences into state infrastructure, or erode the strict secular neutrality of Title IX is legally classified as an act of systemic cultural sabotage, and therefore Treason.
 
-* Active Forensic Auditing: The executive branch and state security marshals maintain the absolute right to actively investigate and monitor immigration pipelines, community organizations, and foreign-aligned cultural collectives for signs of coordinated ideological 
+* Active Forensic Auditing: The executive branch and state security marshals maintain the absolute right to actively investigate and monitor immigration pipelines, community organizations, and foreign-aligned cultural collectives for signs of coordinated or un-coordinated ideological 
 subversion or foreign capture.
 
 * The Multi-Generational Revocation Escalation: In accordance with Article 2106, if an investigation proves that conditional citizens within the first three generational tiers are engaging in a calculated pattern of soft colonization—even if masked through legal 
