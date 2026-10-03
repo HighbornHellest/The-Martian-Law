@@ -718,6 +718,31 @@ under Article 705. The fact that the corporation did not directly conduct the th
 in it.
 
 
+Article 706: Legal Practice, Advocacy Standards, and the Martian Bar
+All legal practitioners operating within the Martian zone of influence are governed by this article and the Martian Bar, the state-recognized body responsible for the licensing, conduct, and professional accountability of legal professionals:
+
+* The Hierarchy of Authority: Legal practitioners shall systematically assess any matter against the following hierarchy in rigid, descending order: this Constitution; downstream statute; municipal law; and any other contract or agreement.
+Where work is performed on Martian soil, Martian law strictly governs. International contracts are permitted but may not violate the first three tiers of this hierarchy. Where a conflict occurs, Martian law completely prevails.
+
+* The Advocacy Standard: Lawyers are expected to represent their client’s position with full force through lawful argument, evidence, and procedure. Hard, aggressive, and unrelenting advocacy within the bounds of the law and established procedure
+is actively protected and expected. Conversely, defamation, harassment, intimidation, or bad-faith conduct toward any party, witness, or official is strictly prohibited. The boundary is crossed the exact moment the conduct ceases to be legitimate
+advocacy and becomes personal attack, coercion, or process abuse.
+
+* Witness and Jury Integrity: Any attempt to intimidate, tamper with, dox, coerce, or otherwise adversely influence any witness, court official, or member of any adjudicating body—including through vague, indirect, or plausibly deniable
+means—bypasses all civil metrics. It constitutes a Tier 3 High Crime. Indirection, subtlety, or layered communication is not a defense; the text judges the objective intent and outcome.
+
+* Bar Jurisdiction: The Martian Bar holds exclusive authority to discipline professional infractions that do not rise to the level of criminal conduct. Where an advocate's conduct constitutes a statutory crime, the Bar possesses absolutely zero
+authority to shield, suppress, or substitute its own actions for public criminal prosecution. Aiding and abetting statutes apply to legal professionals exactly as they do to any other citizen.
+
+* Personal Accountability: Regardless of the digital tools, automated staff, or software systems used in the course of legal preparation, the licensed practitioner who signs any document, files any motion, or submits any argument bears full,
+un-delegated personal responsibility for its contents and consequences. Clerical error, software glitch, or structural delegation are not defenses. The signature is the absolute liability.
+
+* The Highest Standard: Legal professionals, their firms, and their associated entities are held to the highest ethical, moral, and legal standard the colony applies to any profession. The law is the foundation of the colony’s social contract;
+those who wield it professionally are its stewards. This baseline demands ordinary decency in daily conduct. Being a licensed advocate does not grant license to act like a piece of shit toward other people. Conduct that fails this standard shall
+be treated accordingly by the Bar and the community.
+
+
+
 ===============================================================================
 TITLE VIII: DOMESTIC RELATIONS AND CHILD WELFARE
 ===============================================================================
