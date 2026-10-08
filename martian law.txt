@@ -1544,47 +1544,58 @@ Title XXVIII: Public Healthcare and Medical Mandates
 Article 2801: Medical Confidentiality and Patient Safeguards
 Physicians, medical practitioners, and healthcare administrators bear an absolute legal burden to protect the health and privacy of their patients.
 
-* The Need-to-Know Restriction: Medical professionals are strictly prohibited from revealing a patient's personal identity or medical records to any party outside the immediate care team. Information sharing is restricted exclusively to consulting doctors, 
-specialists, or hospital clerks directly assisting in the patient's treatment.
+* The Need-to-Know Restriction: Medical professionals are strictly prohibited from revealing a patient's personal identity or medical records to any party outside the
+immediate care team. Information sharing is restricted exclusively to consulting doctors, specialists, or hospital clerks directly assisting in the patient's treatment.
 
-*Professional Consultation Standard: General peer consultations are fully permitted. Medical professionals may discuss specific cases in academic or professional forums provided the data is completely anonymized and contains zero identifying markers.
+*Professional Consultation Standard: General peer consultations are fully permitted. Medical professionals may discuss specific cases in academic or professional forums
+provided the data is completely anonymized and contains zero identifying markers.
 
-* The De-Anonymization Prohibition: Any deliberate attempt by an individual, corporation, or data analyst to reverse-engineer anonymized medical data for the purpose of identifying a specific person is strictly illegal. Conviction constitutes a Tier 2 Intermediate 
-Offense, carrying the mandatory penalty of public lashings and a permanent physical brand on the inside of the forearm under Article 204.
+* The De-Anonymization Prohibition: Any deliberate attempt by an individual, corporation, or data analyst to reverse-engineer anonymized medical data for the purpose of
+identifying a specific person is strictly illegal. Conviction constitutes a Tier 2 Intermediate Offense, carrying the mandatory penalty of public lashings and a permanent 
+physical brand on the inside of the forearm under Article 204.
 
 Article 2802: State-Funded Healthcare and Permanent Intervention Standards
 The state shall fully fund comprehensive medical care for all Martian citizens, prioritizing efficiency, long-term efficacy, and minimal unnecessary harm.
 
-* The Permanent Cure Mandate: Public funding is strictly limited to medical procedures and surgical interventions that offer a definitive, permanent fix to an ailment. The state will not finance temporary patches, recurring cosmetic workarounds, or inefficient 
-medical techniques.
+* The Permanent Cure Mandate: Public funding is strictly limited to medical procedures and surgical interventions that offer a definitive, permanent fix to an ailment. 
+The state will not finance temporary patches, recurring cosmetic workarounds, or inefficient medical techniques.
 
-* The Prohibited Substance Exception: Where the only viable last-resort treatment under this exception involves a substance or compound not currently listed on the state ledger under Article 2001, or one otherwise restricted under Article 2002, the treating clinician's emergency authorization under this article supersedes
-that restriction for the duration of the emergency treatment only. This authorization does not retroactively legalize the substance for general use, and does not, by itself, determine whether Article 2803 funding applies to the treatment rendered.
+* The Prohibited Substance Exception: Where the only viable last-resort treatment under this exception involves a substance or compound not currently listed on the state 
+ledger under Article 2001, or one otherwise restricted under Article 2002, the treating clinician's emergency authorization under this article supersedes that restriction
+for the duration of the emergency treatment only. This authorization does not retroactively legalize the substance for general use, and does not, by itself, determine whether
+Article 2803 funding applies to the treatment rendered.
 
 
 Article 2803: Exclusion for Self-Destructive Conduct
-Because medical supplies, specialized equipment, and clinical resources are scarce within a closed ecosystem, the state refuses to subsidize personal negligence or willful physical decay.
+Because medical supplies, specialized equipment, and clinical resources are scarce within a closed ecosystem, the state refuses to subsidize personal negligence or willful
+physical decay.
 
-*The Forfeiture of Coverage: The state will completely deny healthcare funding for any illness, injury, or organ failure resulting directly from verified, ongoing self-destructive behavior
+*The Forfeiture of Coverage: The state will completely deny healthcare funding for any illness, injury, or organ failure resulting directly from verified, ongoing
+self-destructive behavior
 
 Article 2804: Regulation of Medical Studies and Clinical Experimentation
-To protect the physical integrity and dignity of all sapient life within the colony, any medical research, clinical trial, or biological experimentation must adhere to the highest scientific and ethical thresholds:
+To protect the physical integrity and dignity of all sapient life within the colony, any medical research, clinical trial, or biological experimentation must adhere to the
+highest scientific and ethical thresholds:
 
-*Pre-Requisite Testing: Experimental treatments or novel pharmaceuticals shall never be tested on sapient subjects unless all non-sapient laboratory trials, simulations, and animal-analog testing phases have been entirely exhausted and proven successful.
+*Pre-Requisite Testing: Experimental treatments or novel pharmaceuticals shall never be tested on sapient subjects unless all non-sapient laboratory trials, simulations, and
+animal-analog testing phases have been entirely exhausted and proven successful.
 
-*The Methodological Mandate: All clinical studies involving sapient subjects must follow a rigorous, scientific baseline. They must be strictly double-blind, properly randomized, and completely repeatable by independent research teams
+*The Methodological Mandate: All clinical studies involving sapient subjects must follow a rigorous, scientific baseline. They must be strictly double-blind, properly
+randomized, and completely repeatable by independent research teams
 
-*The Purity of Replication and Approval Baseline: No new medical method, surgical technique, pharmaceutical compound, or treatment protocol shall be accepted or funded by the state unless it has been successfully replicated at least two separate times by
-independent entities and has passed rigorous, blind peer review. The state shall categorically reject all applications that fail to meet this baseline.
+*The Purity of Replication and Approval Baseline: No new medical method, surgical technique, pharmaceutical compound, or treatment protocol shall be accepted or funded by the
+state unless it has been successfully replicated at least two separate times by independent entities and has passed rigorous, blind peer review. The state shall
+categorically reject all applications that fail to meet this baseline.
 
-*The Supreme Constitutional Rejection Override: The state shall automatically reject any medical application, drug, or methodology—regardless of trial success or replication data—if it is found for any reason to violate or subvert the core guiding principles of this 
-Constitution.
+*The Supreme Constitutional Rejection Override: The state shall automatically reject any medical application, drug, or methodology—regardless of trial success or
+replication data—if it is found for any reason to violate or subvert the core guiding principles of this Constitution.
 
-*Subject Eligibility: Human or non-human sapient test subjects must be completely of sound mind, able-bodied relative to their species, and provide explicit, un-coerced, written consent. The utilization of prisoners, mentally incapacitated individuals, or 
-economically coerced citizens for medical testing is strictly unconstitutional.
+*Subject Eligibility: Human or non-human sapient test subjects must be completely of sound mind, able-bodied relative to their species, and provide explicit, un-coerced,
+written consent. The utilization of prisoners, mentally incapacitated individuals, or economically coerced citizens for medical testing is strictly unconstitutional.
 
-*The Compassionate Use Exception: The sole exception to these rigid trial constraints occurs during acute, life-threatening medical emergencies. If a subject’s life is under direct, immediate threat, and no other standard medical option is available or viable, 
-clinicians may administer minor, uncertified experimental treatments as a last-resort effort to save the patient.
+*The Compassionate Use Exception: The sole exception to these rigid trial constraints occurs during acute, life-threatening medical emergencies. If a subject’s life is
+under direct, immediate threat, and no other standard medical option is available or viable, clinicians may administer minor, uncertified experimental treatments as a
+last-resort effort to save the patient.
 
 =======================================================
 Title XXIX: Revenue and Taxation
