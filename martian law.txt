@@ -1912,7 +1912,7 @@ The Intent: True progress requires letting exceptional minds push boundaries. A 
 
 
 Principle 103: The Balance of Virtue and Realism
-Citizens are encouraged to study not only the great works of Stoic and classical philosophy (Socrates, Plato, Marcus Aurelius, Seneca, Cicero, and similar thinkers from other traditions), but also texts that examine the strategic realities of power, human ambition,
+* Citizens are encouraged to study not only the great works of Stoic and classical philosophy (Socrates, Plato, Marcus Aurelius, Seneca, Cicero, and similar thinkers from other traditions), but also texts that examine the strategic realities of power, human ambition,
 and political maneuvering.
 Recommended works in this vein include Niccolò Machiavelli’s The Prince and Robert Greene’s The 48 Laws of Power, along with other writings that explore the exercise of influence and the navigation of imperfect human systems.
 
