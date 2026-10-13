@@ -82,6 +82,8 @@ weapons platform.
 
 * Primary Intended Application: This platform is engineered strictly for the engagement of heavily armored combatants and hostile elements utilizing hard environmental cover.
 
+* Primary Intended Platform: precision rifle
+
 * The APFSDS-RP Cartridge: The primary platform utilizes high-caliber (.35 to .40 baseline) Armor-Piercing Fin-Stabilized Discarding Sabot - Rocket Propelled (APFSDS-RP)
 ammunition.
 
@@ -95,8 +97,7 @@ This ensures maximum kinetic impact and pinpoint accuracy even at point-blank, c
 tactical rigging to manage. Due to the precision machining required for the sabot shoes, stabilization fins, and micro-propulsion motors, this ordnance is astronomically
 expensive to manufacture and is restricted exclusively to Terminus Squadron or elite military deployment.
 
-* Operational Cycling: The standard-issue platform utilizes a low-cyclic automatic fire rate. This deliberate mechanical delay allows the operator to re-center their vector,
-manage the heavy ballistic kickback, and deliver precise, rhythmic, high-penetration deletion patterns through multiple layers of structural cover.
+* Operational Cycling: The standard-issue platform utilizes a low-cyclic automatic fire rate / bolt action .
 
 * Scale Multiplier: The state recognizes the mechanical efficiency of the APFSDS-RP system. Scaled variants of this ballistic grid are optimized and mounted as primary
 kinetic anti-ship weaponry aboard Martian defense vessels, utilizing the same hypersonic afterburner principles to pierce capital hull plating across deep-space distances.
