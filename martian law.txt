@@ -596,10 +596,16 @@ Article 702: Qualified Shielding and Misconduct
 * Operational Protection: Police officers receive general legal shielding from civil liability while performing their duties in good faith.
 * Forfeiture of Protection: If an officer commits a crime, abuses their authority, or violates civil rights, their legal shielding is immediately and permanently stripped. They shall be prosecuted as ordinary citizens.
 
+
 Article 703: The Habitat Castle Doctrine
 A citizen's habitat module is their absolute sanctuary. If an intruder breaks into a private habitat, they immediately forfeit their right to life.
 * Right to Terminate: The habitat owner is legally permitted to use lethal force to neutralize the intruder instantly.
 * Prohibited Actions: The owner may only terminate the threat. Taking the intruder alive to inflict torture, unlawful imprisonment, or sexual assault remains strictly illegal and punishable under Article 201.
+* Paramilitary Exclusion: The provisions of this article regarding qualified shielding, regular misconduct investigations, and ordinary civilian prosecution are strictly 
+inapplicable to the Tactical Response Command (TRC / Terminus Squadron) when deployed under an active emergency mandate. Because their mission parameter is the immediate 
+elimination of existential threats rather than domestic law enforcement, their actions within a designated crisis zone are governed exclusively by the parameters of 
+Title XXXI and direct military oversight.
+
 
 Article 704: Civil Pre-Judgment Orders, Judicial Bond Accountability, and the Proportionality Mandate
 To prevent the courts from being weaponized as instruments of harassment, financial attrition, or disproportionate corporate coercion, all civil pre-judgment orders imposing a 
@@ -1748,7 +1754,8 @@ This protective containment is completely legal provided that absolutely no tech
 Title XXXI: Military Operations, Jurisdictions, and Tactical Exceptions
 =======================================================
 
-Article 3101: Operational Exemptions and Domestic ConstraintsTo ensure planetary readiness and defense capability, the state military and sovereign aerospace forces operate under specialized tactical parameters:
+Article 3101: Operational Exemptions and Domestic Constraints
+To ensure planetary readiness and defense capability, the state military and sovereign forces operate under specialized tactical parameters:
 
 * Exclusionary Zone Bypass: All active military personnel and sovereign vessels are entirely exempt from localized no-go zones, state-owned debris fields (Article 3004), or restricted flight paths when executing active tactical orders or clandestine missions. 
 This exemption is strictly unconstitutional if the operation attempts to pierce, monitor, or violate the civil rights of Martian citizens (Article 2708).
@@ -1821,6 +1828,21 @@ is absolute unless an individual is explicitly empowered via specific, top-tier 
 
 * Absolute Supreme Oversight: Because the highest state leader is chosen directly by the populace, democratic oversight must remain supreme over the military apparatus. The democratically elected supreme official of the state holds the absolute constitutional right to 
 know anything, everything, and all hidden metrics within the military budget. No general, intelligence director, or defense contractor may hide any detail, black project, or classified expense from the supreme leader. Doing so is treason against the public.
+
+Article 3107: he Tactical Response Command (TRC) Operational Status
+The state establishes the Tactical Response Command as a unified, elite paramilitary structure operating at the intersection of internal security and military interdiction:
+
+* The Paramilitary Bipartition: The Command functions as a hybrid law-enforcement and military asset. Administratively and during baseline staging, they operate alongside
+the Habitat Marshal Service; however, due to their specialized kinetic hardware, heavy combat rigging, suppressed weapon systems, and terminal mandate, they sit under the
+direct preview and absolute jurisdiction of the Military Command, thus subject to court-martial.
+
+* Emergency Engagement Absolute: The moment an active emergency is triggered under, the TRC operates under rules of engagement distinct from civilian 
+police forces. They are legally exempted from standard law enforcement protocols, verbal warning requirements, and civilian court review. When deployed to secure 
+life-sustaining infrastructure, their actions are evaluated solely by the Military Command under the metrics of tactical utility and habitat preservation.
+They can also serve as backup for normal police action, should they request it, for boarding actions or high risk scenarios
+
+
+
 
                                                                                 ==============================================================================================================
                                                                                                 TITLE XXXII: LEGISLATIVE OPEN-SOURCE TRACKING AND CODE FREEZE MANDATES
