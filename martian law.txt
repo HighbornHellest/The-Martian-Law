@@ -1412,6 +1412,41 @@ The right to gamble is strictly linked to civic responsibility. Any individual w
 Article 2506: Child Toy Safety Standards
 Toys manufactured or imported for children below the age of 10 must meet absolute safety baselines. They must be entirely free of choking hazards and constructed from high-durability materials to withstand rough handling without breaking into hazardous fragments.
 
+
+Article 2507: Transient Trader Transit Rules and The Secure Lock-Box Mandate
+To maintain localized security while preserving interstellar commerce and cargo transit, the state loosens the absolute capital punishment tier for transient traders,
+long-distance haulers, and transient travelers transiting the Martian zone of influence, subject to strict maritime quarantine parameters:
+
+* The Mandatory Manifest Declaration: Upon entering the Martian Zone of Influence, the master or crew of any incoming vessel must explicitly declare the exact chemical 
+composition, designation, and precise mass of any prohibited or controlled substances, weapons, chemiclas objects etc carried aboard the craft. Hidden, un-manifested, 
+or secret caches of substances are completely ineligible for this transit protocol and are treated as immediate acts of smuggling.
+
+* The list: The list of controlled material is listed in the document: "Schedule I _ Regulated Substances, materials, objects and Age Limits"
+
+* The Secure Container Protocol: All declared controlled substances must be immediately placed inside a physically secured, immovable lock-box or safe container within the 
+ship's interior. Access to this secure container must be restricted exclusively to the primary owner or ship master. 
+
+* The Personal Consumption Ceiling: The total volume of declared controlled substances stored within the ship's secure container must never exceed a mathematically reasonable 
+threshold required for the crew's personal use during their immediate transit window. Mass-scale cargo holds filled with un-authorized substances fail this threshold 
+automatically and face standard prosectuion.
+
+* Usage Restrictions Within Jurisdiction: During the ship and crew’s stay in the Martian Zone of Influence, the controlled substances and materials must not leave the 
+secure container. They must not change ownership, be bartered, or be used by their owner. Loose material, objects, or substances—including active compounds detected within a 
+crew member's bloodstream—are completely ineligible for protection and are subject to standard domestic prosecution.
+
+* The Leakage Penalty and ZOI Lifetime Banishment: If any declared controlled substance escapes the physical custody or ownership of the ship's crew and enters the civilian
+habitat grid—regardless of whether it was sold, bartered, gifted, stolen due to lazy security, or left behind following un-docking—the protective transit protocol is instantly 
+voided:
+  ** Immediate Detection: If the crew is physically present when the breach is discovered, all involved parties shall face immediate arrest and terminal Tier 3 execution via the,
+primary airlock under Article 201.
+  ** Post-Departure Discovery: If the leakage or illegal distribution is discovered after the vessel has broken orbit and departed Martian space, the state shall enter a 
+permanent, un-appealable decree of Lifetime Banishment against the entire crew list and vessel registry. They are completely barred from entering the Martian zone of influence
+for life.
+  ** The Return Trigger: Should any banished crew member or blacklisted vessel ever attempt to cross the orbital baseline and return to Martian territory, they shall be 
+inmediately terminated.
+
+
+
 ===============================================================================
 TITLE XXVI: EXTRA-HABITAT VEHICULAR TRANSIT AND OVERLAND SPORT
 ===============================================================================
