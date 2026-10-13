@@ -29,7 +29,7 @@ standardized physical appearance:
 
  Uniform Matrix: Heavy combat uniforms dyed strictly in deep charcoal or dark gray palettes, constructed from flame-retardant, high-density ballistic fabric.
  
- "They are to be clad in the vissage of death, so no mortal will mistake them for anything other then the executioners of evildoers"
+ "They are to be clad in the visage of death, so no mortal will mistake them for anything other than the executioners of evildoers"
 
 * Footwear standard: 15-eyelet high-lacing armored tactical boots featuring steel shanks and reinforced toe-caps.
 * Protective Gear: Low-profile, high-impact composite knee protectors and articulable elbow shields worn externally over the primary uniform.
@@ -50,7 +50,7 @@ The Tactical Response Command does not operate as a investigative body, a civil 
 failure points caused by human malice.
 
  * The Trigger Condition: The Command may only be deployed under a declared emergency where there is an active, immediate threat to human life or core colony survival.
-This includes (but not limited to) active bomb threats, mass casuality scenarios, or instances where a hostile individual or organized cell barricades themselves inside
+This includes (but not limited to) active bomb threats, mass casualty scenarios, or instances where a hostile individual or organized cell barricades themselves inside
 life-sustaining infrastructure spaces—including, but not limited to, the primary water reclamation grids, atmospheric air filtration chambers, or main reactor cooling loops.
 
  * The Interdiction Mandate: The moment a TRC team crosses the threshold of a tactical crisis zone, their sole, explicit goal is to stop the emergency and eliminate the threat.
@@ -68,7 +68,7 @@ specialized constraints:
 * The Primary Interface: Operators wield specialized, compact, kinetic rifles alongside thigh-mounted semi-automatic pistols.
 
 * The Suppressor Mandate: To ensure operational viability inside enclosed, metal, or concrete habitat corridors, all primary long-guns must be fitted with high-efficiency
-sound suppressors. They are to be issued at least one full 30 round magazine of subsonic, APIT (amrour piercing incendiary tracer), or APT ammo of their choosing for the
+sound suppressors. They are to be issued at least one full 30 round magazine of subsonic, APIT (armour piercing incendiary tracer), or APT ammo of their choosing for the
 instance of the scenario they deploy to should their weapon have the option.
 
 
