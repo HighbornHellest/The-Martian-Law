@@ -80,6 +80,8 @@ Specification Code: [ARIES]
 To ensure absolute lethality against reinforced targets, pressurized environmental suits, and industrial ceramic armor grids, the squadron can utilize, high-cost ballistic 
 weapons platform.
 
+* Primary Intended Application: This platform is engineered strictly for the engagement of heavily armored combatants and hostile elements utilizing hard environmental cover.
+
 * The APFSDS-RP Cartridge: The primary platform utilizes high-caliber (.35 to .40 baseline) Armor-Piercing Fin-Stabilized Discarding Sabot - Rocket Propelled (APFSDS-RP)
 ammunition.
 
