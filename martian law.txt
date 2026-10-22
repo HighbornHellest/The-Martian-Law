@@ -18,7 +18,7 @@ Article 002: Calendar Synchronization
 * All legal timelines, dates, notice periods, and operational durations dictated throughout this entire Constitution are based strictly on the Martian calendar unless a specific statute explicitly defines the measurement in Earth years.
 
 Article 003: The Citizen's Binding Oath and Duty
-* Upon reaching the legal voting age of 30 (or age of 20 for military candidacy alignment), every single citizen must read, fully comprehend, and swear a binding legal oath to the state.
+* Upon reaching the legal voting age of 30 (or age of 20 for military candidacy alignment) earth year, every single citizen must read, fully comprehend, and swear a binding legal oath to the state.
 
 The Good-Faith Mandate: Citizens swear to uphold the Constitution and its code of conduct in good faith to the absolute best of their physical and mental abilities.
 
@@ -541,7 +541,9 @@ constitute an attack on state fidelity.
  * The Prohibition of Structural Interference: Criminal and civil trials are to have the highest standard. No party shall attempt to coerce, blackmail or influence any party
  involved in a trial. Any and all attempts to do so are to be investigated
 
- * The Transparency and Open-Source Transcript Standard: Trials are not to be public as all parties involved have the right and expecation of privacy.
+ * The Transparency and Open-Source Transcript Standard: Trials are not to be public as all parties involved have the right and expecation of privacy. Any party that is not
+ involved in the trial, excluding security personel and clerks are NOT allowed access to proceedings inside the courtroom. This does not mean involved parties are not allowed
+ to talk about to trial outside, unless their freedom of expression rights provided by this constitution is temporarily, for the duration of this trial, courtailed by the judge.
 Transcripts are to be made public later, unless it would jeopardize an ongoing criminal investigation or sapient life.
 
  * The Absolute Anti-Redaction Mandate: Transcripts are never to be redacted due to embarrassment.
