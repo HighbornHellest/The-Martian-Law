@@ -513,14 +513,6 @@ The Scope of Protection: Identity protection under this article extends only to 
 The Activation Standard: Witness protection is not available on preference or convenience. It requires documented, credible, specific threat to the witness's physical safety as a direct consequence of their testimony. The state makes this determination; it is not self-declared by the witness.
 State Accountability: The state assumes full institutional accountability for testimony presented under witness protection. Where protected testimony is later shown to be fabricated, the state bears liability alongside the protected witness. Shielding a lying witness is not a consequence-free act for the state that chose to shield them.
 
-
-Article 512: Double Jeopardy and the State Fidelity Exception (revised)
-
-No person may be tried twice for the same offense following a lawful acquittal. An acquittal is final.
-
-The State Fidelity Exception: For Tier 3 offenses constituting attacks on state sovereignty, collective survival, institutional integrity, or the colony's foundational social contract — an acquittal is not permanently final where one of the following conditions is met: evidence that provably did not exist and could not have been obtained at the time of the original trial subsequently emerges; or the acquittal itself is shown to have been the product of deliberate corruption of the proceeding by the defendant or their associates — including fabricated exculpatory evidence or bribed witnesses. Evidence that was available but not presented by the prosecution does not meet this standard. Prosecution failure closes the case. Defendant interference with the proceeding, or genuinely new evidence that nobody could have had, reopens it.
-The Finality Principle: Where a Tier 3 offense — however grave — does not constitute an attack on state sovereignty, collective survival, or institutional integrity, an acquittal is permanent and absolute. The court determines which category applies where genuine ambiguity exists, on the facts of the specific case, without precedent binding future determinations.
-
 Article 516: The Universal Deputization Mandate
 
 Where the constitutional order itself is under attack — from within the state apparatus, from a rogue military faction, from a corrupt executive, or from any other actor attempting to subvert the foundations of this Constitution by force, fraud, or institutional capture — every full citizen of the Martian colony is automatically and simultaneously deputized to defend it.
