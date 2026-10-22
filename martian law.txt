@@ -531,6 +531,20 @@ The Scope of Deputized Authority: Deputized citizens are authorized to take what
 The Mandatory Post-Action Audit: Every action taken under the deputization mandate is subject to a mandatory forensic audit upon resolution of the constitutional threat. The audit is conducted by the Independent Fiscal Authority and an independent judicial panel jointly, with full public disclosure of findings. Citizens who acted in good faith are protected. Citizens who abused the mandate face the same prosecution as any other Tier 3 offender — the emergency does not create a permanent shield for actions taken during it.
 The Activation Threshold: The deputization mandate does not activate on the basis of political disagreement, electoral dissatisfaction, or policy dispute. It activates only where there is clear, overt, and demonstrable action to subvert the constitutional order by force, institutional capture, or coordinated fraud against the foundations of this Constitution. The threshold is high by design. A high-trust society does not mobilize its citizenry over ordinary political conflict.
 
+Article 517: Right to a fair trial.
+To ensure absolute public trust and protect the core integrity of the judicial system, every Martian citizen possesses an un-breachable right to a rigorous, fair, and
+objective trial governed by strict procedural standards:
+
+* The Inviolable Due Process Standard: Citizens have an inviolable right to a fair trial, with due processes. Any act of trying to curtail, diminish or violate this
+constitute an attack on state fidelity.
+
+ * The Prohibition of Structural Interference: Criminal and civil trials are to have the highest standard. No party shall attempt to coerce, blackmail or influence any party
+ involved in a trial. Any and all attempts to do so are to be investigated
+
+ * The Transparency and Open-Source Transcript Standard: Trials are not to be public as all parties involved have the right and expecation of privacy.
+Transcripts are to be made public later, unless it would jeopardize an ongoing criminal investigation or sapient life.
+
+ * The Absolute Anti-Redaction Mandate: Transcripts are never to be redacted due to embarrassment.
 
 ===============================================================================
 TITLE VI: CORPORATE ACCOUNTABILITY AND ANTI-CORRUPTION
